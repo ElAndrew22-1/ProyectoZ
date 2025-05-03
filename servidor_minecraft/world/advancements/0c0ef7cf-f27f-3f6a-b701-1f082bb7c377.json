@@ -1,0 +1,202 @@
+{
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-03 05:34:10 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-03 05:34:10 +0000"
+    },
+    "done": false
+  },
+  "craemon:main": {
+    "criteria": {
+      "tick": "2025-05-03 05:32:06 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:structures/enter_all_structures": {
+    "criteria": {
+      "in_goliath_honey_fountain": "2025-05-03 05:32:10 +0000",
+      "in_mite_fortress": "2025-05-03 05:32:10 +0000"
+    },
+    "done": false
+  },
+  "craemon:craftable_horse_armor": {
+    "criteria": {
+      "tick": "2025-05-03 05:32:06 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-03 05:34:10 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-03 05:34:10 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-05-03 05:32:06 +0000"
+    },
+    "done": true
+  },
+  "craemon:craftable_saddles": {
+    "criteria": {
+      "tick": "2025-05-03 05:32:06 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-03 05:34:10 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-03 05:34:10 +0000"
+    },
+    "done": false
+  },
+  "betterdeserttemples:root": {
+    "criteria": {
+      "always": "2025-05-03 05:32:06 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/new_player": {
+    "criteria": {
+      "requirement": "2025-05-03 05:32:06 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-03 05:34:10 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-03 05:34:10 +0000"
+    },
+    "done": false
+  },
+  "craemon:craftable_elytra": {
+    "criteria": {
+      "tick": "2025-05-03 05:32:06 +0000"
+    },
+    "done": true
+  },
+  "craemon:craftable_nametag": {
+    "criteria": {
+      "tick": "2025-05-03 05:32:06 +0000"
+    },
+    "done": true
+  },
+  "craemon:crafting": {
+    "criteria": {
+      "tick": "2025-05-03 05:32:06 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/scroll_of_returning": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-03 05:32:10 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-03 05:34:10 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/using/ragnarok": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-03 05:32:10 +0000"
+    },
+    "done": false
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2025-05-03 05:32:06 +0000"
+    },
+    "done": true
+  },
+  "craemon:craftable_enchanted_golden_apple": {
+    "criteria": {
+      "tick": "2025-05-03 05:32:06 +0000"
+    },
+    "done": true
+  },
+  "craemon:craftable_bells": {
+    "criteria": {
+      "tick": "2025-05-03 05:32:06 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:root": {
+    "criteria": {
+      "instant_granted": "2025-05-03 05:32:06 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-03 05:34:10 +0000"
+    },
+    "done": false
+  },
+  "the_bumblezone:wiki": {
+    "criteria": {
+      "instant_granted": "2025-05-03 05:32:06 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/using/trailblazer": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-03 05:32:10 +0000"
+    },
+    "done": false
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2025-05-03 05:32:06 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-03 05:34:10 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-03 05:34:10 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/using/shield": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-03 05:32:10 +0000"
+    },
+    "done": false
+  },
+  "craemon:craftable_tridents": {
+    "criteria": {
+      "tick": "2025-05-03 05:32:06 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3955
+}
