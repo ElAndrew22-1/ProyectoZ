@@ -132,6 +132,7 @@
       "minecraft:dark_forest": "2025-05-04 02:38:55 +0000",
       "minecraft:forest": "2025-05-03 06:28:40 +0000",
       "minecraft:taiga": "2025-05-04 02:42:55 +0000",
+      "minecraft:deep_dark": "2025-05-04 04:28:51 +0000",
       "minecraft:cherry_grove": "2025-05-03 06:30:37 +0000",
       "minecraft:river": "2025-05-03 06:36:21 +0000",
       "minecraft:meadow": "2025-05-03 06:29:03 +0000",
@@ -166,7 +167,10 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "bread": "2025-05-03 06:33:26 +0000"
+      "bread": "2025-05-03 06:33:26 +0000",
+      "cooked_chicken": "2025-05-04 04:32:00 +0000",
+      "baked_potato": "2025-05-04 04:19:53 +0000",
+      "pumpkin_pie": "2025-05-04 04:39:34 +0000"
     },
     "done": false
   },
@@ -365,6 +369,12 @@
   "farmersdelight:recipes/combat/diamond_knife": {
     "criteria": {
       "has_diamond": "2025-05-04 03:19:40 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/root": {
+    "criteria": {
+      "deep_dark": "2025-05-04 04:28:51 +0000"
     },
     "done": true
   },
@@ -854,6 +864,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2025-05-04 04:37:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/waxed_copper_bulb": {
     "criteria": {
       "has_waxed_copper_block": "2025-05-04 04:09:01 +0000"
@@ -971,6 +987,12 @@
   "handcrafted:recipes/misc/spruce_table": {
     "criteria": {
       "has_spruce_table": "2025-05-04 02:39:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-05-04 04:51:06 +0000"
     },
     "done": true
   },
@@ -2142,6 +2164,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2025-05-04 04:56:50 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/oak_dining_bench": {
     "criteria": {
       "has_oak_dining_bench": "2025-05-04 02:20:29 +0000"
@@ -2370,6 +2398,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-05-04 04:56:50 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/birch_counter": {
     "criteria": {
       "has_birch_counter": "2025-05-04 02:51:33 +0000"
@@ -2517,6 +2551,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-05-04 04:02:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-05-04 04:49:31 +0000"
     },
     "done": true
   },
@@ -2703,6 +2743,12 @@
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:zombie": "2025-05-04 03:28:50 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2025-05-04 04:36:52 +0000"
     },
     "done": true
   },
@@ -2931,6 +2977,12 @@
   "minecraft:recipes/redstone/cherry_door": {
     "criteria": {
       "has_planks": "2025-05-04 02:23:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-05-04 04:56:50 +0000"
     },
     "done": true
   },
