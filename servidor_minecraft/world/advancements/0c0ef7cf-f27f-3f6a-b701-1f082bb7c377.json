@@ -3292,9 +3292,21 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/dark_oak_corner_trim": {
+    "criteria": {
+      "has_dark_oak_corner_trim": "2025-05-04 23:08:16 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/wood_cup": {
     "criteria": {
       "has_wood_cup": "2025-05-04 22:47:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-05-04 23:08:16 +0000"
     },
     "done": true
   },
@@ -3304,9 +3316,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-05-04 23:08:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_lapis_lazuli": "2025-05-04 22:54:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_helmet": "2025-05-04 23:25:11 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_side_table": {
+    "criteria": {
+      "has_dark_oak_side_table": "2025-05-04 23:08:16 +0000"
     },
     "done": true
   },
@@ -3316,9 +3346,33 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/cooked_mutton_chops": {
+    "criteria": {
+      "cooked_mutton_chops": "2025-05-04 23:01:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
     "criteria": {
       "has_pink_tulip": "2025-05-04 22:29:17 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/beef_patty_from_campfire_cooking": {
+    "criteria": {
+      "beef_patty": "2025-05-04 23:01:59 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-04 23:01:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_helmet": "2025-05-04 23:25:11 +0000"
     },
     "done": true
   },
@@ -3328,9 +3382,27 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/dark_oak_counter": {
+    "criteria": {
+      "has_dark_oak_counter": "2025-05-04 23:08:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2025-05-04 23:08:16 +0000"
+    },
+    "done": true
+  },
   "mcwfurnitures:recipes/birch": {
     "criteria": {
       "has_wood": "2025-05-04 22:41:42 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_bench": {
+    "criteria": {
+      "has_dark_oak_bench": "2025-05-04 23:08:16 +0000"
     },
     "done": true
   },
@@ -3340,9 +3412,57 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-05-04 23:01:55 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pumpkin_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-04 23:01:55 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_fancy_bed": {
+    "criteria": {
+      "has_dark_oak_fancy_bed": "2025-05-04 23:08:16 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_table": {
+    "criteria": {
+      "has_dark_oak_table": "2025-05-04 23:08:16 +0000"
+    },
+    "done": true
+  },
   "mcwdoors:recipes/birch": {
     "criteria": {
       "has_wood": "2025-05-04 22:41:42 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_mutton_chops_from_smoking": {
+    "criteria": {
+      "cooked_mutton_chops": "2025-05-04 23:01:53 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_drawer": {
+    "criteria": {
+      "has_dark_oak_drawer": "2025-05-04 23:08:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-05-04 23:08:16 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_nightstand": {
+    "criteria": {
+      "has_dark_oak_nightstand": "2025-05-04 23:08:16 +0000"
     },
     "done": true
   },
@@ -3352,15 +3472,135 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/dark_oak_couch": {
+    "criteria": {
+      "has_dark_oak_couch": "2025-05-04 23:08:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-05-04 23:08:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2025-05-04 23:08:16 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_shelf": {
+    "criteria": {
+      "has_dark_oak_shelf": "2025-05-04 23:08:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
     "criteria": {
       "has_white_tulip": "2025-05-04 22:31:04 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2025-05-04 23:08:16 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_chair": {
+    "criteria": {
+      "has_dark_oak_chair": "2025-05-04 23:08:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2025-05-04 23:08:16 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_dining_bench": {
+    "criteria": {
+      "has_dark_oak_dining_bench": "2025-05-04 23:08:16 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/spruce_cabinet": {
+    "criteria": {
+      "has_spruce_trapdoor": "2025-05-04 23:10:54 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_monastery": {
+    "criteria": {
+      "location0": "2025-05-04 23:01:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-05-04 23:01:55 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/stove": {
+    "criteria": {
+      "has_campfire": "2025-05-04 23:23:39 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/oak_cabinet": {
+    "criteria": {
+      "has_oak_trapdoor": "2025-05-04 23:17:02 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/beef_patty_from_smoking": {
+    "criteria": {
+      "beef_patty": "2025-05-04 23:01:59 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/beef_patty": {
+    "criteria": {
+      "beef_patty": "2025-05-04 23:01:59 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/calcite_corner_trim": {
     "criteria": {
       "has_calcite_corner_trim": "2025-05-04 23:00:25 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_mutton_chops_from_campfire_cooking": {
+    "criteria": {
+      "cooked_mutton_chops": "2025-05-04 23:01:53 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_desk": {
+    "criteria": {
+      "has_dark_oak_desk": "2025-05-04 23:08:16 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_cupboard": {
+    "criteria": {
+      "has_dark_oak_cupboard": "2025-05-04 23:08:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-05-04 23:01:55 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "flint_knife": "2025-05-04 23:01:52 +0000"
     },
     "done": true
   },
@@ -3388,6 +3628,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2025-05-04 23:08:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/pink_dye_from_peony": {
     "criteria": {
       "has_peony": "2025-05-04 22:29:06 +0000"
@@ -3403,6 +3649,12 @@
   "handcrafted:recipes/misc/wood_plate": {
     "criteria": {
       "has_wood_plate": "2025-05-04 22:47:07 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_pillar_trim": {
+    "criteria": {
+      "has_dark_oak_pillar_trim": "2025-05-04 23:08:16 +0000"
     },
     "done": true
   },

@@ -123,6 +123,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:old_growth_pine_taiga": "2025-05-04 03:23:12 +0000",
+      "minecraft:dark_forest": "2025-05-04 23:15:05 +0000",
       "minecraft:forest": "2025-05-04 02:18:24 +0000",
       "minecraft:deep_dark": "2025-05-04 04:49:15 +0000",
       "minecraft:cherry_grove": "2025-05-04 02:18:08 +0000",
@@ -2523,6 +2524,42 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/mushroom_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-04 23:26:22 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-04 23:05:30 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/stuffed_pumpkin_block": {
+    "criteria": {
+      "has_pumpkin": "2025-05-04 23:13:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-05-04 23:03:51 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/mushroom_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-04 23:26:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2025-05-04 23:26:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
       "has_gold_nugget": "2025-05-04 22:59:36 +0000"
@@ -2535,9 +2572,39 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/vegetable_noodles": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-04 23:05:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2025-05-04 23:13:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2025-05-04 22:59:36 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pumpkin_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-04 23:13:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2025-05-04 23:03:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2025-05-04 23:13:11 +0000"
     },
     "done": true
   },
@@ -2550,6 +2617,30 @@
   "dungeons_arise:find_monastery": {
     "criteria": {
       "location0": "2025-05-04 22:58:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-05-04 23:05:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-05-04 23:03:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_brown_mushroom": "2025-05-04 23:26:22 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-04 23:05:30 +0000"
     },
     "done": true
   },
