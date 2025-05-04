@@ -959,3 +959,34 @@ com.google.gson.JsonParseException: Not a JSON object: "deeperdarker:bloom_plank
 [04:58:22] [Server thread/INFO]: El_Andrew22 teleported to -733.5 12.0 -676.5 minecraft:overworld
 [04:59:28] [Server thread/INFO]: [El_Andrew22: Teleported Akalixy to El_Andrew22]
 [05:00:27] [Server thread/INFO]: minecraft:glow_squid
+[05:02:07] [Server thread/ERROR]: Caught unhandled exception : [INSTANCE] java.lang.NullPointerException: Cannot invoke "snownee.jade.mixin.AbstractFurnaceBlockEntityAccess.getCookingProgress()" because "access" is null
+[05:02:07] [Server thread/ERROR]: See JadeErrorOutput.txt for more information
+[05:02:07] [Server thread/ERROR]: 
+java.lang.NullPointerException: Cannot invoke "snownee.jade.mixin.AbstractFurnaceBlockEntityAccess.getCookingProgress()" because "access" is null
+	at knot/snownee.jade.addon.vanilla.FurnaceProvider.streamData(FurnaceProvider.java:44) ~[Jade-1.21.1-Fabric-15.10.0.jar:?]
+	at knot/snownee.jade.addon.vanilla.FurnaceProvider.streamData(FurnaceProvider.java:21) ~[Jade-1.21.1-Fabric-15.10.0.jar:?]
+	at knot/snownee.jade.api.StreamServerDataProvider.appendServerData(StreamServerDataProvider.java:16) ~[Jade-1.21.1-Fabric-15.10.0.jar:?]
+	at knot/snownee.jade.impl.BlockAccessorImpl.lambda$handleRequest$0(BlockAccessorImpl.java:76) ~[Jade-1.21.1-Fabric-15.10.0.jar:?]
+	at knot/net.minecraft.class_3738.run(class_3738.java:18) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1255.method_18859(class_1255.java:162) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4093.method_18859(class_4093.java:23) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:864) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:173) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1255.method_16075(class_1255.java:136) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:846) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:840) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1255.method_18857(class_1255.java:145) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_18857(MinecraftServer.java:810) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:815) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:702) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:281) ~[server-intermediary.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[05:02:49] [Server thread/INFO]: minecraft:glow_squid
+[05:02:56] [Server thread/INFO]: El_Andrew22 teleported to -426.5 69.0 -326.5 minecraft:overworld
+[05:03:00] [Server thread/INFO]: [El_Andrew22: Teleported Akalixy to El_Andrew22]
+[05:03:42] [Server thread/INFO]: El_Andrew22 teleported to -733.5 12.0 -676.5 minecraft:overworld
+[05:04:02] [Server thread/INFO]: El_Andrew22 teleported to -708.0 137.0 -685.0 minecraft:overworld
+[05:04:26] [Server thread/INFO]: El_Andrew22 teleported to -742.0 140.0 -678.0 minecraft:overworld
+[05:04:42] [Server thread/INFO]: [El_Andrew22: Teleported Akalixy to El_Andrew22]
+[05:05:37] [Server thread/INFO]: El_Andrew22 teleported to -426.5 69.0 -326.5 minecraft:overworld
+[05:05:42] [Server thread/INFO]: [El_Andrew22: Teleported Akalixy to El_Andrew22]
