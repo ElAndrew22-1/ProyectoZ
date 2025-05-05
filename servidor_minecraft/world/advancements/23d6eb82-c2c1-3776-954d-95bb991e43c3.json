@@ -136,9 +136,10 @@
   },
   "incendium:technical/using/shield": {
     "criteria": {
+      "requirement": "2025-05-05 00:16:24 +0000",
       "log_spam_fixer": "2025-05-04 02:18:08 +0000"
     },
-    "done": false
+    "done": true
   },
   "deeperdarker:recipes/transportation/echo_boat": {
     "criteria": {
@@ -796,7 +797,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "bread": "2025-05-04 02:27:49 +0000"
+      "bread": "2025-05-04 02:27:49 +0000",
+      "cooked_beef": "2025-05-05 00:15:08 +0000"
     },
     "done": false
   },
@@ -2531,6 +2533,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/dog_food": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-05 00:15:00 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/mushroom_rice": {
     "criteria": {
       "has_any_ingredient": "2025-05-04 23:26:22 +0000"
@@ -2852,6 +2860,12 @@
   "minecraft:recipes/redstone/spruce_fence_gate": {
     "criteria": {
       "has_planks": "2025-05-04 23:32:02 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/organic_compost_from_rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2025-05-05 00:15:00 +0000"
     },
     "done": true
   },
