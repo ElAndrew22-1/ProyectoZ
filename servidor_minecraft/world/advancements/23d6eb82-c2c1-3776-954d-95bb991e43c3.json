@@ -125,21 +125,25 @@
       "minecraft:old_growth_pine_taiga": "2025-05-04 03:23:12 +0000",
       "minecraft:dark_forest": "2025-05-04 23:15:05 +0000",
       "minecraft:forest": "2025-05-04 02:18:24 +0000",
+      "minecraft:river": "2025-05-04 02:18:35 +0000",
+      "minecraft:snowy_plains": "2025-05-05 00:29:17 +0000",
+      "minecraft:lush_caves": "2025-05-04 22:45:16 +0000",
+      "minecraft:snowy_taiga": "2025-05-05 00:29:29 +0000",
+      "minecraft:frozen_ocean": "2025-05-05 00:33:39 +0000",
+      "minecraft:frozen_river": "2025-05-05 00:31:06 +0000",
       "minecraft:deep_dark": "2025-05-04 04:49:15 +0000",
       "minecraft:cherry_grove": "2025-05-04 02:18:08 +0000",
-      "minecraft:river": "2025-05-04 02:18:35 +0000",
       "minecraft:meadow": "2025-05-04 02:29:35 +0000",
-      "minecraft:lush_caves": "2025-05-04 22:45:16 +0000",
-      "minecraft:old_growth_spruce_taiga": "2025-05-04 22:36:28 +0000"
+      "minecraft:old_growth_spruce_taiga": "2025-05-04 22:36:28 +0000",
+      "minecraft:snowy_beach": "2025-05-05 00:31:55 +0000"
     },
     "done": false
   },
   "incendium:technical/using/shield": {
     "criteria": {
-      "requirement": "2025-05-05 00:16:24 +0000",
       "log_spam_fixer": "2025-05-04 02:18:08 +0000"
     },
-    "done": true
+    "done": false
   },
   "deeperdarker:recipes/transportation/echo_boat": {
     "criteria": {
@@ -1339,6 +1343,7 @@
   "minecraft:husbandry/whole_pack": {
     "criteria": {
       "minecraft:woods": "2025-05-04 03:20:24 +0000",
+      "minecraft:pale": "2025-05-05 00:20:56 +0000",
       "minecraft:black": "2025-05-04 03:26:39 +0000"
     },
     "done": false
@@ -2551,6 +2556,12 @@
     },
     "done": true
   },
+  "nova_structures:adventure/find_shrine": {
+    "criteria": {
+      "shrine_combat": "2025-05-05 00:29:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/tuff_bricks_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-05-04 23:35:37 +0000"
@@ -2893,6 +2904,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-05-05 00:21:57 +0000"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/bamboo": {
+    "criteria": {
+      "has_wood": "2025-05-05 00:21:57 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/spruce_cupboard": {
     "criteria": {
       "has_spruce_cupboard": "2025-05-04 23:32:02 +0000"
@@ -2911,6 +2934,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2025-05-05 00:21:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2025-05-04 23:32:02 +0000"
@@ -2920,6 +2949,12 @@
   "handcrafted:recipes/misc/spruce_corner_trim": {
     "criteria": {
       "has_spruce_corner_trim": "2025-05-04 23:32:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-05-05 00:21:57 +0000"
     },
     "done": true
   },

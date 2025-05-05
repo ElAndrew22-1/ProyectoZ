@@ -127,3 +127,114 @@
 [00:07:42] [Server thread/INFO]: El_Andrew22 teleported to -855.0 68.0 1787.0 minecraft:overworld
 [00:10:51] [Server thread/INFO]: El_Andrew22 lost connection: Disconnected
 [00:10:51] [Server thread/INFO]: El_Andrew22 left the game
+[00:22:36] [Server thread/INFO]: El_Andrew22[/100.99.232.91:51693] logged in with entity id 56040 at (-1125.4369114815404, 48.0, 1689.487500011921)
+[00:22:36] [Server thread/INFO]: Reading config values from file.
+[00:22:36] [Server thread/INFO]: El_Andrew22 joined the game
+[00:22:36] [Server thread/INFO]: Sending item configs to client
+[00:22:58] [Server thread/INFO]: El_Andrew22 teleported to -1047.0 64.0 1578.0 minecraft:overworld
+[00:23:26] [Server thread/INFO]: El_Andrew22 teleported to -536.0 64.0 1776.0 minecraft:overworld
+[00:26:52] [Server thread/INFO]: El_Andrew22 has made the advancement [A Major Trial Of Strengh]
+[00:26:57] [Server thread/INFO]: minecraft:drowned
+[00:27:22] [Server thread/INFO]: El_Andrew22 teleported to -429.0 85.0 -990.0 minecraft:overworld
+[00:28:05] [Server thread/INFO]: El_Andrew22 teleported to -480.0 84.0 -1121.0 minecraft:overworld
+[00:28:10] [Server thread/INFO]: El_Andrew22 has made the advancement [Safe Haven]
+[00:28:58] [Server thread/INFO]: El_Andrew22 teleported to -339.0 115.0 -1196.0 minecraft:overworld
+[00:29:32] [Server thread/INFO]: Akalixy has made the advancement [A Major Trial Of Strengh]
+[00:29:45] [Server thread/INFO]: El_Andrew22 teleported to -446.0 121.0 -1312.0 minecraft:overworld
+[00:30:30] [Server thread/INFO]: El_Andrew22 teleported to -260.0 68.0 -963.0 minecraft:overworld
+[00:30:39] [Worker-Main-2/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_1628['Spider'/63379, l='ServerLevel[world]', x=66.30, y=1.10, z=1126.28] as it would cause deadlock
+[00:30:43] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_1628['Spider'/63479, l='ServerLevel[world]', x=66.30, y=1.10, z=1126.28] as it would cause deadlock
+[00:30:54] [Server thread/INFO]: El_Andrew22 teleported to 834.0 109.0 -1054.0 minecraft:overworld
+[00:31:22] [Server thread/INFO]: El_Andrew22 teleported to 839.0 144.0 -1159.0 minecraft:overworld
+[00:31:38] [Server thread/INFO]: minecraft:sheep
+[00:31:50] [Server thread/INFO]: El_Andrew22 teleported to 903.0 116.0 -1082.0 minecraft:overworld
+[00:33:13] [Server thread/INFO]: El_Andrew22 teleported to 692.0 67.0 -1166.0 minecraft:overworld
+[00:34:40] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[00:34:40] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[00:34:51] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[00:34:51] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[00:34:51] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[00:34:59] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[00:34:59] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[00:35:14] [Server thread/INFO]: El_Andrew22 teleported to 579.0 64.0 -1463.0 minecraft:overworld
+[00:38:01] [Server thread/INFO]: El_Andrew22 teleported to 574.0 73.0 -1703.0 minecraft:overworld
+[00:38:28] [Server thread/INFO]: El_Andrew22 teleported to -821.0 197.0 -318.0 minecraft:overworld
+[00:38:31] [Server thread/INFO]: El_Andrew22 teleported to -798.0 194.0 -332.0 minecraft:overworld
+[00:39:22] [Server thread/INFO]: El_Andrew22 teleported to -869.0 192.0 -469.0 minecraft:overworld
+[00:39:42] [Server thread/INFO]: El_Andrew22 has made the advancement [I was here, i lived, i..]
+[00:40:17] [Server thread/INFO]: El_Andrew22 teleported to -1042.0 144.0 -466.0 minecraft:overworld
+[00:40:47] [Server thread/INFO]: El_Andrew22 teleported to -1194.0 123.0 -426.0 minecraft:overworld
+[00:40:47] [Worker-Main-1/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls/no_corners -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[00:40:47] [Worker-Main-1/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls/no_corners -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[00:40:47] [Worker-Main-1/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls/no_corners -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[00:40:47] [Worker-Main-1/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[00:40:47] [Worker-Main-1/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[00:40:47] [Worker-Main-1/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[00:40:47] [Worker-Main-1/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[00:40:47] [Worker-Main-1/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[00:40:47] [Worker-Main-1/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[00:40:47] [Worker-Main-1/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[00:40:47] [Worker-Main-1/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[00:40:47] [Worker-Main-1/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[00:40:47] [Worker-Main-1/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[00:40:47] [Worker-Main-1/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[00:40:47] [Worker-Main-1/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[00:40:47] [Worker-Main-1/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[00:40:48] [Worker-Main-1/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[00:40:48] [Worker-Main-1/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[00:40:48] [Worker-Main-1/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls/no_corners -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[00:40:48] [Worker-Main-1/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[00:40:48] [Worker-Main-1/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls/no_corners -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[00:40:48] [Worker-Main-1/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[00:40:48] [Worker-Main-1/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[00:40:48] [Worker-Main-1/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls/no_corners -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[00:40:48] [Worker-Main-1/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[00:40:48] [Worker-Main-1/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls/no_corners -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[00:40:48] [Worker-Main-1/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[00:40:48] [Worker-Main-1/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[00:40:48] [Worker-Main-1/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[00:40:48] [Worker-Main-1/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls/no_corners -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[00:40:48] [Worker-Main-1/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls/no_corners -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[00:40:48] [Worker-Main-1/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[00:40:48] [Worker-Main-1/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls/no_corners -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[00:40:48] [Worker-Main-1/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[00:40:48] [Worker-Main-1/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[00:40:48] [Worker-Main-1/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[00:40:48] [Worker-Main-1/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[00:40:48] [Worker-Main-1/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[00:40:48] [Worker-Main-1/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[00:40:48] [Worker-Main-1/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls/no_corners -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[00:40:49] [Worker-Main-1/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls/no_corners -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[00:40:49] [Worker-Main-1/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls/no_corners -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[00:40:49] [Worker-Main-1/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls/no_corners -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[00:40:49] [Worker-Main-1/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls/no_corners -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[00:41:25] [Server thread/INFO]: El_Andrew22 teleported to -1320.0 105.0 -424.0 minecraft:overworld
+[00:41:50] [Server thread/INFO]: El_Andrew22 teleported to -1009.0 138.0 -631.0 minecraft:overworld
+[00:42:04] [Server thread/INFO]: El_Andrew22 teleported to -1445.0 115.0 -326.0 minecraft:overworld
+[00:42:31] [Server thread/INFO]: El_Andrew22 teleported to -1352.0 134.0 -333.0 minecraft:overworld
+[00:42:39] [Server thread/INFO]: El_Andrew22 teleported to -1383.0 147.0 -282.0 minecraft:overworld
+[00:43:27] [Server thread/INFO]: El_Andrew22 teleported to -1345.0 152.0 -284.0 minecraft:overworld
+[00:44:53] [Server thread/INFO]: El_Andrew22 teleported to -1153.0 177.0 -259.0 minecraft:overworld
+[00:45:07] [Server thread/INFO]: El_Andrew22 teleported to -1499.0 122.0 -180.0 minecraft:overworld
+[00:45:15] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[00:45:15] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[00:45:17] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[00:45:17] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[00:45:17] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[00:45:17] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[00:45:19] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[00:45:19] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[00:45:19] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[00:45:19] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[00:45:19] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[00:45:19] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[00:45:19] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[00:45:19] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[00:45:25] [Server thread/INFO]: El_Andrew22 teleported to -1623.0 96.0 -220.0 minecraft:overworld
+[00:45:35] [Server thread/INFO]: El_Andrew22 teleported to -1548.0 122.0 -47.0 minecraft:overworld
+[00:45:43] [Server thread/INFO]: El_Andrew22 teleported to -1641.0 73.0 -38.0 minecraft:overworld
+[00:46:00] [Server thread/INFO]: El_Andrew22 teleported to -1604.0 89.0 90.0 minecraft:overworld
+[00:46:15] [Server thread/INFO]: El_Andrew22 teleported to -1538.0 136.0 195.0 minecraft:overworld
+[00:46:38] [Server thread/INFO]: El_Andrew22 teleported to -1427.0 143.0 225.0 minecraft:overworld
+[00:46:52] [Server thread/INFO]: El_Andrew22 teleported to -1677.0 47.0 258.0 minecraft:overworld
+[00:46:59] [Server thread/INFO]: El_Andrew22 teleported to -1609.0 68.0 270.0 minecraft:overworld
