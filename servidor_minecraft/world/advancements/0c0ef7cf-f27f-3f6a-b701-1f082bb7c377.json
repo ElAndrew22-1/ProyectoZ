@@ -179,6 +179,7 @@
     "criteria": {
       "bread": "2025-05-03 06:33:26 +0000",
       "cooked_chicken": "2025-05-04 04:32:00 +0000",
+      "cooked_beef": "2025-05-05 01:06:09 +0000",
       "baked_potato": "2025-05-04 04:19:53 +0000",
       "pumpkin_pie": "2025-05-04 04:39:34 +0000"
     },
@@ -900,7 +901,8 @@
   },
   "betterdungeons:all_dungeons": {
     "criteria": {
-      "in_better_spider_dungeon": "2025-05-04 02:25:42 +0000"
+      "in_better_spider_dungeon": "2025-05-04 02:25:42 +0000",
+      "in_better_skeleton_dungeon": "2025-05-05 01:17:32 +0000"
     },
     "done": false
   },
@@ -2538,6 +2540,7 @@
   },
   "minecraft:husbandry/whole_pack": {
     "criteria": {
+      "minecraft:chestnut": "2025-05-05 01:20:20 +0000",
       "minecraft:black": "2025-05-04 03:25:21 +0000"
     },
     "done": false
@@ -2581,10 +2584,13 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-05-04 03:29:36 +0000",
+      "minecraft:cave_spider": "2025-05-05 01:10:10 +0000",
       "minecraft:skeleton": "2025-05-04 04:09:54 +0000",
       "minecraft:spider": "2025-05-04 04:07:09 +0000",
+      "minecraft:wither_skeleton": "2025-05-05 01:52:40 +0000",
       "minecraft:zombie": "2025-05-04 03:28:50 +0000",
-      "minecraft:creeper": "2025-05-04 03:33:09 +0000"
+      "minecraft:creeper": "2025-05-04 03:33:09 +0000",
+      "minecraft:husk": "2025-05-05 01:26:34 +0000"
     },
     "done": false
   },
@@ -3866,9 +3872,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mangrove_planks": {
+    "criteria": {
+      "has_logs": "2025-05-05 01:41:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_deepslate_wall": {
+    "criteria": {
+      "has_polished_deepslate": "2025-05-05 01:09:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_bed": {
     "criteria": {
       "has_brown_wool": "2025-05-05 00:40:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_bricks": {
+    "criteria": {
+      "has_polished_deepslate": "2025-05-05 01:09:54 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/diorite": {
+    "criteria": {
+      "has_wood": "2025-05-05 01:37:05 +0000"
     },
     "done": true
   },
@@ -3878,9 +3908,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-05-05 01:32:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab": {
+    "criteria": {
+      "has_polished_deepslate": "2025-05-05 01:09:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_carpet": {
     "criteria": {
       "has_brown_wool": "2025-05-05 00:40:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:basalt_deltas": "2025-05-05 01:49:39 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/polished_diorite": {
+    "criteria": {
+      "has_diorite": "2025-05-05 01:37:05 +0000"
+    },
+    "done": true
+  },
+  "incendium:root": {
+    "criteria": {
+      "requirement": "2025-05-05 01:49:39 +0000"
     },
     "done": true
   },
@@ -3889,6 +3949,12 @@
       "killed_iceologer": "2025-05-05 00:39:42 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/diorite_slab": {
+    "criteria": {
+      "has_diorite": "2025-05-05 01:37:05 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/glass": {
     "criteria": {
@@ -3899,6 +3965,24 @@
   "handcrafted:recipes/misc/golden_thick_pot": {
     "criteria": {
       "has_golden_thick_pot": "2025-05-05 00:29:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-05-05 01:09:54 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/diorite_pillar_trim": {
+    "criteria": {
+      "has_diorite_pillar_trim": "2025-05-05 01:37:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-05-05 01:49:39 +0000"
     },
     "done": true
   },
@@ -3914,9 +3998,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-05-05 01:09:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs": {
+    "criteria": {
+      "has_dark_prismarine": "2025-05-05 01:32:49 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/golden_thin_pot": {
     "criteria": {
       "has_golden_thin_pot": "2025-05-05 00:29:15 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/dark_prismarine": {
+    "criteria": {
+      "has_wood": "2025-05-05 01:32:49 +0000"
     },
     "done": true
   },
@@ -3926,9 +4028,57 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-05-05 01:16:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_bricks_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-05-05 01:09:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2025-05-05 01:43:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall": {
+    "criteria": {
+      "has_diorite": "2025-05-05 01:37:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2025-05-05 00:23:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab": {
+    "criteria": {
+      "has_dark_prismarine": "2025-05-05 01:32:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-05-05 01:09:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-05-05 01:37:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-05-05 01:15:24 +0000"
     },
     "done": true
   },
@@ -3938,9 +4088,21 @@
     },
     "done": true
   },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-05-05 01:05:17 +0000"
+    },
+    "done": true
+  },
   "friendsandfoes:adventure/kill_iceologer": {
     "criteria": {
       "killed_iceologer": "2025-05-05 00:39:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-05-05 01:32:49 +0000"
     },
     "done": true
   },
@@ -3950,15 +4112,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-05-05 01:09:54 +0000"
+    },
+    "done": true
+  },
   "simplyswords:simplyswords": {
     "criteria": {
       "requirement": "2025-05-05 00:23:41 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2025-05-05 01:51:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/glistering_melon_slice": {
     "criteria": {
       "has_melon": "2025-05-05 00:28:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_stairs_from_waxed_cut_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_cut_copper": "2025-05-05 01:08:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_deepslate_wall_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-05-05 01:09:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-05-05 01:37:05 +0000"
     },
     "done": true
   },
@@ -3974,15 +4166,87 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-05-05 01:49:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-05-05 01:09:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-05-05 01:53:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:wolf": "2025-05-05 01:05:17 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-05-05 01:37:05 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_bathhouse": {
+    "criteria": {
+      "location0": "2025-05-05 01:21:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_slab": {
+    "criteria": {
+      "has_waxed_cut_copper": "2025-05-05 01:08:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/coast_armor_trim_smithing_template": {
     "criteria": {
       "has_coast_armor_trim_smithing_template": "2025-05-05 00:23:42 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_slab_from_waxed_cut_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_cut_copper": "2025-05-05 01:08:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite": {
+    "criteria": {
+      "has_stone": "2025-05-05 01:37:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-05-05 01:02:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/melon": {
     "criteria": {
       "has_melon": "2025-05-05 00:28:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-05-05 01:09:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-05-05 01:16:43 +0000"
     },
     "done": true
   },
@@ -3998,15 +4262,153 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-05-05 01:51:44 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/golden_wide_pot": {
     "criteria": {
       "has_golden_wide_pot": "2025-05-05 00:29:15 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-05-05 01:43:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2025-05-05 01:15:24 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:skeleton_dungeon": {
+    "criteria": {
+      "in_better_skeleton_dungeon": "2025-05-05 01:17:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-05-05 01:32:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-05-05 01:37:05 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/diorite_corner_trim": {
+    "criteria": {
+      "has_diorite_corner_trim": "2025-05-05 01:37:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-05-05 01:09:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-05-05 01:32:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-05-05 01:37:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-05-05 01:09:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-05-05 01:37:05 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/fancy_painting": {
+    "criteria": {
+      "has_fancy_painting": "2025-05-05 01:18:48 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/brown_cushion": {
     "criteria": {
       "has_brown_cushion": "2025-05-05 00:40:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-05-05 01:02:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-05-05 01:09:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "in_fortress": "2025-05-05 01:53:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs": {
+    "criteria": {
+      "has_diorite": "2025-05-05 01:37:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_chiseled_copper_from_waxed_cut_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_cut_copper": "2025-05-05 01:08:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-05-05 01:15:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs": {
+    "criteria": {
+      "has_polished_deepslate": "2025-05-05 01:09:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-05-05 01:53:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2025-05-05 01:51:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_stairs": {
+    "criteria": {
+      "has_waxed_cut_copper": "2025-05-05 01:08:24 +0000"
     },
     "done": true
   },

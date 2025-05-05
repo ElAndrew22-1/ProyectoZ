@@ -122,6 +122,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:beach": "2025-05-05 01:06:02 +0000",
       "minecraft:old_growth_pine_taiga": "2025-05-04 03:23:12 +0000",
       "minecraft:dark_forest": "2025-05-04 23:15:05 +0000",
       "minecraft:forest": "2025-05-04 02:18:24 +0000",
@@ -801,8 +802,11 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-05-05 01:27:55 +0000",
       "bread": "2025-05-04 02:27:49 +0000",
-      "cooked_beef": "2025-05-05 00:15:08 +0000"
+      "cooked_mutton": "2025-05-05 01:10:40 +0000",
+      "cooked_beef": "2025-05-05 00:15:08 +0000",
+      "beef": "2025-05-05 01:42:03 +0000"
     },
     "done": false
   },
@@ -1758,9 +1762,11 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:cave_spider": "2025-05-05 01:09:58 +0000",
       "minecraft:skeleton": "2025-05-04 04:10:42 +0000",
       "minecraft:spider": "2025-05-04 04:10:46 +0000",
-      "minecraft:zombie": "2025-05-04 23:28:23 +0000"
+      "minecraft:zombie": "2025-05-04 23:28:23 +0000",
+      "minecraft:husk": "2025-05-05 01:26:50 +0000"
     },
     "done": false
   },
@@ -2562,15 +2568,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mangrove_planks": {
+    "criteria": {
+      "has_logs": "2025-05-05 01:27:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/tuff_bricks_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-05-04 23:35:37 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_deepslate_wall": {
+    "criteria": {
+      "has_polished_deepslate": "2025-05-05 01:07:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stone_brick_wall": {
     "criteria": {
       "has_stone_bricks": "2025-05-04 23:36:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_bricks": {
+    "criteria": {
+      "has_polished_deepslate": "2025-05-05 01:07:56 +0000"
     },
     "done": true
   },
@@ -2589,6 +2613,30 @@
   "minecraft:recipes/misc/book": {
     "criteria": {
       "has_paper": "2025-05-04 23:03:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab": {
+    "criteria": {
+      "has_polished_deepslate": "2025-05-05 01:07:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:basalt_deltas": "2025-05-05 01:49:38 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_axe": "2025-05-05 01:56:26 +0000"
+    },
+    "done": true
+  },
+  "incendium:root": {
+    "criteria": {
+      "requirement": "2025-05-05 01:49:30 +0000"
     },
     "done": true
   },
@@ -2616,9 +2664,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-05-05 01:07:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bowl": {
     "criteria": {
       "has_brown_mushroom": "2025-05-04 23:26:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-05-05 01:49:30 +0000"
     },
     "done": true
   },
@@ -2640,15 +2700,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_axe": "2025-05-05 01:56:26 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/get_fd_seed": {
     "criteria": {
       "tomato_seeds": "2025-05-04 22:58:55 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-05-05 01:07:56 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/spruce_table": {
     "criteria": {
       "has_spruce_table": "2025-05-04 23:32:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs": {
+    "criteria": {
+      "has_dark_prismarine": "2025-05-05 01:25:05 +0000"
     },
     "done": true
   },
@@ -2661,6 +2739,12 @@
   "minecraft:recipes/misc/pumpkin_seeds": {
     "criteria": {
       "has_pumpkin": "2025-05-04 23:13:11 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/dark_prismarine": {
+    "criteria": {
+      "has_wood": "2025-05-05 01:25:05 +0000"
     },
     "done": true
   },
@@ -2700,6 +2784,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_bricks_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-05-05 01:07:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/black_dye_from_wither_rose": {
     "criteria": {
       "has_wither_rose": "2025-05-04 23:03:49 +0000"
@@ -2736,6 +2826,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab": {
+    "criteria": {
+      "has_dark_prismarine": "2025-05-05 01:25:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-05-05 01:07:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-05-04 23:36:22 +0000"
@@ -2760,9 +2862,21 @@
     },
     "done": true
   },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-05-05 01:04:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
     "criteria": {
       "has_blue_orchid": "2025-05-04 22:59:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-05-05 01:25:05 +0000"
     },
     "done": true
   },
@@ -2772,9 +2886,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-05-05 01:07:56 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/spruce_nightstand": {
     "criteria": {
       "has_spruce_nightstand": "2025-05-04 23:32:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_stairs_from_waxed_cut_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_cut_copper": "2025-05-05 01:08:24 +0000"
     },
     "done": true
   },
@@ -2784,9 +2910,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/roasted_mutton_chops": {
+    "criteria": {
+      "has_mutton": "2025-05-05 01:03:25 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/spruce_bench": {
     "criteria": {
       "has_spruce_bench": "2025-05-04 23:32:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_deepslate_wall_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-05-05 01:07:56 +0000"
     },
     "done": true
   },
@@ -2814,6 +2952,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-05-05 01:08:43 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/spruce_pillar_trim": {
     "criteria": {
       "has_spruce_pillar_trim": "2025-05-04 23:32:02 +0000"
@@ -2832,6 +2976,36 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-05-05 01:49:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-05-05 01:07:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:wolf": "2025-05-05 01:04:25 +0000"
+    },
+    "done": false
+  },
+  "dungeons_arise:find_bathhouse": {
+    "criteria": {
+      "location0": "2025-05-05 01:21:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_slab": {
+    "criteria": {
+      "has_waxed_cut_copper": "2025-05-05 01:08:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/tuff_wall_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-05-04 23:35:37 +0000"
@@ -2841,6 +3015,12 @@
   "handcrafted:recipes/misc/spruce_drawer": {
     "criteria": {
       "has_spruce_drawer": "2025-05-04 23:32:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_slab_from_waxed_cut_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_cut_copper": "2025-05-05 01:08:24 +0000"
     },
     "done": true
   },
@@ -2874,6 +3054,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-05-05 01:07:56 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/building_blocks/organic_compost_from_rotten_flesh": {
     "criteria": {
       "has_rotten_flesh": "2025-05-05 00:15:00 +0000"
@@ -2898,6 +3084,18 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/shepherds_pie_block": {
+    "criteria": {
+      "has_cooked_mutton": "2025-05-05 01:03:25 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/mutton_wrap": {
+    "criteria": {
+      "has_mutton": "2025-05-05 01:03:25 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/spruce_chair": {
     "criteria": {
       "has_spruce_chair": "2025-05-04 23:32:02 +0000"
@@ -2919,6 +3117,24 @@
   "handcrafted:recipes/misc/spruce_cupboard": {
     "criteria": {
       "has_spruce_cupboard": "2025-05-04 23:32:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-05-05 01:07:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-05-05 01:25:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-05-05 01:07:56 +0000"
     },
     "done": true
   },
@@ -2952,6 +3168,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-05-05 01:07:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "in_fortress": "2025-05-05 01:53:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/scaffolding": {
     "criteria": {
       "has_bamboo": "2025-05-05 00:21:57 +0000"
@@ -2964,6 +3192,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/waxed_chiseled_copper_from_waxed_cut_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_cut_copper": "2025-05-05 01:08:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs": {
+    "criteria": {
+      "has_polished_deepslate": "2025-05-05 01:07:56 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/spruce_desk": {
     "criteria": {
       "has_spruce_desk": "2025-05-04 23:32:02 +0000"
@@ -2973,6 +3213,12 @@
   "handcrafted:recipes/misc/spruce_side_table": {
     "criteria": {
       "has_spruce_side_table": "2025-05-04 23:32:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_stairs": {
+    "criteria": {
+      "has_waxed_cut_copper": "2025-05-05 01:08:24 +0000"
     },
     "done": true
   },
