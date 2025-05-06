@@ -719,3 +719,7 @@ com.google.gson.JsonParseException: Not a JSON object: "deeperdarker:bloom_plank
 [02:16:34] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=-435, y=67, z=-359}) doesn't have enough leaves around top most log
 [02:16:35] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=-434, y=67, z=-359}) doesn't have enough leaves around top most log
 [02:17:01] [Server thread/INFO]: [El_Andrew22: Teleported Akalixy to El_Andrew22]
+[02:20:30] [Server thread/WARN]: Akalixy moved too quickly! 0.3429642936503683,-10.973102596008532,-0.06473491019050925
+[02:27:32] [Server thread/INFO]: [El_Andrew22: Teleported Akalixy to El_Andrew22]
+[02:28:01] [Server thread/INFO]: El_Andrew22 teleported to -1373.0 139.0 -279.0 minecraft:overworld
+[02:28:12] [Server thread/INFO]: [El_Andrew22: Teleported El_Andrew22 to Akalixy]
