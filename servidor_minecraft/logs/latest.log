@@ -1,388 +1,683 @@
-[00:00:08] [Server thread/INFO]: El_Andrew22 teleported to -519.0 65.0 1201.0 minecraft:overworld
-[00:01:00] [Server thread/INFO]: El_Andrew22 lost connection: Disconnected
-[00:01:00] [Server thread/INFO]: El_Andrew22 left the game
-[00:01:53] [Server thread/INFO]: El_Andrew22[/100.99.232.91:51630] logged in with entity id 41918 at (-675.3000000119209, 63.0, 1192.3005072344122)
-[00:01:53] [Server thread/INFO]: Reading config values from file.
-[00:01:53] [Server thread/INFO]: El_Andrew22 joined the game
-[00:01:53] [Server thread/INFO]: Sending item configs to client
-[00:02:26] [Server thread/INFO]: El_Andrew22 teleported to 24.0 69.0 339.0 minecraft:overworld
-[00:02:49] [Server thread/INFO]: El_Andrew22 teleported to 611.0 71.0 -614.0 minecraft:overworld
-[00:03:32] [Server thread/INFO]: El_Andrew22 teleported to -750.0 71.0 1309.0 minecraft:overworld
-[00:04:17] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[00:04:17] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[00:04:18] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[00:04:18] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[00:04:18] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[00:04:18] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[00:04:18] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[00:04:18] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[00:04:18] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[00:04:18] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[00:04:18] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[00:04:18] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[00:04:18] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[00:04:18] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[00:04:18] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[00:04:18] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[00:04:18] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[00:04:18] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[00:04:19] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[00:04:19] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[00:04:19] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[00:04:19] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[00:04:19] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[00:04:19] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[00:04:19] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[00:04:19] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[00:04:19] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[00:04:19] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[00:04:19] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[00:04:19] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[00:04:19] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[00:04:19] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[00:04:19] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[00:04:19] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[00:04:19] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[00:04:19] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[00:04:19] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[00:04:19] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[00:04:19] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[00:04:19] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[00:04:19] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[00:04:19] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[00:04:19] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[00:04:19] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[00:04:19] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[00:04:19] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[00:04:19] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[00:04:19] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[00:04:19] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[00:04:19] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[00:04:19] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[00:04:19] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[00:04:19] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[00:04:19] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[00:04:19] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[00:04:19] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[00:04:19] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[00:04:19] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[00:04:19] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[00:04:19] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[00:04:19] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[00:04:19] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[00:04:19] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[00:04:19] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[00:04:19] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[00:04:19] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[00:04:19] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[00:04:19] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[00:04:19] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[00:04:19] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[00:04:19] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[00:04:19] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[00:04:19] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[00:04:19] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[00:04:19] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[00:04:19] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[00:04:19] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[00:04:22] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[00:04:22] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[00:04:22] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[00:04:22] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[00:04:22] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[00:04:22] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[00:04:22] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[00:04:22] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[00:04:22] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[00:04:22] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[00:04:22] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[00:04:22] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[00:04:22] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[00:04:22] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[00:04:22] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[00:04:22] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[00:04:22] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[00:04:22] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[00:04:22] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[00:04:22] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[00:04:22] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[00:04:22] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[00:04:22] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[00:04:22] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[00:04:22] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[00:04:22] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[00:04:22] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[00:04:22] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[00:04:22] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[00:04:22] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[00:04:22] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[00:04:22] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[00:04:22] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[00:04:22] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[00:04:22] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[00:04:23] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[00:04:23] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[00:07:02] [Server thread/INFO]: Villager class_1646['Armorer'/46101, l='ServerLevel[world]', x=-745.51, y=69.25, z=1682.26] died, message: 'Armorer was shot by Pillager'
-[00:07:10] [Server thread/INFO]: El_Andrew22 teleported to -573.0 73.0 1544.0 minecraft:overworld
-[00:07:42] [Server thread/INFO]: El_Andrew22 teleported to -855.0 68.0 1787.0 minecraft:overworld
-[00:10:51] [Server thread/INFO]: El_Andrew22 lost connection: Disconnected
-[00:10:51] [Server thread/INFO]: El_Andrew22 left the game
-[00:22:36] [Server thread/INFO]: El_Andrew22[/100.99.232.91:51693] logged in with entity id 56040 at (-1125.4369114815404, 48.0, 1689.487500011921)
-[00:22:36] [Server thread/INFO]: Reading config values from file.
-[00:22:36] [Server thread/INFO]: El_Andrew22 joined the game
-[00:22:36] [Server thread/INFO]: Sending item configs to client
-[00:22:58] [Server thread/INFO]: El_Andrew22 teleported to -1047.0 64.0 1578.0 minecraft:overworld
-[00:23:26] [Server thread/INFO]: El_Andrew22 teleported to -536.0 64.0 1776.0 minecraft:overworld
-[00:26:52] [Server thread/INFO]: El_Andrew22 has made the advancement [A Major Trial Of Strengh]
-[00:26:57] [Server thread/INFO]: minecraft:drowned
-[00:27:22] [Server thread/INFO]: El_Andrew22 teleported to -429.0 85.0 -990.0 minecraft:overworld
-[00:28:05] [Server thread/INFO]: El_Andrew22 teleported to -480.0 84.0 -1121.0 minecraft:overworld
-[00:28:10] [Server thread/INFO]: El_Andrew22 has made the advancement [Safe Haven]
-[00:28:58] [Server thread/INFO]: El_Andrew22 teleported to -339.0 115.0 -1196.0 minecraft:overworld
-[00:29:32] [Server thread/INFO]: Akalixy has made the advancement [A Major Trial Of Strengh]
-[00:29:45] [Server thread/INFO]: El_Andrew22 teleported to -446.0 121.0 -1312.0 minecraft:overworld
-[00:30:30] [Server thread/INFO]: El_Andrew22 teleported to -260.0 68.0 -963.0 minecraft:overworld
-[00:30:39] [Worker-Main-2/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_1628['Spider'/63379, l='ServerLevel[world]', x=66.30, y=1.10, z=1126.28] as it would cause deadlock
-[00:30:43] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_1628['Spider'/63479, l='ServerLevel[world]', x=66.30, y=1.10, z=1126.28] as it would cause deadlock
-[00:30:54] [Server thread/INFO]: El_Andrew22 teleported to 834.0 109.0 -1054.0 minecraft:overworld
-[00:31:22] [Server thread/INFO]: El_Andrew22 teleported to 839.0 144.0 -1159.0 minecraft:overworld
-[00:31:38] [Server thread/INFO]: minecraft:sheep
-[00:31:50] [Server thread/INFO]: El_Andrew22 teleported to 903.0 116.0 -1082.0 minecraft:overworld
-[00:33:13] [Server thread/INFO]: El_Andrew22 teleported to 692.0 67.0 -1166.0 minecraft:overworld
-[00:34:40] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[00:34:40] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[00:34:51] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[00:34:51] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[00:34:51] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[00:34:59] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[00:34:59] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[00:35:14] [Server thread/INFO]: El_Andrew22 teleported to 579.0 64.0 -1463.0 minecraft:overworld
-[00:38:01] [Server thread/INFO]: El_Andrew22 teleported to 574.0 73.0 -1703.0 minecraft:overworld
-[00:38:28] [Server thread/INFO]: El_Andrew22 teleported to -821.0 197.0 -318.0 minecraft:overworld
-[00:38:31] [Server thread/INFO]: El_Andrew22 teleported to -798.0 194.0 -332.0 minecraft:overworld
-[00:39:22] [Server thread/INFO]: El_Andrew22 teleported to -869.0 192.0 -469.0 minecraft:overworld
-[00:39:42] [Server thread/INFO]: El_Andrew22 has made the advancement [I was here, i lived, i..]
-[00:40:17] [Server thread/INFO]: El_Andrew22 teleported to -1042.0 144.0 -466.0 minecraft:overworld
-[00:40:47] [Server thread/INFO]: El_Andrew22 teleported to -1194.0 123.0 -426.0 minecraft:overworld
-[00:40:47] [Worker-Main-1/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls/no_corners -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
-[00:40:47] [Worker-Main-1/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls/no_corners -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
-[00:40:47] [Worker-Main-1/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls/no_corners -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
-[00:40:47] [Worker-Main-1/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
-[00:40:47] [Worker-Main-1/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
-[00:40:47] [Worker-Main-1/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
-[00:40:47] [Worker-Main-1/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
-[00:40:47] [Worker-Main-1/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
-[00:40:47] [Worker-Main-1/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
-[00:40:47] [Worker-Main-1/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
-[00:40:47] [Worker-Main-1/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
-[00:40:47] [Worker-Main-1/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
-[00:40:47] [Worker-Main-1/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
-[00:40:47] [Worker-Main-1/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
-[00:40:47] [Worker-Main-1/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
-[00:40:47] [Worker-Main-1/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
-[00:40:48] [Worker-Main-1/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
-[00:40:48] [Worker-Main-1/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
-[00:40:48] [Worker-Main-1/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls/no_corners -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
-[00:40:48] [Worker-Main-1/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
-[00:40:48] [Worker-Main-1/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls/no_corners -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
-[00:40:48] [Worker-Main-1/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
-[00:40:48] [Worker-Main-1/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
-[00:40:48] [Worker-Main-1/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls/no_corners -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
-[00:40:48] [Worker-Main-1/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
-[00:40:48] [Worker-Main-1/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls/no_corners -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
-[00:40:48] [Worker-Main-1/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
-[00:40:48] [Worker-Main-1/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
-[00:40:48] [Worker-Main-1/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
-[00:40:48] [Worker-Main-1/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls/no_corners -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
-[00:40:48] [Worker-Main-1/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls/no_corners -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
-[00:40:48] [Worker-Main-1/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
-[00:40:48] [Worker-Main-1/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls/no_corners -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
-[00:40:48] [Worker-Main-1/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
-[00:40:48] [Worker-Main-1/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
-[00:40:48] [Worker-Main-1/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
-[00:40:48] [Worker-Main-1/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
-[00:40:48] [Worker-Main-1/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
-[00:40:48] [Worker-Main-1/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
-[00:40:48] [Worker-Main-1/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls/no_corners -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
-[00:40:49] [Worker-Main-1/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls/no_corners -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
-[00:40:49] [Worker-Main-1/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls/no_corners -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
-[00:40:49] [Worker-Main-1/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls/no_corners -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
-[00:40:49] [Worker-Main-1/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls/no_corners -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
-[00:41:25] [Server thread/INFO]: El_Andrew22 teleported to -1320.0 105.0 -424.0 minecraft:overworld
-[00:41:50] [Server thread/INFO]: El_Andrew22 teleported to -1009.0 138.0 -631.0 minecraft:overworld
-[00:42:04] [Server thread/INFO]: El_Andrew22 teleported to -1445.0 115.0 -326.0 minecraft:overworld
-[00:42:31] [Server thread/INFO]: El_Andrew22 teleported to -1352.0 134.0 -333.0 minecraft:overworld
-[00:42:39] [Server thread/INFO]: El_Andrew22 teleported to -1383.0 147.0 -282.0 minecraft:overworld
-[00:43:27] [Server thread/INFO]: El_Andrew22 teleported to -1345.0 152.0 -284.0 minecraft:overworld
-[00:44:53] [Server thread/INFO]: El_Andrew22 teleported to -1153.0 177.0 -259.0 minecraft:overworld
-[00:45:07] [Server thread/INFO]: El_Andrew22 teleported to -1499.0 122.0 -180.0 minecraft:overworld
-[00:45:15] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[00:45:15] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[00:45:17] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[00:45:17] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[00:45:17] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[00:45:17] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[00:45:19] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[00:45:19] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[00:45:19] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[00:45:19] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[00:45:19] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[00:45:19] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[00:45:19] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[00:45:19] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[00:45:25] [Server thread/INFO]: El_Andrew22 teleported to -1623.0 96.0 -220.0 minecraft:overworld
-[00:45:35] [Server thread/INFO]: El_Andrew22 teleported to -1548.0 122.0 -47.0 minecraft:overworld
-[00:45:43] [Server thread/INFO]: El_Andrew22 teleported to -1641.0 73.0 -38.0 minecraft:overworld
-[00:46:00] [Server thread/INFO]: El_Andrew22 teleported to -1604.0 89.0 90.0 minecraft:overworld
-[00:46:15] [Server thread/INFO]: El_Andrew22 teleported to -1538.0 136.0 195.0 minecraft:overworld
-[00:46:38] [Server thread/INFO]: El_Andrew22 teleported to -1427.0 143.0 225.0 minecraft:overworld
-[00:46:52] [Server thread/INFO]: El_Andrew22 teleported to -1677.0 47.0 258.0 minecraft:overworld
-[00:46:59] [Server thread/INFO]: El_Andrew22 teleported to -1609.0 68.0 270.0 minecraft:overworld
-[00:49:47] [Server thread/INFO]: El_Andrew22 teleported to -426.5 69.0 -326.5 minecraft:overworld
-[01:04:25] [Server thread/INFO]: Akalixy has made the advancement [The Parrots and the Bats]
-[01:05:17] [Server thread/INFO]: El_Andrew22 has made the advancement [The Parrots and the Bats]
-[01:05:53] [Server thread/INFO]: El_Andrew22 teleported to -470.5 63.0 1838.5 minecraft:overworld
-[01:06:02] [Server thread/INFO]: [El_Andrew22: Teleported Akalixy to El_Andrew22]
-[01:12:24] [Server thread/INFO]: friendsandfoes:glare
-[01:13:42] [Server thread/INFO]: El_Andrew22 teleported to -426.5 69.0 -326.5 minecraft:overworld
-[01:13:58] [Server thread/INFO]: [El_Andrew22: Teleported El_Andrew22 to Akalixy]
-[01:15:37] [Server thread/INFO]: minecraft:bat
-[01:16:10] [Server thread/INFO]: minecraft:bat
-[01:17:31] [Server thread/INFO]: El_Andrew22 teleported to -548.0 -1.0 1806.0 minecraft:overworld
-[01:17:32] [Server thread/INFO]: El_Andrew22 has made the advancement [A Bone to Pick]
-[01:17:41] [Server thread/INFO]: [El_Andrew22: Teleported El_Andrew22 to Akalixy]
-[01:18:24] [Server thread/INFO]: El_Andrew22 teleported to -585.0 66.0 1531.0 minecraft:overworld
-[01:18:29] [Server thread/INFO]: [El_Andrew22: Teleported Akalixy to El_Andrew22]
-[01:20:30] [Server thread/INFO]: El_Andrew22 teleported to -426.5 69.0 -326.5 minecraft:overworld
-[01:20:36] [Server thread/INFO]: [El_Andrew22: Teleported El_Andrew22 to Akalixy]
-[01:21:33] [Server thread/INFO]: El_Andrew22 teleported to -426.5 69.0 -326.5 minecraft:overworld
-[01:22:09] [Server thread/INFO]: [El_Andrew22: Teleported El_Andrew22 to Akalixy]
-[01:30:37] [Server thread/INFO]: Akalixy was slain by Skeleton
-[01:30:37] [Server thread/INFO]: [El_Andrew22: Teleported Akalixy to El_Andrew22]
-[01:30:57] [Server thread/INFO]: [El_Andrew22: Teleported Akalixy to El_Andrew22]
-[01:31:18] [Server thread/INFO]: Akalixy was slain by Skeleton
-[01:31:19] [Server thread/INFO]: [El_Andrew22: Teleported Akalixy to El_Andrew22]
-[01:31:26] [Server thread/INFO]: [El_Andrew22: Teleported Akalixy to El_Andrew22]
-[01:31:38] [Server thread/INFO]: [El_Andrew22: Teleported Akalixy to El_Andrew22]
-[01:36:59] [Server thread/INFO]: minecraft:glow_squid
-[01:40:31] [Server thread/INFO]: [El_Andrew22: Teleported Akalixy to El_Andrew22]
-[01:40:32] [Server thread/INFO]: El_Andrew22 was slain by Akalixy
-[01:40:40] [Server thread/INFO]: [El_Andrew22: Teleported El_Andrew22 to Akalixy]
-[01:43:04] [Server thread/INFO]: minecraft:skeleton
-[01:44:21] [Server thread/INFO]: El_Andrew22 teleported to -426.5 69.0 -326.5 minecraft:overworld
-[01:44:27] [Server thread/INFO]: [El_Andrew22: Teleported Akalixy to El_Andrew22]
-[01:49:30] [Server thread/INFO]: Akalixy has made the advancement [We Need to Go Deeper]
-[01:49:30] [Server thread/INFO]: Akalixy has made the advancement [Incendium]
-[01:49:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11577ms or 231 ticks behind
-[01:49:39] [Server thread/INFO]: El_Andrew22 has made the advancement [We Need to Go Deeper]
-[01:49:39] [Server thread/INFO]: El_Andrew22 has made the advancement [Incendium]
-[01:49:40] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[01:49:48] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[01:49:48] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[01:49:48] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[01:49:49] [Worker-Main-4/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/96563, l='ServerLevel[world]', x=-111.00, y=31.00, z=-134.00] as it would cause deadlock
-[01:49:49] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/96566, l='ServerLevel[world]', x=-111.00, y=31.00, z=-134.00] as it would cause deadlock
-[01:49:52] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[01:49:52] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[01:49:56] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[01:49:56] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[01:49:56] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[01:49:57] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[01:49:57] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[01:49:57] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[01:50:00] [Worker-Main-1/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/96776, l='ServerLevel[world]', x=-216.00, y=31.00, z=-135.00] as it would cause deadlock
-[01:50:00] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/96779, l='ServerLevel[world]', x=-216.00, y=31.00, z=-135.00] as it would cause deadlock
-[01:50:01] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[01:50:01] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[01:50:02] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[01:50:02] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[01:50:05] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[01:50:05] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[01:50:06] [Worker-Main-3/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/96802, l='ServerLevel[world]', x=-234.00, y=31.00, z=-193.00] as it would cause deadlock
-[01:50:06] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/96805, l='ServerLevel[world]', x=-234.00, y=31.00, z=-193.00] as it would cause deadlock
-[01:50:45] [Server thread/INFO]: Akalixy fell from a high place
-[01:50:47] [Server thread/INFO]: [El_Andrew22: Teleported Akalixy to El_Andrew22]
-[01:50:52] [Server thread/INFO]: [El_Andrew22: Teleported Akalixy to El_Andrew22]
-[01:50:57] [Server thread/INFO]: [El_Andrew22: Teleported Akalixy to El_Andrew22]
-[01:52:24] [Worker-Main-1/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/97271, l='ServerLevel[world]', x=7.00, y=31.00, z=181.00] as it would cause deadlock
-[01:52:24] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/97274, l='ServerLevel[world]', x=7.00, y=31.00, z=181.00] as it would cause deadlock
-[01:52:40] [Server thread/INFO]: minecraft:wither_skeleton
-[01:53:00] [Server thread/INFO]: El_Andrew22 has made the advancement [A Terrible Fortress]
-[01:53:04] [Server thread/INFO]: El_Andrew22 has made the advancement [Spooky Scary Skeleton]
-[01:53:06] [Server thread/INFO]: Akalixy has made the advancement [A Terrible Fortress]
-[02:04:35] [Server thread/INFO]: [El_Andrew22: Teleported Akalixy to El_Andrew22]
-[02:08:28] [Server thread/INFO]: El_Andrew22 teleported to -426.0 67.0 -348.0 minecraft:overworld
-[02:08:34] [Server thread/INFO]: El_Andrew22 teleported to -432.0 69.0 -267.0 minecraft:overworld
-[02:08:38] [Server thread/INFO]: El_Andrew22 teleported to -519.0 85.0 -290.0 minecraft:overworld
-[02:08:40] [Server thread/INFO]: El_Andrew22 teleported to -530.0 101.0 -310.0 minecraft:overworld
-[02:08:42] [Server thread/INFO]: El_Andrew22 teleported to -561.0 108.0 -338.0 minecraft:overworld
-[02:08:45] [Server thread/INFO]: El_Andrew22 teleported to -503.0 68.0 -363.0 minecraft:overworld
-[02:08:48] [Server thread/INFO]: El_Andrew22 teleported to -571.0 120.0 -265.0 minecraft:overworld
-[02:08:51] [Server thread/INFO]: El_Andrew22 teleported to -487.0 108.0 -216.0 minecraft:overworld
-[02:08:56] [Server thread/INFO]: El_Andrew22 teleported to -500.0 69.0 -311.0 minecraft:overworld
-[02:09:05] [Server thread/INFO]: El_Andrew22 teleported to -420.0 67.0 -342.0 minecraft:overworld
-[02:14:14] [Server thread/INFO]: Akalixy was doomed to fall by Spider
-[02:25:19] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=-437, y=76, z=-356}) doesn't have enough leaves around top most log
-[02:25:20] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=-437, y=75, z=-356}) doesn't have enough leaves around top most log
-[02:25:20] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=-437, y=74, z=-356}) doesn't have enough leaves around top most log
-[02:25:21] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=-437, y=73, z=-356}) doesn't have enough leaves around top most log
-[02:25:22] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=-437, y=72, z=-356}) doesn't have enough leaves around top most log
-[02:25:22] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=-437, y=71, z=-356}) doesn't have enough leaves around top most log
-[02:25:23] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=-437, y=70, z=-356}) doesn't have enough leaves around top most log
-[02:25:24] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=-437, y=69, z=-356}) doesn't have enough leaves around top most log
-[02:25:25] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=-437, y=68, z=-356}) doesn't have enough leaves around top most log
-[02:27:10] [Server thread/INFO]: [El_Andrew22: Teleported El_Andrew22 to Akalixy]
-[02:27:18] [Server thread/INFO]: El_Andrew22 teleported to -426.5 69.0 -326.5 minecraft:overworld
-[02:29:51] [Server thread/INFO]: minecraft:bat
-[02:30:06] [Server thread/INFO]: [El_Andrew22: Gave 64 [Lectern] to El_Andrew22]
-[02:31:31] [Server thread/INFO]: minecraft:slime
-[02:31:31] [Server thread/INFO]: [El_Andrew22: Teleported El_Andrew22 to Akalixy]
-[02:31:41] [Server thread/INFO]: El_Andrew22 teleported to -426.5 69.0 -326.5 minecraft:overworld
-[02:32:02] [Server thread/INFO]: [El_Andrew22: Gave 1 [Cyan Bed] to Akalixy]
-[02:33:33] [Server thread/INFO]: [El_Andrew22: Teleported Akalixy to El_Andrew22]
-[02:38:16] [Server thread/INFO]: minecraft:bat
-[02:51:12] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=-435, y=71, z=-346}) doesn't have enough leaves around top most log
-[02:51:13] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=-435, y=70, z=-346}) doesn't have enough leaves around top most log
-[02:51:13] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=-435, y=69, z=-346}) doesn't have enough leaves around top most log
-[02:51:15] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=-435, y=68, z=-346}) doesn't have enough leaves around top most log
-[02:52:23] [Server thread/INFO]: minecraft:zombie
-[02:55:21] [Server thread/INFO]: [El_Andrew22: Teleported Akalixy to El_Andrew22]
-[03:05:33] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=-438, y=71, z=-348}) doesn't have enough leaves around top most log
-[03:05:33] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=-439, y=71, z=-348}) doesn't have enough leaves around top most log
-[03:05:34] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=-440, y=71, z=-348}) doesn't have enough leaves around top most log
-[03:05:35] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=-441, y=71, z=-348}) doesn't have enough leaves around top most log
-[03:05:35] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=-442, y=71, z=-348}) doesn't have enough leaves around top most log
-[03:08:42] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=-441, y=71, z=-349}) doesn't have enough leaves around top most log
-[03:09:38] [Server thread/INFO]: [El_Andrew22: Teleported El_Andrew22 to Akalixy]
-[03:10:21] [Server thread/INFO]: [El_Andrew22: Teleported Akalixy to El_Andrew22]
-[03:25:30] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=-443, y=73, z=-356}) doesn't have enough leaves around top most log
-[03:26:28] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=-441, y=74, z=-349}) doesn't have enough leaves around top most log
-[03:27:07] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=-439, y=75, z=-355}) doesn't have enough leaves around top most log
-[03:29:32] [Server thread/INFO]: [El_Andrew22: Teleported Akalixy to El_Andrew22]
-[03:32:27] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=-431, y=74, z=-355}) doesn't have enough leaves around top most log
-[03:32:38] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=-431, y=75, z=-348}) doesn't have enough leaves around top most log
-[03:35:28] [Server thread/INFO]: El_Andrew22 teleported to -243.0 67.0 -298.0 minecraft:overworld
-[03:36:00] [Server thread/INFO]: El_Andrew22 teleported to -439.0 76.0 -351.0 minecraft:overworld
-[03:36:08] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=-437, y=77, z=-354}) doesn't have enough leaves around top most log
-[03:36:09] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=-438, y=77, z=-352}) doesn't have enough leaves around top most log
-[03:44:31] [Server thread/INFO]: El_Andrew22 has made the advancement [Bonfire Lit]
-[03:53:05] [Server thread/INFO]: Akalixy lost connection: Disconnected
-[03:53:05] [Server thread/INFO]: Akalixy left the game
-[03:53:07] [Server thread/INFO]: El_Andrew22 lost connection: Disconnected
-[03:53:07] [Server thread/INFO]: El_Andrew22 left the game
-[03:53:30] [Server thread/INFO]: Stopping the server
-[03:53:30] [Server thread/INFO]: Stopping server
-[03:53:30] [Server thread/INFO]: Saving players
-[03:53:30] [Server thread/INFO]: Saving worlds
-[03:53:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[03:53:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[03:53:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[03:53:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/the_bumblezone:the_bumblezone
-[03:53:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
-[03:53:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[03:53:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[03:53:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[03:53:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (the_bumblezone): All chunks are saved
-[03:53:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
-[03:53:30] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[03:53:31] [Server thread/INFO]: Dispatching unloading event for config enchantinginfuser-server.toml
+[01:47:50] [main/INFO]: Loading Minecraft 1.21.1 with Fabric Loader 0.16.14
+[01:47:54] [ForkJoinPool-1-worker-3/WARN]: The mod "dungeons_arise" contains invalid entries in its mod json:
+- Unsupported root entry "credits" at line 12 column 11
+[01:47:54] [main/WARN]: Warnings were found!
+ - Mod 'Debugify' (debugify) 1.21.1+1.0 recommends any version of modmenu, which is missing!
+	 - You should install any version of modmenu for the optimal experience.
+ - Mod 'Forge Config API Port' (forgeconfigapiport) 21.1.3 recommends any version of modmenu, which is missing!
+	 - You should install any version of modmenu for the optimal experience.
+ - Mod 'Simply Swords' (simplyswords) 1.60.11-1.21.1 recommends version 1.7.2 or later of bettercombat, which is missing!
+	 - You should install version 1.7.2 or later of bettercombat for the optimal experience.
+[01:47:54] [main/INFO]: Loading 213 mods:
+	- adventurez 1.4.24
+	- almanac 1.0.2
+	- alternate-current 1.9.0
+	- architectury 13.0.8
+	- artifacts 13.0.2
+	   |-- com_electronwill_night-config_core 3.8.0
+	   |-- com_electronwill_night-config_toml 3.8.0
+	   \-- expandability 12.0.0
+	- betterdeserttemples 1.21.1-Fabric-4.1.5
+	   \-- org_reflections_reflections 0.10.2
+	- betterdungeons 1.21.1-Fabric-5.1.4
+	   \-- org_reflections_reflections 0.10.2
+	- betterendisland 1.21.1-Fabric-3.1.2
+	   \-- org_reflections_reflections 0.10.2
+	- betterfortresses 1.21.1-Fabric-3.1.4
+	   \-- org_reflections_reflections 0.10.2
+	- betterjungletemples 1.21.1-Fabric-3.1.2
+	   \-- org_reflections_reflections 0.10.2
+	- bettermineshafts 1.21.1-Fabric-5.1.1
+	   \-- org_reflections_reflections 0.10.2
+	- betteroceanmonuments 1.21.1-Fabric-4.1.2
+	   \-- org_reflections_reflections 0.10.2
+	- betterstrongholds 1.21.1-Fabric-5.1.3
+	   \-- org_reflections_reflections 0.10.2
+	- bettertrims 3.2.8
+	- bosses_of_mass_destruction 1.10.2-1.21.1
+	   \-- multipart_entities 1.7-1.21
+	- cardinal-components 6.1.2
+	   |-- cardinal-components-base 6.1.2
+	   |-- cardinal-components-block 6.1.2
+	   |-- cardinal-components-chunk 6.1.2
+	   |-- cardinal-components-entity 6.1.2
+	   |-- cardinal-components-item 6.1.2
+	   |-- cardinal-components-level 6.1.2
+	   |-- cardinal-components-scoreboard 6.1.2
+	   \-- cardinal-components-world 6.1.2
+	- carryon 2.2.2
+	- cloth-config 15.0.140
+	   \-- cloth-basic-math 0.6.1
+	- collective 8.3
+	- configurable 2.2.3
+	- creativecore 2.13.1
+	   \-- net_neoforged_bus 7.2.0
+	- creeperoverhaul 4.0.6
+	   \-- com_teamresourceful_resourceful-cosmetics-4j 1.0.3
+	- debugify 1.21.1+1.0
+	- deeperdarker 1.3.3
+	   \-- customportalapi 0.0.1-beta66-1.21
+	- doubledoors 7.0
+	- dungeons_arise 2.1.64
+	- dungeons_arise_seven_seas 1.0.3
+	- elytraslot 9.0.1+1.21.1
+	- elytratrims 3.5.6
+	   |-- conditional-mixin 0.6.3
+	   \-- mixinsquared 0.1.2-beta.4
+	- enchantinginfuser 21.1.0
+	- entityculling 1.7.4
+	- explorerscompass 1.21.1-2.2.5-fabric
+	- exposure 1.9.2
+	- fabric-api 0.115.6+1.21.1
+	   |-- fabric-api-base 0.4.42+6573ed8c19
+	   |-- fabric-api-lookup-api-v1 1.6.70+b559734419
+	   |-- fabric-biome-api-v1 13.0.31+d527f9fd19
+	   |-- fabric-block-api-v1 1.0.22+0af3f5a719
+	   |-- fabric-block-view-api-v2 1.0.11+ebb2264e19
+	   |-- fabric-blockrenderlayer-v1 1.1.52+0af3f5a719
+	   |-- fabric-client-tags-api-v1 1.1.15+6573ed8c19
+	   |-- fabric-command-api-v1 1.2.49+f71b366f19
+	   |-- fabric-command-api-v2 2.2.28+6ced4dd919
+	   |-- fabric-commands-v0 0.2.66+df3654b319
+	   |-- fabric-content-registries-v0 8.0.18+b559734419
+	   |-- fabric-convention-tags-v1 2.1.4+7f945d5b19
+	   |-- fabric-convention-tags-v2 2.11.0+a406e79519
+	   |-- fabric-crash-report-info-v1 0.2.29+0af3f5a719
+	   |-- fabric-data-attachment-api-v1 1.4.3+a15b7ead19
+	   |-- fabric-data-generation-api-v1 20.2.28+16c4ae2519
+	   |-- fabric-dimensions-v1 4.0.0+6fc22b9919
+	   |-- fabric-entity-events-v1 1.7.0+2122d82819
+	   |-- fabric-events-interaction-v0 0.7.13+ba9dae0619
+	   |-- fabric-game-rule-api-v1 1.0.53+6ced4dd919
+	   |-- fabric-item-api-v1 11.1.1+d5debaed19
+	   |-- fabric-item-group-api-v1 4.1.7+def88e3a19
+	   |-- fabric-key-binding-api-v1 1.0.47+0af3f5a719
+	   |-- fabric-keybindings-v0 0.2.45+df3654b319
+	   |-- fabric-lifecycle-events-v1 2.5.0+01d9a51c19
+	   |-- fabric-loot-api-v2 3.0.15+3f89f5a519
+	   |-- fabric-loot-api-v3 1.0.3+3f89f5a519
+	   |-- fabric-message-api-v1 6.0.13+6573ed8c19
+	   |-- fabric-model-loading-api-v1 2.0.0+fe474d6b19
+	   |-- fabric-networking-api-v1 4.3.0+c7469b2119
+	   |-- fabric-object-builder-api-v1 15.2.1+40875a9319
+	   |-- fabric-particles-v1 4.0.2+6573ed8c19
+	   |-- fabric-recipe-api-v1 5.0.14+248df81c19
+	   |-- fabric-registry-sync-v0 5.2.0+34f5d91419
+	   |-- fabric-renderer-api-v1 3.4.0+c705a49c19
+	   |-- fabric-renderer-indigo 1.7.0+c705a49c19
+	   |-- fabric-renderer-registries-v1 3.2.68+df3654b319
+	   |-- fabric-rendering-data-attachment-v1 0.3.49+73761d2e19
+	   |-- fabric-rendering-fluids-v1 3.1.6+1daea21519
+	   |-- fabric-rendering-v0 1.1.71+df3654b319
+	   |-- fabric-rendering-v1 5.0.5+df16efd019
+	   |-- fabric-resource-conditions-api-v1 4.3.0+8dc279b119
+	   |-- fabric-resource-loader-v0 1.3.1+5b5275af19
+	   |-- fabric-screen-api-v1 2.0.25+8b68f1c719
+	   |-- fabric-screen-handler-api-v1 1.3.88+b559734419
+	   |-- fabric-sound-api-v1 1.0.23+6573ed8c19
+	   |-- fabric-transfer-api-v1 5.4.2+c24bd99419
+	   \-- fabric-transitive-access-wideners-v1 6.2.0+45b9699719
+	- fabric-language-kotlin 1.13.2+kotlin.2.1.20
+	   |-- org_jetbrains_kotlin_kotlin-reflect 2.1.20
+	   |-- org_jetbrains_kotlin_kotlin-stdlib 2.1.20
+	   |-- org_jetbrains_kotlin_kotlin-stdlib-jdk7 2.1.20
+	   |-- org_jetbrains_kotlin_kotlin-stdlib-jdk8 2.1.20
+	   |-- org_jetbrains_kotlinx_atomicfu-jvm 0.27.0
+	   |-- org_jetbrains_kotlinx_kotlinx-coroutines-core-jvm 1.10.1
+	   |-- org_jetbrains_kotlinx_kotlinx-coroutines-jdk8 1.10.1
+	   |-- org_jetbrains_kotlinx_kotlinx-datetime-jvm 0.6.2
+	   |-- org_jetbrains_kotlinx_kotlinx-io-bytestring-jvm 0.7.0
+	   |-- org_jetbrains_kotlinx_kotlinx-io-core-jvm 0.7.0
+	   |-- org_jetbrains_kotlinx_kotlinx-serialization-cbor-jvm 1.8.0
+	   |-- org_jetbrains_kotlinx_kotlinx-serialization-core-jvm 1.8.0
+	   \-- org_jetbrains_kotlinx_kotlinx-serialization-json-jvm 1.8.0
+	- fabricloader 0.16.14
+	- fallingtree 1.21.1.7
+	- farmersdelight 1.21.1-3.0.2+refabricated
+	   \-- mm 2.3
+	- ferritecore 7.0.2-hotfix
+	- forgeconfigapiport 21.1.3
+	   |-- com_electronwill_night-config_core 3.8.0
+	   \-- com_electronwill_night-config_toml 3.8.0
+	- friendsandfoes 4.0.1
+	- fusion 1.2.7
+	- fzzy_config 0.6.9+1.21
+	   |-- blue_endless_jankson 1.2.3
+	   |-- fabric-permissions-api-v0 0.3.1
+	   \-- net_peanuuutz_tomlkt_tomlkt-jvm 0.3.7
+	- geckolib 4.7.5.1
+	- handcrafted 4.0.3
+	- hopobetterruinedportal 1.4.4
+	- incendium 5.4.3
+	- jade 15.10.0+fabric
+	- java 21
+	- jei 19.21.0.247
+	- journeymap 1.21.1-6.0.0-beta.44
+	   |-- ar_com_hjg_pngj 2.1.0
+	   |-- commonnetworking 1.0.18-1.21.1
+	   \-- journeymap-api-fabric 2.0.0-1.21.1-SNAPSHOT
+	- krypton 0.2.8
+	   \-- com_velocitypowered_velocity-native 3.3.0-SNAPSHOT
+	- ksyxis 1.3.3
+	- letmedespawn 1.5.0
+	- lithium 0.15.0+mc1.21.1
+	- lithostitched 1.4.2
+	- mcwdoors 1.1.2
+	- mcwfurnitures 3.3.0
+	- mcwwindows 2.3.2
+	- midnightlib 1.6.9
+	- minecraft 1.21.1
+	- modernfix 5.21.0+mc1.21.1
+	- mr_craft_elytra 48.1
+	- mr_craft_enchantedgoldenapples 48.1
+	- mr_craft_horsearmor 48.1
+	- mr_craft_saddle 48.1
+	- mr_craft_tridents 48.2
+	- mr_craftable_bells 48.1
+	- mr_craftable_nametag 48.1
+	- mr_dungeons_andtaverns 1-v4.4.4
+	- mr_dungeons_andtavernsancientcityoverhaul 1-v2
+	- mr_dungeons_andtavernsdeserttemplereplacement 1-v1.2
+	- mr_dungeons_andtavernsendcastlestandalone 1-v1.1
+	- mr_dungeons_andtavernsoceanmonumentreplacement 1-v1.2
+	- mr_dungeons_andtavernsstrongholdoverhaul 1-v2.1.f
+	- mr_dungeons_andtavernswoodlandmansionreplacement 1-v1.2
+	- mr_enchanting_infuseraddtreasureenchantements 1
+	- mr_izzys_maces 1.1
+	- mr_remove_terralithintromessage 1.1
+	- mr_true_ending 1-v1.1.2d
+	- naturescompass 1.21.1-2.2.7-fabric
+	- nerb 0.4.2
+	- niftycarts 21.1.0-hotfix
+	- noisium 2.3.0+mc1.21-1.21.1
+	- octolib 0.5.0.1
+	   \-- org_yaml_snakeyaml 2.2
+	- oracle_index 0.2.0
+	   \-- org_jsoup_jsoup 1.17.2
+	- owo 0.12.15.4+1.21
+	   |-- io_wispforest_endec 0.1.5.1
+	   |-- io_wispforest_endec_gson 0.1.3.1
+	   |-- io_wispforest_endec_jankson 0.1.3.1
+	   \-- io_wispforest_endec_netty 0.1.2
+	- puzzleslib 21.1.34
+	- resourcefulconfig 3.0.11
+	- resourcefullib 3.0.12
+	   |-- com_teamresourceful_bytecodecs 1.1.2
+	   \-- com_teamresourceful_yabn 1.0.3
+	- seeddelight 0.1
+	- simplyswords 1.60.11-1.21.1
+	- sophisticatedbackpacks 1.21.1-3.23.4.1.96
+	- sophisticatedcore 1.21.1-1.2.9.3.145
+	   |-- mixinextras 0.5.0-beta.3
+	   |-- porting_lib_conditions 3.1.0-beta.47+1.21.1
+	   |-- porting_lib_core 3.1.0-beta.47+1.21.1
+	   |-- porting_lib_fluids 3.1.0-beta.47+1.21.1
+	   |-- porting_lib_item_abilities 3.1.0-beta.47+1.21.1
+	   |-- porting_lib_lazy_registration 3.1.0-beta.47+1.21.1
+	   |-- porting_lib_level_events 3.1.0-beta.47+1.21.1
+	   |-- porting_lib_loot 3.1.0-beta.47+1.21.1
+	   |-- porting_lib_model_loader 3.1.0-beta.47+1.21.1
+	   |-- porting_lib_render_types 3.1.0-beta.47+1.21.1
+	   |-- porting_lib_transfer 3.1.0-beta.47+1.21.1
+	   \-- team_reborn_energy 4.1.0
+	- sound_physics_remastered 1.21.1-1.4.12
+	- spark 1.10.109
+	   \-- fabric-permissions-api-v0 0.3.1
+	- spawnermod 1.2.8
+	- supermartijn642corelib 1.1.18+a
+	- tectonic 3.0.0+beta3
+	- terralith 2.5.8
+	- the_bumblezone 7.9.0+1.21.1-fabric
+	   \-- athena 4.0.0
+	- trimmable_tools 2.0.5
+	- trinkets 3.10.0
+	- yet_another_config_lib_v3 3.6.6+1.21.1-fabric
+	   |-- com_twelvemonkeys_common_common-image 3.12.0
+	   |-- com_twelvemonkeys_common_common-io 3.12.0
+	   |-- com_twelvemonkeys_common_common-lang 3.12.0
+	   |-- com_twelvemonkeys_imageio_imageio-core 3.12.0
+	   |-- com_twelvemonkeys_imageio_imageio-metadata 3.12.0
+	   |-- com_twelvemonkeys_imageio_imageio-webp 3.12.0
+	   |-- org_quiltmc_parsers_gson 0.2.1
+	   \-- org_quiltmc_parsers_json 0.2.1
+	- yungsapi 1.21.1-Fabric-5.1.4
+	   |-- org_javassist_javassist 3.29.2-GA
+	   \-- org_reflections_reflections 0.10.2
+	- yungsbridges 1.21.1-Fabric-5.1.1
+	   \-- org_reflections_reflections 0.10.2
+	- yungsextras 1.21.1-Fabric-5.1.1
+	   \-- org_reflections_reflections 0.10.2
+[01:47:55] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/ProyectoZ/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.5+mixin.0.8.7/sponge-mixin-0.15.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[01:47:55] [main/INFO]: Compatibility level set to JAVA_17
+[01:47:55] [main/INFO]: Compatibility level set to JAVA_21
+[01:47:56] [main/WARN]: Reference map 'enchantinginfuser.common.refmap.json' for enchantinginfuser.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[01:47:56] [main/WARN]: Reference map 'enchantinginfuser.fabric.refmap.json' for enchantinginfuser.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[01:47:56] [main/WARN]: Reference map 'forgeconfigapiport.common.refmap.json' for forgeconfigapiport.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[01:47:56] [main/WARN]: Reference map 'journeymap-refmap.json' for journeymap.mixins.json could not be read. If this is a development environment you can ignore this message
+[01:47:56] [main/WARN]: Reference map 'journeymap-refmap.json' for journeymap.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[01:47:56] [main/WARN]: Mod 'ferritecore' attempted to override option 'mixin.alloc.blockstate', which doesn't exist, ignoring
+[01:47:56] [main/INFO]: Option 'mixin.entity.collisions.fluid' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.entity.collisions.fluid=false'.
+[01:47:56] [main/INFO]: Option 'mixin.experimental.entity.block_caching.block_support' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching.block_support=false'.
+[01:47:56] [main/INFO]: Option 'mixin.experimental.entity.block_caching.fluid_pushing' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching.fluid_pushing=false'.
+[01:47:56] [main/INFO]: Option 'mixin.experimental.entity.block_caching.block_touching' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching.block_touching=false'.
+[01:47:56] [main/INFO]: Option 'mixin.experimental.entity.block_caching.suffocation' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching.suffocation=false'.
+[01:47:56] [main/INFO]: Option 'mixin.experimental.entity.block_caching' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching=false'.
+[01:47:56] [main/INFO]: Loaded configuration file for Lithium: 149 options available, 0 override(s) found
+[01:47:56] [main/INFO]: Loaded configuration file for ModernFix 5.21.0+mc1.21.1: 58 options available, 0 override(s) found
+[01:47:56] [main/INFO]: Applying Nashorn fix
+[01:47:56] [main/WARN]: Reference map 'OctoLib-COMMON-common-refmap.json' for octolib-common.mixins.json could not be read. If this is a development environment you can ignore this message
+[01:47:56] [main/WARN]: Error loading class: net/minecraft/class_906 (java.lang.ClassNotFoundException: net/minecraft/class_906)
+[01:47:56] [main/WARN]: @Mixin target net.minecraft.class_906 was not found porting_lib_item_abilities.mixins.json:FishingHookRendererMixin from mod porting_lib_item_abilities
+[01:47:58] [main/WARN]: Error loading class: net/minecraft/class_287 (java.lang.ClassNotFoundException: net/minecraft/class_287)
+[01:47:58] [main/WARN]: @Mixin target net.minecraft.class_287 was not found owo.mixins.json:BufferBuilderAccessor from mod owo
+[01:47:58] [main/WARN]: Error loading class: net/minecraft/class_437 (java.lang.ClassNotFoundException: net/minecraft/class_437)
+[01:47:58] [main/WARN]: @Mixin target net.minecraft.class_437 was not found owo.mixins.json:ScreenAccessor from mod owo
+[01:47:58] [main/WARN]: Error loading class: xyz/nucleoid/server/translations/impl/language/SystemDelegatedLanguage (java.lang.ClassNotFoundException: xyz/nucleoid/server/translations/impl/language/SystemDelegatedLanguage)
+[01:47:58] [main/WARN]: Error loading class: net/minecraft/class_638 (java.lang.ClassNotFoundException: net/minecraft/class_638)
+[01:47:58] [main/WARN]: @Mixin target net.minecraft.class_638 was not found porting_lib_level_events.mixins.json:client.ClientLevelMixin from mod porting_lib_level_events
+[01:47:58] [main/WARN]: Error loading class: net/minecraft/class_314 (java.lang.ClassNotFoundException: net/minecraft/class_314)
+[01:47:58] [main/WARN]: @Mixin target net.minecraft.class_314 was not found mixins.mm.json:net.minecraft.class_314 from mod mm
+[01:47:59] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.0-beta.3).
+[01:48:05] [main/WARN]: Method overwrite conflict for method_21740 in modernfix-common.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin from mod modernfix, previously written by net.caffeinemc.mods.lithium.mixin.world.temperature_cache.BiomeMixin. Skipping method.
+[01:48:09] [main/ERROR]: No data fixer registered for ancient_skeleton
+[01:48:11] [main/INFO]: Vanilla bootstrap took 11213 milliseconds
+[01:48:13] [main/ERROR]: No data fixer registered for artifacts:mimic
+[01:48:13] [main/INFO]: Reflections took 62 ms to scan 1 urls, producing 1 keys and 2 values
+[01:48:13] [main/INFO]: Reflections took 4 ms to scan 1 urls, producing 1 keys and 2 values
+[01:48:13] [main/INFO]: Reflections took 5 ms to scan 1 urls, producing 1 keys and 3 values
+[01:48:13] [main/INFO]: Reflections took 3 ms to scan 1 urls, producing 1 keys and 3 values
+[01:48:13] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 2 values
+[01:48:13] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
+[01:48:13] [main/INFO]: Reflections took 4 ms to scan 1 urls, producing 1 keys and 1 values
+[01:48:13] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 1 values
+[01:48:13] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 3 values
+[01:48:13] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 3 values
+[01:48:14] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 2 values
+[01:48:14] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
+[01:48:14] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 1 values
+[01:48:14] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 1 values
+[01:48:14] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 3 values
+[01:48:14] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 3 values
+[01:48:14] [main/INFO]: Loading Collective version 8.3.
+[01:48:14] [main/INFO]: Successfully loaded config "bettertrims"
+[01:48:15] [main/ERROR]: No data fixer registered for jungle_creeper
+[01:48:15] [main/ERROR]: No data fixer registered for bamboo_creeper
+[01:48:15] [main/ERROR]: No data fixer registered for desert_creeper
+[01:48:15] [main/ERROR]: No data fixer registered for badlands_creeper
+[01:48:15] [main/ERROR]: No data fixer registered for hills_creeper
+[01:48:15] [main/ERROR]: No data fixer registered for savannah_creeper
+[01:48:15] [main/ERROR]: No data fixer registered for mushroom_creeper
+[01:48:15] [main/ERROR]: No data fixer registered for swamp_creeper
+[01:48:15] [main/ERROR]: No data fixer registered for dripstone_creeper
+[01:48:15] [main/ERROR]: No data fixer registered for cave_creeper
+[01:48:15] [main/ERROR]: No data fixer registered for dark_oak_creeper
+[01:48:15] [main/ERROR]: No data fixer registered for spruce_creeper
+[01:48:15] [main/ERROR]: No data fixer registered for beach_creeper
+[01:48:15] [main/ERROR]: No data fixer registered for snowy_creeper
+[01:48:15] [main/ERROR]: No data fixer registered for ocean_creeper
+[01:48:15] [main/ERROR]: No data fixer registered for birch_creeper
+[01:48:15] [main/INFO]: Enabled 28 bug fixes: [MC-2025, MC-7569, MC-8187, MC-30391, MC-69216, MC-88371, MC-89146, MC-93018, MC-100991, MC-119417, MC-119754, MC-121706, MC-121903, MC-129909, MC-132878, MC-135971, MC-155509, MC-160095, MC-179072, MC-183990, MC-199467, MC-200418, MC-206922, MC-215530, MC-223153, MC-224729, MC-231743, MC-232869]
+[01:48:15] [main/INFO]: Successfully Debugify'd your game!
+[01:48:15] [main/ERROR]: No data fixer registered for deeperdarker:angler_fish
+[01:48:15] [main/ERROR]: No data fixer registered for deeperdarker:sculk_centipede
+[01:48:15] [main/ERROR]: No data fixer registered for deeperdarker:sculk_leech
+[01:48:15] [main/ERROR]: No data fixer registered for deeperdarker:sculk_snapper
+[01:48:15] [main/ERROR]: No data fixer registered for deeperdarker:shattered
+[01:48:15] [main/ERROR]: No data fixer registered for deeperdarker:shriek_worm
+[01:48:15] [main/ERROR]: No data fixer registered for deeperdarker:sludge
+[01:48:15] [main/ERROR]: No data fixer registered for deeperdarker:stalker
+[01:48:15] [main/ERROR]: No data fixer registered for crystallized_amber
+[01:48:15] [main/ERROR]: No data fixer registered for sculk_jaw
+[01:48:15] [main/INFO]: YAaargh!
+[01:48:15] [main/INFO]: Constructing common components for enchantinginfuser:main
+[01:48:15] [main/INFO]: ExpandAbility here, who dis?
+[01:48:15] [main/INFO]: Loaded config farmersdelight-common.json
+[01:48:16] [main/INFO]: Deserializing FriendsAndFoesConfig from 'config/friendsandfoes.json'
+[01:48:16] [main/INFO]: Loaded com.faboslav.friendsandfoes.fabric.platform.PlatformCompat@fe7b5e3 for service interface com.faboslav.friendsandfoes.common.platform.PlatformCompat
+[01:48:16] [main/INFO]: Loaded com.faboslav.friendsandfoes.fabric.platform.PlatformHelper@8a8d8af for service interface com.faboslav.friendsandfoes.common.platform.PlatformHelper
+[01:48:16] [main/INFO]: Loaded com.faboslav.friendsandfoes.fabric.platform.ProcessorTypes@5251c2e4 for service interface com.faboslav.friendsandfoes.common.platform.ProcessorTypes
+[01:48:16] [main/INFO]: Loaded com.faboslav.friendsandfoes.fabric.platform.BiomeModifications@351cf35f for service interface com.faboslav.friendsandfoes.common.platform.BiomeModifications
+[01:48:16] [main/ERROR]: No data fixer registered for handcrafted
+[01:48:16] [main/INFO]: Initializing ServerSide Packet Registries
+[01:48:16] [main/INFO]: Compression will use libdeflate (Linux x86_64), encryption will use OpenSSL 1.1.x (Linux x86_64)
+[01:48:16] [main/INFO]: Ksyxis: Booting... (platform: Fabric, manual: false)
+[01:48:16] [main/INFO]: Ksyxis: Found Mixin library. (version: 0.8.7)
+[01:48:16] [main/INFO]: Ksyxis: Ready. As always, this mod will speed up your world loading and might or might not break it. (1 ms)
+[01:48:17] [main/INFO]: Definitely not up to no good
+[01:48:17] [main/INFO]: Loading Noisium.
+[01:48:17] [main/INFO]: Hello from the Oracle Wiki Mod!
+[01:48:17] [main/INFO]: This custom packet isn't supported by Gadget - Add support via DrawPacketHandler.EVENT
+[01:48:17] [main/INFO]: Constructing common components for puzzleslib:main
+[01:48:17] [main/INFO]: Loaded config simplyswords:general in 361ms
+[01:48:17] [main/INFO]: Loaded config simplyswords:gem_powers in 294ms
+[01:48:17] [main/INFO]: Loaded config simplyswords:status_effects in 5ms
+[01:48:18] [main/INFO]: Loaded config simplyswords:weapon_attributes in 93ms
+[01:48:18] [main/INFO]: Loaded config simplyswords:unique_effects in 244ms
+[01:48:18] [main/ERROR]: No data fixer registered for battlestandard
+[01:48:18] [main/ERROR]: No data fixer registered for battlestandarddark
+[01:48:18] [main/ERROR]: No data fixer registered for simplyswords:simplybeeentity
+[01:48:18] [main/ERROR]: No data fixer registered for simplyswords:thrown_sword
+[01:48:18] [main/ERROR]: No data fixer registered for simplyswords:frostfall_entity
+[01:48:18] [main/ERROR]: No data fixer registered for simplyswords:livyatan_entity
+[01:48:18] [main/ERROR]: No data fixer registered for simplyswords:spear_entity
+[01:48:18] [main/ERROR]: No data fixer registered for simplyswords:runic_entity
+[01:48:18] [main/INFO]: [STDOUT]: /workspaces/ProyectoZ/servidor_minecraft/config
+[01:48:18] [main/ERROR]: No data fixer registered for 
+[01:48:18] [main/INFO]: Reading config values from file.
+[01:48:19] [main/INFO]: Reflections took 3 ms to scan 1 urls, producing 1 keys and 3 values
+[01:48:19] [main/INFO]: Reflections took 3 ms to scan 1 urls, producing 1 keys and 3 values
+[01:48:19] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
+[01:48:19] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
+[01:48:19] [main/INFO]: Reflections took 36 ms to scan 1 urls, producing 1 keys and 2 values
+[01:48:19] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
+[01:48:19] [main/INFO]: Krypton is now accelerating your Minecraft server's networking stack 🚀
+[01:48:20] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[01:48:23] [Worker-Main-3/INFO]: Loaded config simplyswords:loot in 11ms
+[01:48:25] [Worker-Main-3/ERROR]: Couldn't load tag bettertrims:trim_materials/unobtainium as it is missing following references: #c:unobtainium (from bettertrims), #c:storage_blocks/unobtainium (from bettertrims)
+[01:48:25] [Worker-Main-3/ERROR]: Couldn't load tag bettertrims:trim_materials/manganese as it is missing following references: #c:ingots/manganese (from bettertrims), #c:storage_blocks/manganese (from bettertrims)
+[01:48:25] [Worker-Main-3/ERROR]: Couldn't load tag bettertrims:trim_materials/mythril as it is missing following references: #c:ingots/mythril (from bettertrims), #c:storage_blocks/mythril (from bettertrims)
+[01:48:25] [Worker-Main-3/ERROR]: Couldn't load tag bettertrims:trim_materials/kyber as it is missing following references: #c:ingots/kyber (from bettertrims), #c:storage_blocks/kyber (from bettertrims)
+[01:48:25] [Worker-Main-3/ERROR]: Couldn't load tag bettertrims:trim_materials/hallowed as it is missing following references: #c:ingots/hallowed (from bettertrims), #c:storage_blocks/hallowed (from bettertrims)
+[01:48:25] [Worker-Main-3/ERROR]: Couldn't load tag bettertrims:trim_materials/steel as it is missing following references: #c:ingots/steel (from bettertrims), #c:storage_blocks/steel (from bettertrims)
+[01:48:25] [Worker-Main-3/ERROR]: Couldn't load tag bettertrims:trim_materials/stormyx as it is missing following references: #c:ingots/stormyx (from bettertrims), #c:storage_blocks/stormyx (from bettertrims)
+[01:48:25] [Worker-Main-3/ERROR]: Couldn't load tag bettertrims:trim_materials/orichalcum as it is missing following references: #c:ingots/orichalcum (from bettertrims), #c:storage_blocks/orichalcum (from bettertrims)
+[01:48:25] [Worker-Main-3/ERROR]: Couldn't load tag bettertrims:trim_materials/silver as it is missing following references: #c:ingots/silver (from bettertrims), #c:storage_blocks/silver (from bettertrims)
+[01:48:25] [Worker-Main-3/ERROR]: Couldn't load tag bettertrims:trim_materials/runite as it is missing following references: #c:ingots/runite (from bettertrims), #c:storage_blocks/runite (from bettertrims)
+[01:48:25] [Worker-Main-3/ERROR]: Couldn't load tag bettertrims:trim_materials/celestium as it is missing following references: #c:ingots/celestium (from bettertrims), #c:storage_blocks/celestium (from bettertrims)
+[01:48:25] [Worker-Main-3/ERROR]: Couldn't load tag bettertrims:trim_materials/osmium as it is missing following references: #c:ingots/osmium (from bettertrims), #c:storage_blocks/osmium (from bettertrims)
+[01:48:25] [Worker-Main-3/ERROR]: Couldn't load tag bettertrims:trim_materials/banglum as it is missing following references: #c:ingots/banglum (from bettertrims), #c:storage_blocks/banglum (from bettertrims)
+[01:48:25] [Worker-Main-3/ERROR]: Couldn't load tag bettertrims:trim_materials/palladium as it is missing following references: #c:ingots/palladium (from bettertrims), #c:storage_blocks/palladium (from bettertrims)
+[01:48:25] [Worker-Main-3/ERROR]: Couldn't load tag bettertrims:trim_materials/prometheum as it is missing following references: #c:ingots/prometheum (from bettertrims), #c:storage_blocks/prometheum (from bettertrims)
+[01:48:25] [Worker-Main-3/ERROR]: Couldn't load tag bettertrims:trim_materials/tin as it is missing following references: #c:ingots/tin (from bettertrims), #c:storage_blocks/tin (from bettertrims)
+[01:48:25] [Worker-Main-3/ERROR]: Couldn't load tag bettertrims:trim_materials/starrite as it is missing following references: #c:starrite (from bettertrims), #c:storage_blocks/starrite (from bettertrims)
+[01:48:25] [Worker-Main-3/ERROR]: Couldn't load tag bettertrims:trim_materials/star_platinum as it is missing following references: #c:star_platinum (from bettertrims), #c:storage_blocks/star_platinum (from bettertrims)
+[01:48:25] [Worker-Main-3/ERROR]: Couldn't load tag bettertrims:trim_materials/carmot as it is missing following references: #c:ingots/carmot (from bettertrims), #c:storage_blocks/carmot (from bettertrims)
+[01:48:25] [Worker-Main-3/ERROR]: Couldn't load tag bettertrims:trim_materials/platinum as it is missing following references: #c:ingots/platinum (from bettertrims), #c:storage_blocks/platinum (from bettertrims)
+[01:48:25] [Worker-Main-3/ERROR]: Couldn't load tag bettertrims:trim_materials/midas_gold as it is missing following references: #c:ingots/midas_gold (from bettertrims), #c:storage_blocks/midas_gold (from bettertrims)
+[01:48:25] [Worker-Main-3/ERROR]: Couldn't load tag bettertrims:trim_materials/quadrillum as it is missing following references: #c:ingots/quadrillum (from bettertrims), #c:storage_blocks/quadrillum (from bettertrims)
+[01:48:25] [Worker-Main-3/ERROR]: Couldn't load tag bettertrims:trim_materials/durasteel as it is missing following references: #c:ingots/durasteel (from bettertrims), #c:storage_blocks/durasteel (from bettertrims)
+[01:48:25] [Worker-Main-3/ERROR]: Couldn't load tag bettertrims:trim_materials/metallurgium as it is missing following references: #c:ingots/metallurgium (from bettertrims), #c:storage_blocks/metallurgium (from bettertrims)
+[01:48:25] [Worker-Main-3/ERROR]: Couldn't load tag bettertrims:trim_materials/adamantite as it is missing following references: #c:ingots/adamantite (from bettertrims), #c:storage_blocks/adamantite (from bettertrims)
+[01:48:25] [Worker-Main-3/ERROR]: Couldn't load tag bettertrims:trim_materials/bronze as it is missing following references: #c:ingots/bronze (from bettertrims), #c:storage_blocks/bronze (from bettertrims)
+[01:48:25] [Worker-Main-3/ERROR]: Couldn't load tag bettertrims:trim_materials/aquarium as it is missing following references: #c:ingots/aquarium (from bettertrims), #c:storage_blocks/aquarium (from bettertrims)
+[01:48:25] [main/ERROR]: Parsing error loading recipe deeperdarker:farmersdelight/cutting/blooming_stem
+com.google.gson.JsonParseException: Not a JSON object: "minecraft:item.axe.strip"; Not a JSON object: "farmersdelight:tree_bark"; Not a JSON object: "deeperdarker:stripped_blooming_stem"; Failed to parse either. First: Input does not contain a key [fabric:type]: MapLike[{"type":"farmersdelight:tool_action","action":"axe_strip"}]; Second: Failed to parse either. First: Not a json array: {"type":"farmersdelight:tool_action","action":"axe_strip"}; Second: No key tag in MapLike[{"type":"farmersdelight:tool_action","action":"axe_strip"}]; No key item in MapLike[{"type":"farmersdelight:tool_action","action":"axe_strip"}]
+	at knot/com.mojang.serialization.DataResult$Error.mdb7f41b$owo$lambda$addStackTraceToException$0$0(DataResult.java:565) ~[datafixerupper-8.0.16.jar:?]
+	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
+	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at knot/net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_156.method_43498(class_156.java:1024) [server-intermediary.jar:?]
+	at knot/net.minecraft.class_156.method_43499(class_156.java:1012) [server-intermediary.jar:?]
+	at knot/net.minecraft.server.Main.main(Main.java:182) [server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:480) [fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) [fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-launch.jar:1.0.1]
+[01:48:26] [main/ERROR]: Parsing error loading recipe deeperdarker:farmersdelight/cutting/bloom_sign
+com.google.gson.JsonParseException: Not a JSON object: "deeperdarker:bloom_planks"; Failed to parse either. First: Input does not contain a key [fabric:type]: MapLike[{"type":"farmersdelight:tool_action","action":"axe_dig"}]; Second: Failed to parse either. First: Not a json array: {"type":"farmersdelight:tool_action","action":"axe_dig"}; Second: No key tag in MapLike[{"type":"farmersdelight:tool_action","action":"axe_dig"}]; No key item in MapLike[{"type":"farmersdelight:tool_action","action":"axe_dig"}]
+	at knot/com.mojang.serialization.DataResult$Error.mdb7f41b$owo$lambda$addStackTraceToException$0$0(DataResult.java:565) ~[datafixerupper-8.0.16.jar:?]
+	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
+	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at knot/net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_156.method_43498(class_156.java:1024) [server-intermediary.jar:?]
+	at knot/net.minecraft.class_156.method_43499(class_156.java:1012) [server-intermediary.jar:?]
+	at knot/net.minecraft.server.Main.main(Main.java:182) [server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:480) [fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) [fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-launch.jar:1.0.1]
+[01:48:26] [main/ERROR]: Parsing error loading recipe deeperdarker:farmersdelight/cutting/echo_wood
+com.google.gson.JsonParseException: Not a JSON object: "minecraft:item.axe.strip"; Not a JSON object: "farmersdelight:tree_bark"; Not a JSON object: "deeperdarker:stripped_echo_wood"; Failed to parse either. First: Input does not contain a key [fabric:type]: MapLike[{"type":"farmersdelight:tool_action","action":"axe_strip"}]; Second: Failed to parse either. First: Not a json array: {"type":"farmersdelight:tool_action","action":"axe_strip"}; Second: No key tag in MapLike[{"type":"farmersdelight:tool_action","action":"axe_strip"}]; No key item in MapLike[{"type":"farmersdelight:tool_action","action":"axe_strip"}]
+	at knot/com.mojang.serialization.DataResult$Error.mdb7f41b$owo$lambda$addStackTraceToException$0$0(DataResult.java:565) ~[datafixerupper-8.0.16.jar:?]
+	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
+	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at knot/net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_156.method_43498(class_156.java:1024) [server-intermediary.jar:?]
+	at knot/net.minecraft.class_156.method_43499(class_156.java:1012) [server-intermediary.jar:?]
+	at knot/net.minecraft.server.Main.main(Main.java:182) [server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:480) [fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) [fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-launch.jar:1.0.1]
+[01:48:26] [main/ERROR]: Parsing error loading recipe deeperdarker:farmersdelight/cutting/bloom_hanging_sign
+com.google.gson.JsonParseException: Not a JSON object: "deeperdarker:bloom_planks"; Failed to parse either. First: Input does not contain a key [fabric:type]: MapLike[{"type":"farmersdelight:tool_action","action":"axe_dig"}]; Second: Failed to parse either. First: Not a json array: {"type":"farmersdelight:tool_action","action":"axe_dig"}; Second: No key tag in MapLike[{"type":"farmersdelight:tool_action","action":"axe_dig"}]; No key item in MapLike[{"type":"farmersdelight:tool_action","action":"axe_dig"}]
+	at knot/com.mojang.serialization.DataResult$Error.mdb7f41b$owo$lambda$addStackTraceToException$0$0(DataResult.java:565) ~[datafixerupper-8.0.16.jar:?]
+	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
+	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at knot/net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_156.method_43498(class_156.java:1024) [server-intermediary.jar:?]
+	at knot/net.minecraft.class_156.method_43499(class_156.java:1012) [server-intermediary.jar:?]
+	at knot/net.minecraft.server.Main.main(Main.java:182) [server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:480) [fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) [fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-launch.jar:1.0.1]
+[01:48:26] [main/ERROR]: Parsing error loading recipe deeperdarker:farmersdelight/cutting/echo_hanging_sign
+com.google.gson.JsonParseException: Not a JSON object: "deeperdarker:echo_planks"; Failed to parse either. First: Input does not contain a key [fabric:type]: MapLike[{"type":"farmersdelight:tool_action","action":"axe_dig"}]; Second: Failed to parse either. First: Not a json array: {"type":"farmersdelight:tool_action","action":"axe_dig"}; Second: No key tag in MapLike[{"type":"farmersdelight:tool_action","action":"axe_dig"}]; No key item in MapLike[{"type":"farmersdelight:tool_action","action":"axe_dig"}]
+	at knot/com.mojang.serialization.DataResult$Error.mdb7f41b$owo$lambda$addStackTraceToException$0$0(DataResult.java:565) ~[datafixerupper-8.0.16.jar:?]
+	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
+	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at knot/net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_156.method_43498(class_156.java:1024) [server-intermediary.jar:?]
+	at knot/net.minecraft.class_156.method_43499(class_156.java:1012) [server-intermediary.jar:?]
+	at knot/net.minecraft.server.Main.main(Main.java:182) [server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:480) [fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) [fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-launch.jar:1.0.1]
+[01:48:26] [main/ERROR]: Parsing error loading recipe deeperdarker:farmersdelight/cutting/echo_door
+com.google.gson.JsonParseException: Not a JSON object: "deeperdarker:echo_planks"; Failed to parse either. First: Input does not contain a key [fabric:type]: MapLike[{"type":"farmersdelight:tool_action","action":"axe_dig"}]; Second: Failed to parse either. First: Not a json array: {"type":"farmersdelight:tool_action","action":"axe_dig"}; Second: No key tag in MapLike[{"type":"farmersdelight:tool_action","action":"axe_dig"}]; No key item in MapLike[{"type":"farmersdelight:tool_action","action":"axe_dig"}]
+	at knot/com.mojang.serialization.DataResult$Error.mdb7f41b$owo$lambda$addStackTraceToException$0$0(DataResult.java:565) ~[datafixerupper-8.0.16.jar:?]
+	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
+	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at knot/net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_156.method_43498(class_156.java:1024) [server-intermediary.jar:?]
+	at knot/net.minecraft.class_156.method_43499(class_156.java:1012) [server-intermediary.jar:?]
+	at knot/net.minecraft.server.Main.main(Main.java:182) [server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:480) [fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) [fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-launch.jar:1.0.1]
+[01:48:26] [main/ERROR]: Parsing error loading recipe deeperdarker:farmersdelight/cutting/echo_log
+com.google.gson.JsonParseException: Not a JSON object: "minecraft:item.axe.strip"; Not a JSON object: "farmersdelight:tree_bark"; Not a JSON object: "deeperdarker:stripped_echo_log"; Failed to parse either. First: Input does not contain a key [fabric:type]: MapLike[{"type":"farmersdelight:tool_action","action":"axe_strip"}]; Second: Failed to parse either. First: Not a json array: {"type":"farmersdelight:tool_action","action":"axe_strip"}; Second: No key tag in MapLike[{"type":"farmersdelight:tool_action","action":"axe_strip"}]; No key item in MapLike[{"type":"farmersdelight:tool_action","action":"axe_strip"}]
+	at knot/com.mojang.serialization.DataResult$Error.mdb7f41b$owo$lambda$addStackTraceToException$0$0(DataResult.java:565) ~[datafixerupper-8.0.16.jar:?]
+	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
+	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at knot/net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_156.method_43498(class_156.java:1024) [server-intermediary.jar:?]
+	at knot/net.minecraft.class_156.method_43499(class_156.java:1012) [server-intermediary.jar:?]
+	at knot/net.minecraft.server.Main.main(Main.java:182) [server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:480) [fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) [fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-launch.jar:1.0.1]
+[01:48:26] [main/ERROR]: Parsing error loading recipe deeperdarker:farmersdelight/cutting/bloom_door
+com.google.gson.JsonParseException: Not a JSON object: "deeperdarker:bloom_planks"; Failed to parse either. First: Input does not contain a key [fabric:type]: MapLike[{"type":"farmersdelight:tool_action","action":"axe_dig"}]; Second: Failed to parse either. First: Not a json array: {"type":"farmersdelight:tool_action","action":"axe_dig"}; Second: No key tag in MapLike[{"type":"farmersdelight:tool_action","action":"axe_dig"}]; No key item in MapLike[{"type":"farmersdelight:tool_action","action":"axe_dig"}]
+	at knot/com.mojang.serialization.DataResult$Error.mdb7f41b$owo$lambda$addStackTraceToException$0$0(DataResult.java:565) ~[datafixerupper-8.0.16.jar:?]
+	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
+	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at knot/net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_156.method_43498(class_156.java:1024) [server-intermediary.jar:?]
+	at knot/net.minecraft.class_156.method_43499(class_156.java:1012) [server-intermediary.jar:?]
+	at knot/net.minecraft.server.Main.main(Main.java:182) [server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:480) [fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) [fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-launch.jar:1.0.1]
+[01:48:26] [main/ERROR]: Parsing error loading recipe deeperdarker:farmersdelight/cutting/echo_sign
+com.google.gson.JsonParseException: Not a JSON object: "deeperdarker:echo_planks"; Failed to parse either. First: Input does not contain a key [fabric:type]: MapLike[{"type":"farmersdelight:tool_action","action":"axe_dig"}]; Second: Failed to parse either. First: Not a json array: {"type":"farmersdelight:tool_action","action":"axe_dig"}; Second: No key tag in MapLike[{"type":"farmersdelight:tool_action","action":"axe_dig"}]; No key item in MapLike[{"type":"farmersdelight:tool_action","action":"axe_dig"}]
+	at knot/com.mojang.serialization.DataResult$Error.mdb7f41b$owo$lambda$addStackTraceToException$0$0(DataResult.java:565) ~[datafixerupper-8.0.16.jar:?]
+	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
+	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at knot/net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_156.method_43498(class_156.java:1024) [server-intermediary.jar:?]
+	at knot/net.minecraft.class_156.method_43499(class_156.java:1012) [server-intermediary.jar:?]
+	at knot/net.minecraft.server.Main.main(Main.java:182) [server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:480) [fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) [fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-launch.jar:1.0.1]
+[01:48:26] [main/ERROR]: Parsing error loading recipe deeperdarker:farmersdelight/cutting/echo_trapdoor
+com.google.gson.JsonParseException: Not a JSON object: "deeperdarker:echo_planks"; Failed to parse either. First: Input does not contain a key [fabric:type]: MapLike[{"type":"farmersdelight:tool_action","action":"axe_dig"}]; Second: Failed to parse either. First: Not a json array: {"type":"farmersdelight:tool_action","action":"axe_dig"}; Second: No key tag in MapLike[{"type":"farmersdelight:tool_action","action":"axe_dig"}]; No key item in MapLike[{"type":"farmersdelight:tool_action","action":"axe_dig"}]
+	at knot/com.mojang.serialization.DataResult$Error.mdb7f41b$owo$lambda$addStackTraceToException$0$0(DataResult.java:565) ~[datafixerupper-8.0.16.jar:?]
+	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
+	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at knot/net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_156.method_43498(class_156.java:1024) [server-intermediary.jar:?]
+	at knot/net.minecraft.class_156.method_43499(class_156.java:1012) [server-intermediary.jar:?]
+	at knot/net.minecraft.server.Main.main(Main.java:182) [server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:480) [fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) [fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-launch.jar:1.0.1]
+[01:48:26] [main/ERROR]: Parsing error loading recipe deeperdarker:farmersdelight/cutting/bloom_trapdoor
+com.google.gson.JsonParseException: Not a JSON object: "deeperdarker:bloom_planks"; Failed to parse either. First: Input does not contain a key [fabric:type]: MapLike[{"type":"farmersdelight:tool_action","action":"axe_dig"}]; Second: Failed to parse either. First: Not a json array: {"type":"farmersdelight:tool_action","action":"axe_dig"}; Second: No key tag in MapLike[{"type":"farmersdelight:tool_action","action":"axe_dig"}]; No key item in MapLike[{"type":"farmersdelight:tool_action","action":"axe_dig"}]
+	at knot/com.mojang.serialization.DataResult$Error.mdb7f41b$owo$lambda$addStackTraceToException$0$0(DataResult.java:565) ~[datafixerupper-8.0.16.jar:?]
+	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
+	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at knot/net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_156.method_43498(class_156.java:1024) [server-intermediary.jar:?]
+	at knot/net.minecraft.class_156.method_43499(class_156.java:1012) [server-intermediary.jar:?]
+	at knot/net.minecraft.server.Main.main(Main.java:182) [server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:480) [fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) [fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-launch.jar:1.0.1]
+[01:48:26] [main/INFO]: Loaded 3898 recipes
+[01:48:26] [main/ERROR]: Parsing error loading custom advancement dungeons_arise:find_thornborn_towers: No key id in MapLike[{"item":"minecraft:rose_bush"}]
+[01:48:26] [main/ERROR]: Parsing error loading custom advancement dungeons_arise:find_illager_corsair_or_illager_galley: No key id in MapLike[{"item":"minecraft:tropical_fish"}]
+[01:48:26] [main/ERROR]: Parsing error loading custom advancement dungeons_arise:find_keep_kayra: No key id in MapLike[{"item":"minecraft:lily_pad"}]
+[01:48:26] [main/ERROR]: Parsing error loading custom advancement dungeons_arise:find_infested_temple_map: No key id in MapLike[{"item":"minecraft:filled_map"}]
+[01:48:26] [main/ERROR]: Parsing error loading custom advancement dungeons_arise:find_greenwood_pub: No key id in MapLike[{"item":"minecraft:barrel"}]
+[01:48:26] [main/ERROR]: Couldn't load advancements: [dungeons_arise:find_plague_asylum, minecraft:wander_add_map, dungeons_arise:find_fishing_hut, minecraft:give_quest_trader_trade]
+[01:48:26] [main/INFO]: Loaded 2773 advancements
+[01:48:26] [main/INFO]: Loaded 32 entity animations
+[01:48:26] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:scavenging_smoked_ham_from_hoglin - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_item
+[01:48:26] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:straw_from_sandy_shrub - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_item
+[01:48:26] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:slicing_apple_pie - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:pastry_slicing
+[01:48:26] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:slicing_cake - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:pastry_slicing
+[01:48:26] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:add_loot_abandoned_mineshaft - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_loot_table
+[01:48:26] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:scavenging_ham_from_hoglin - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_item
+[01:48:26] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:straw_from_grass - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_item
+[01:48:26] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:scavenging_shulker_shell - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_item
+[01:48:26] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:scavenging_string - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_item
+[01:48:26] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:scavenging_pumpkin - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:replace_item
+[01:48:26] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:add_loot_end_city_treasure - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_loot_table
+[01:48:26] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:scavenging_ham_from_pig - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_item
+[01:48:26] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:slicing_chocolate_pie - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:pastry_slicing
+[01:48:26] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:straw_from_tall_grass - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_item
+[01:48:26] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:slicing_candle_cake - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_item
+[01:48:26] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:slicing_sweet_berry_cheesecake - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:pastry_slicing
+[01:48:26] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:straw_from_mature_wheat - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_item
+[01:48:26] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:scavenging_leather - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_item
+[01:48:26] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:add_loot_shipwreck_supply - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_loot_table
+[01:48:26] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:add_loot_simple_dungeon - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_loot_table
+[01:48:26] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:straw_from_mature_rice - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_item
+[01:48:26] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:scavenging_feather - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_item
+[01:48:26] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:scavenging_rabbit_hide - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_item
+[01:48:26] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:add_loot_village_snowy_house - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_loot_table
+[01:48:26] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:add_loot_village_desert_house - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_loot_table
+[01:48:26] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:add_loot_bastion_treasure - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_loot_table
+[01:48:26] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:add_loot_pillager_outpost - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_loot_table
+[01:48:26] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:add_loot_village_plains_house - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_loot_table
+[01:48:26] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:add_loot_village_taiga_house - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_loot_table
+[01:48:26] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:scavenging_smoked_ham_from_pig - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_item
+[01:48:26] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:add_loot_village_butcher - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_loot_table
+[01:48:26] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:add_loot_ruined_portal - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_loot_table
+[01:48:26] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:add_loot_bastion_hoglin_stable - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_loot_table
+[01:48:26] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:add_loot_village_savanna_house - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_loot_table
+[01:48:27] [main/INFO]: Applied 1398 biome modifications to 166 of 180 new biomes in 66.48 ms
+[01:48:27] [Server thread/INFO]: Dispatching loading event for config enchantinginfuser-server.toml
+[01:48:27] [Server thread/INFO]: Starting background profiler...
+[01:48:28] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[01:48:28] [Server thread/INFO]: Loading properties
+[01:48:28] [Server thread/INFO]: Default game type: SURVIVAL
+[01:48:28] [Server thread/INFO]: Generating keypair
+[01:48:29] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:48:29] [Server thread/INFO]: Using epoll channel type
+[01:48:29] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01:48:29] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[01:48:29] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[01:48:29] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[01:48:29] [Server thread/INFO]: Preparing level "world"
+[01:48:30] [Server thread/INFO]: Ksyxis: Hey. This is Ksyxis. We will now load the world and will try to do it quickly. If the game is not responding after this, it's probably us to blame or delete for good. This message appears always, even if the mod works flawlessly. (modern)
+[01:48:30] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[01:48:30] [Server thread/WARN]: Method overwrite conflict for removeIf in modernfix-common.mixins.json:bugfix.paper_chunk_patches.SortedArraySetMixin from mod modernfix, previously written by net.caffeinemc.mods.lithium.mixin.collections.chunk_tickets.SortedArraySetMixin. Skipping method.
+[01:48:30] [Server thread/INFO]: Time elapsed: 70 ms
+[01:48:30] [Server thread/INFO]: Done (1.532s)! For help, type "help"
+[01:48:30] [Server thread/WARN]: Dedicated server took 46.518 seconds to load
+[01:48:30] [Server thread/INFO]: Start loading plugin from Exposure: io.github.mortuusars.exposure.integration.jade.ExposureJadePlugin
+[01:48:30] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.core.CorePlugin
+[01:48:30] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.vanilla.VanillaPlugin
+[01:48:30] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.universal.UniversalPlugin
+[01:48:30] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.access.AccessibilityPlugin
+[01:48:30] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.debug.DebugPlugin
+[01:48:31] [Server thread/INFO]: Loaded null for service interface journeymap.api.services.WebMapService
+[01:48:31] [Server thread/INFO]: Loaded journeymap.common.helpers.FabricClientHooks@7d067119 for service interface journeymap.api.services.ClientPlatformService
+[01:48:31] [Server thread/INFO]: Loaded journeymap.common.helpers.FabricHooks@10a902a3 for service interface journeymap.api.services.CommonPlatformService
+[01:51:38] [Server thread/INFO]: [STDOUT]: Lithium Cached BlockState Flags are disabled!
+[01:51:38] [Server thread/INFO]: El_Andrew22[/100.99.232.91:52639] logged in with entity id 19 at (-426.81894720667447, 69.0, -329.1255640341155)
+[01:51:38] [Server thread/INFO]: Reading config values from file.
+[01:51:39] [Server thread/INFO]: El_Andrew22 joined the game
+[01:51:39] [Server thread/INFO]: Sending item configs to client
+[01:53:05] [Server thread/INFO]: Akalixy[/100.120.240.91:52970] logged in with entity id 462 at (-425.5, 68.5625, -328.5)
+[01:53:05] [Server thread/INFO]: Reading config values from file.
+[01:53:05] [Server thread/INFO]: Akalixy joined the game
+[01:53:05] [Server thread/INFO]: Sending item configs to client
+[01:57:03] [Server thread/INFO]: El_Andrew22 teleported to 60.0 83.0 -127.0 minecraft:overworld
+[01:57:39] [Server thread/INFO]: El_Andrew22 teleported to -426.5 69.0 -326.5 minecraft:overworld
