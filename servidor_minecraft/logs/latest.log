@@ -681,3 +681,5 @@ com.google.gson.JsonParseException: Not a JSON object: "deeperdarker:bloom_plank
 [01:53:05] [Server thread/INFO]: Sending item configs to client
 [01:57:03] [Server thread/INFO]: El_Andrew22 teleported to 60.0 83.0 -127.0 minecraft:overworld
 [01:57:39] [Server thread/INFO]: El_Andrew22 teleported to -426.5 69.0 -326.5 minecraft:overworld
+[02:07:40] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=-434, y=69, z=-344}) doesn't have enough leaves around top most log
+[02:07:40] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=-434, y=68, z=-344}) doesn't have enough leaves around top most log
