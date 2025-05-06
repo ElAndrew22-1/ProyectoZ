@@ -2586,6 +2586,7 @@
       "minecraft:pillager": "2025-05-04 03:29:36 +0000",
       "minecraft:cave_spider": "2025-05-05 01:10:10 +0000",
       "minecraft:skeleton": "2025-05-04 04:09:54 +0000",
+      "minecraft:magma_cube": "2025-05-06 02:56:19 +0000",
       "minecraft:spider": "2025-05-04 04:07:09 +0000",
       "minecraft:wither_skeleton": "2025-05-05 01:52:40 +0000",
       "minecraft:zombie": "2025-05-04 03:28:50 +0000",
@@ -4862,9 +4863,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_quartz_slab_from_smooth_quartz_stonecutting": {
+    "criteria": {
+      "has_smooth_quartz": "2025-05-06 02:51:22 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/building_blocks/straw_bale": {
     "criteria": {
       "has_straw": "2025-05-06 02:46:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_slab": {
+    "criteria": {
+      "has_smooth_quartz": "2025-05-06 02:51:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_chiseled_quartz_block": "2025-05-06 02:52:22 +0000"
     },
     "done": true
   },
@@ -4874,9 +4893,21 @@
     },
     "done": true
   },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-05-06 03:05:50 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/berry_jam_jar": {
     "criteria": {
       "has_berry_jam_jar": "2025-05-06 01:57:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar": {
+    "criteria": {
+      "has_chiseled_quartz_block": "2025-05-06 02:52:22 +0000"
     },
     "done": true
   },
@@ -4898,15 +4929,45 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/smooth_quartz_stairs_from_smooth_quartz_stonecutting": {
+    "criteria": {
+      "has_smooth_quartz": "2025-05-06 02:51:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/flower_banner_pattern": {
     "criteria": {
       "has_oxeye_daisy": "2025-05-06 02:45:16 +0000"
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-05-06 03:05:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
+    "criteria": {
+      "has_chiseled_quartz_block": "2025-05-06 02:52:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_chiseled_quartz_block": "2025-05-06 02:52:22 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/building_blocks/packed_mud_from_straw": {
     "criteria": {
       "has_straw": "2025-05-06 02:46:28 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_small_blimp": {
+    "criteria": {
+      "location0": "2025-05-06 02:51:19 +0000"
     },
     "done": true
   },
@@ -4943,6 +5004,12 @@
   "farmersdelight:recipes/building_blocks/organic_compost_from_tree_bark": {
     "criteria": {
       "has_straw": "2025-05-06 02:46:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_stairs": {
+    "criteria": {
+      "has_smooth_quartz": "2025-05-06 02:51:22 +0000"
     },
     "done": true
   },
