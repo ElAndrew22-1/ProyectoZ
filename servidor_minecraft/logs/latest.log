@@ -807,3 +807,37 @@ com.google.gson.JsonParseException: Not a JSON object: "deeperdarker:bloom_plank
 [03:57:33] [Server thread/INFO]: El_Andrew22 teleported to -1764.0 -33.0 -433.0 minecraft:overworld
 [03:58:33] [Server thread/INFO]: El_Andrew22 teleported to -1897.0 -53.0 -521.0 minecraft:overworld
 [03:59:22] [Server thread/INFO]: artifacts:mimic
+[04:02:36] [Server thread/INFO]: minecraft:bat
+[04:03:28] [Server thread/INFO]: minecraft:zombie
+[04:04:17] [Server thread/INFO]: minecraft:skeleton
+[04:04:45] [Server thread/INFO]: [El_Andrew22: Teleported El_Andrew22 to Akalixy]
+[04:09:19] [Server thread/INFO]: Akalixy has made the advancement [Amateur Archaeologist]
+[04:10:43] [Server thread/INFO]: El_Andrew22 has made the advancement [Cover Me with Diamonds]
+[04:17:04] [Server thread/INFO]: [El_Andrew22: Teleported Akalixy to El_Andrew22]
+[04:19:46] [Server thread/INFO]: [El_Andrew22: Teleported El_Andrew22 to Akalixy]
+[04:20:19] [Server thread/INFO]: Akalixy has made the advancement [Cover Me with Diamonds]
+[04:20:38] [Server thread/INFO]: El_Andrew22 teleported to -426.5 69.0 -326.5 minecraft:overworld
+[04:20:45] [Server thread/INFO]: [El_Andrew22: Teleported El_Andrew22 to Akalixy]
+[04:20:49] [Server thread/INFO]: El_Andrew22 teleported to -426.5 69.0 -326.5 minecraft:overworld
+[04:20:52] [Server thread/INFO]: [El_Andrew22: Teleported Akalixy to El_Andrew22]
+[04:25:26] [Server thread/INFO]: minecraft:spider
+[04:33:42] [Server thread/INFO]: El_Andrew22 lost connection: Disconnected
+[04:33:42] [Server thread/INFO]: El_Andrew22 left the game
+[04:33:43] [Server thread/INFO]: Akalixy lost connection: Disconnected
+[04:33:43] [Server thread/INFO]: Akalixy left the game
+[04:33:50] [Server thread/INFO]: Stopping the server
+[04:33:50] [Server thread/INFO]: Stopping server
+[04:33:50] [Server thread/INFO]: Saving players
+[04:33:50] [Server thread/INFO]: Saving worlds
+[04:33:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[04:33:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[04:33:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/the_bumblezone:the_bumblezone
+[04:33:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[04:33:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[04:33:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[04:33:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04:33:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (the_bumblezone): All chunks are saved
+[04:33:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[04:33:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04:33:50] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[04:33:50] [Server thread/INFO]: Dispatching unloading event for config enchantinginfuser-server.toml
