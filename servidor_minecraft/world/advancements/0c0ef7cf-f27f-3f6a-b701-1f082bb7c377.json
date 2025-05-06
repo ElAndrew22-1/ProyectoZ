@@ -4930,6 +4930,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-05-06 03:38:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_tuff_slab_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-05-06 03:36:38 +0000"
@@ -5165,6 +5171,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2025-05-06 03:41:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/tuff_stairs_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-05-06 03:36:38 +0000"
@@ -5222,6 +5234,12 @@
   "minecraft:recipes/transportation/rail": {
     "criteria": {
       "has_minecart": "2025-05-06 03:33:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-05-06 03:38:47 +0000"
     },
     "done": true
   },
