@@ -3503,6 +3503,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/complete_catalogue": {
+    "criteria": {
+      "minecraft:red": "2025-05-06 03:12:11 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/copper_block": {
     "criteria": {
       "has_copper_ingot": "2025-05-06 02:18:32 +0000"
