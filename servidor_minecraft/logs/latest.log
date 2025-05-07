@@ -992,3 +992,42 @@ java.lang.NullPointerException: Cannot read field "field_11885" because "brewing
 [03:48:41] [Worker-Main-4/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls/no_corners -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
 [03:49:54] [Server thread/INFO]: minecraft:glow_squid
 [03:50:03] [Server thread/INFO]: [El_Andrew22: Teleported Akalixy to El_Andrew22]
+[03:59:41] [Server thread/INFO]: El_Andrew22 teleported to 492.0 67.0 -1100.0 minecraft:overworld
+[03:59:48] [Server thread/INFO]: El_Andrew22 teleported to 536.0 69.0 -1121.0 minecraft:overworld
+[04:00:08] [Server thread/INFO]: [El_Andrew22: Teleported El_Andrew22 to Akalixy]
+[04:00:26] [Server thread/INFO]: El_Andrew22 teleported to 693.0 67.0 -863.0 minecraft:overworld
+[04:00:37] [Server thread/INFO]: El_Andrew22 teleported to 644.0 68.0 -771.0 minecraft:overworld
+[04:00:40] [Server thread/INFO]: El_Andrew22 teleported to 751.0 68.0 -778.0 minecraft:overworld
+[04:00:55] [Server thread/INFO]: El_Andrew22 teleported to -426.5 69.0 -326.5 minecraft:overworld
+[04:01:23] [Server thread/INFO]: El_Andrew22 teleported to 703.0 67.0 -842.0 minecraft:overworld
+[04:02:14] [Server thread/INFO]: El_Andrew22 teleported to -426.5 69.0 -326.5 minecraft:overworld
+[04:03:10] [Server thread/INFO]: El_Andrew22 teleported to -559.0 108.0 -327.0 minecraft:overworld
+[04:03:23] [Server thread/INFO]: El_Andrew22 teleported to -426.5 69.0 -326.5 minecraft:overworld
+[04:04:28] [Server thread/INFO]: El_Andrew22 teleported to -405.0 67.0 -358.0 minecraft:overworld
+[04:04:55] [Server thread/INFO]: El_Andrew22 teleported to -481.0 68.0 -476.0 minecraft:overworld
+[04:06:05] [Server thread/INFO]: El_Andrew22 teleported to -400.0 67.0 -338.0 minecraft:overworld
+[04:06:58] [Server thread/INFO]: [Not Secure] <El_Andrew22> zzzzzzzzzzz
+[04:06:59] [Server thread/INFO]: [Not Secure] <El_Andrew22> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+[04:07:02] [Server thread/INFO]: [Not Secure] <El_Andrew22> ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ
+[04:07:40] [Server thread/INFO]: El_Andrew22 teleported to 617.0 68.0 -1175.0 minecraft:overworld
+[04:07:52] [Server thread/INFO]: Akalixy lost connection: Disconnected
+[04:07:52] [Server thread/INFO]: Akalixy left the game
+[04:08:19] [Server thread/INFO]: El_Andrew22 teleported to -426.5 69.0 -326.5 minecraft:overworld
+[04:09:14] [Server thread/INFO]: El_Andrew22 lost connection: Disconnected
+[04:09:14] [Server thread/INFO]: El_Andrew22 left the game
+[04:09:29] [Server thread/INFO]: Stopping the server
+[04:09:30] [Server thread/INFO]: Stopping server
+[04:09:30] [Server thread/INFO]: Saving players
+[04:09:30] [Server thread/INFO]: Saving worlds
+[04:09:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[04:09:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[04:09:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/the_bumblezone:the_bumblezone
+[04:09:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[04:09:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[04:09:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[04:09:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[04:09:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (the_bumblezone): All chunks are saved
+[04:09:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04:09:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04:09:30] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[04:09:30] [Server thread/INFO]: Dispatching unloading event for config enchantinginfuser-server.toml
