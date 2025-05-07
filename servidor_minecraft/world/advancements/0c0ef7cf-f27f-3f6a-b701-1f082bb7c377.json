@@ -183,7 +183,8 @@
       "cooked_chicken": "2025-05-04 04:32:00 +0000",
       "cooked_beef": "2025-05-05 01:06:09 +0000",
       "baked_potato": "2025-05-04 04:19:53 +0000",
-      "pumpkin_pie": "2025-05-04 04:39:34 +0000"
+      "pumpkin_pie": "2025-05-04 04:39:34 +0000",
+      "tropical_fish": "2025-05-07 02:39:14 +0000"
     },
     "done": false
   },
@@ -5293,12 +5294,6 @@
     },
     "done": true
   },
-  "minecraft:wander_add_map": {
-    "criteria": {
-      "wandering": "2025-05-07 01:50:56 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/magenta_dye_from_allium": {
     "criteria": {
       "has_allium": "2025-05-07 01:41:31 +0000"
@@ -5311,9 +5306,69 @@
     },
     "done": true
   },
+  "minecraft:wander_add_map": {
+    "criteria": {
+      "wandering": "2025-05-07 01:50:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
     "criteria": {
       "has_orange_tulip": "2025-05-07 01:57:18 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/milk_bottle": {
+    "criteria": {
+      "has_milk_bucket": "2025-05-07 02:50:31 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/acacia": {
+    "criteria": {
+      "has_wood": "2025-05-07 02:42:00 +0000"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/acacia": {
+    "criteria": {
+      "has_wood": "2025-05-07 02:42:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-05-07 02:50:37 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/hot_cocoa": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-07 02:50:31 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/acacia": {
+    "criteria": {
+      "has_wood": "2025-05-07 02:42:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2025-05-07 02:42:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/axolotl_in_a_bucket": {
+    "criteria": {
+      "axolotl_bucket": "2025-05-07 02:38:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2025-05-07 02:42:00 +0000"
     },
     "done": true
   },
