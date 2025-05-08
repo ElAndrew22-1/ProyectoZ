@@ -412,3 +412,7 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.class_1297.method_1
 [03:44:23] [Server thread/INFO]: Reading config values from file.
 [03:44:23] [Server thread/INFO]: Akalixy joined the game
 [03:44:23] [Server thread/INFO]: Sending item configs to client
+[03:48:01] [Server thread/INFO]: Akalixy has made the advancement [Hidden in the Depths]
+[03:53:51] [Server thread/INFO]: [El_Andrew22: Teleported El_Andrew22 to Akalixy]
+[03:56:00] [Server thread/INFO]: El_Andrew22 teleported to -426.5 69.0 -326.5 minecraft:overworld
+[03:56:07] [Server thread/INFO]: [El_Andrew22: Teleported Akalixy to El_Andrew22]
