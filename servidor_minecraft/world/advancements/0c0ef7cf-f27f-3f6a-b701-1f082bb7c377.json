@@ -2596,6 +2596,7 @@
       "minecraft:wither_skeleton": "2025-05-05 01:52:40 +0000",
       "minecraft:zombie": "2025-05-04 03:28:50 +0000",
       "minecraft:creeper": "2025-05-04 03:33:09 +0000",
+      "minecraft:drowned": "2025-05-07 23:57:43 +0000",
       "minecraft:husk": "2025-05-05 01:26:34 +0000"
     },
     "done": false
@@ -5425,6 +5426,18 @@
   "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
       "has_soul_sand": "2025-05-07 03:13:42 +0000"
+    },
+    "done": true
+  },
+  "friendsandfoes:misc/yellow_dye_from_buttercup": {
+    "criteria": {
+      "has_buttercup": "2025-05-07 23:51:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_sunflower": "2025-05-07 23:52:00 +0000"
     },
     "done": true
   },
