@@ -380,3 +380,18 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.class_1297.method_1
 	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:281) ~[server-intermediary.jar:?]
 	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
 [03:25:22] [Server thread/INFO]: [El_Andrew22: Teleported Akalixy to El_Andrew22]
+[03:30:21] [Server thread/INFO]: El_Andrew22 teleported to -426.5 69.0 -326.5 minecraft:overworld
+[03:32:08] [Server thread/INFO]: [El_Andrew22: Teleported El_Andrew22 to Akalixy]
+[03:32:22] [Server thread/INFO]: El_Andrew22 teleported to -426.5 69.0 -326.5 minecraft:overworld
+[03:32:41] [Server thread/INFO]: [El_Andrew22: Teleported El_Andrew22 to Akalixy]
+[03:33:57] [Server thread/INFO]: El_Andrew22 has made the advancement [Those Were the Days]
+[03:34:05] [Server thread/INFO]: El_Andrew22 has made the advancement [The Dust Settles]
+[03:34:05] [Server thread/INFO]: El_Andrew22 has made the advancement [Strange Biomes]
+[03:34:06] [Server thread/INFO]: Akalixy has made the advancement [Those Were the Days]
+[03:34:15] [Server thread/INFO]: [El_Andrew22: Teleported Akalixy to El_Andrew22]
+[03:34:25] [Server thread/INFO]: Akalixy has made the advancement [The Dust Settles]
+[03:34:25] [Server thread/INFO]: Akalixy has made the advancement [Strange Biomes]
+[03:35:14] [Server thread/INFO]: El_Andrew22 has made the advancement [War Pigs]
+[03:35:40] [Server thread/INFO]: Akalixy has made the advancement [War Pigs]
+[03:35:43] [Server thread/INFO]: Akalixy has made the advancement [Hunt and Gather]
+[03:35:50] [Server thread/INFO]: Akalixy has made the advancement [Who is Cutting Onions?]
