@@ -53,3 +53,19 @@
 [02:10:37] [Server thread/INFO]: El_Andrew22 teleported to -426.5 69.0 -326.5 minecraft:overworld
 [02:10:45] [Server thread/INFO]: [El_Andrew22: Teleported Akalixy to El_Andrew22]
 [02:30:24] [Server thread/INFO]: [El_Andrew22: Teleported Akalixy to El_Andrew22]
+[02:35:37] [Server thread/INFO]: minecraft:bat
+[02:36:44] [Server thread/WARN]: Akalixy was kicked for floating too long!
+[02:36:44] [Server thread/INFO]: Akalixy lost connection: Flying is not enabled on this server
+[02:36:44] [Server thread/INFO]: Akalixy left the game
+[02:36:44] [Server thread/WARN]: handleDisconnection() called twice
+[02:36:51] [Server thread/INFO]: Akalixy[/100.120.240.91:60042] logged in with entity id 49820 at (-435.0892701570498, 68.25220334025373, -327.8242878577146)
+[02:36:51] [Server thread/INFO]: Reading config values from file.
+[02:36:51] [Server thread/INFO]: Akalixy joined the game
+[02:36:51] [Server thread/INFO]: Sending item configs to client
+[02:38:06] [Server thread/INFO]: Akalixy lost connection: Timed out
+[02:38:06] [Server thread/INFO]: Akalixy left the game
+[02:38:12] [Server thread/INFO]: Akalixy[/100.120.240.91:60157] logged in with entity id 49991 at (-423.71755591671166, 72.04110926093821, -328.06650591008025)
+[02:38:12] [Server thread/INFO]: Reading config values from file.
+[02:38:12] [Server thread/INFO]: Akalixy joined the game
+[02:38:12] [Server thread/INFO]: Sending item configs to client
+[02:45:14] [Server thread/INFO]: minecraft:bat
