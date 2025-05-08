@@ -395,3 +395,20 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.class_1297.method_1
 [03:35:40] [Server thread/INFO]: Akalixy has made the advancement [War Pigs]
 [03:35:43] [Server thread/INFO]: Akalixy has made the advancement [Hunt and Gather]
 [03:35:50] [Server thread/INFO]: Akalixy has made the advancement [Who is Cutting Onions?]
+[03:36:33] [Server thread/INFO]: El_Andrew22 has made the advancement [Hidden in the Depths]
+[03:36:44] [Server thread/INFO]: [El_Andrew22: Teleported El_Andrew22 to Akalixy]
+[03:38:35] [Server thread/INFO]: minecraft:magma_cube
+[03:38:48] [Server thread/INFO]: minecraft:magma_cube
+[03:39:26] [Server thread/INFO]: [El_Andrew22: Teleported El_Andrew22 to Akalixy]
+[03:39:30] [Server thread/INFO]: El_Andrew22 teleported to -426.5 69.0 -326.5 minecraft:overworld
+[03:39:33] [Server thread/INFO]: [El_Andrew22: Teleported Akalixy to El_Andrew22]
+[03:39:51] [Server thread/INFO]: El_Andrew22 teleported to -7.5 44.0 -179.5 minecraft:the_nether
+[03:40:56] [Server thread/INFO]: El_Andrew22 teleported to -7.5 44.0 -179.5 minecraft:the_nether
+[03:40:59] [Server thread/INFO]: [El_Andrew22: Teleported Akalixy to El_Andrew22]
+[03:41:18] [Server thread/INFO]: [El_Andrew22: Teleported El_Andrew22 to Akalixy]
+[03:44:18] [Server thread/INFO]: Akalixy lost connection: Timed out
+[03:44:18] [Server thread/INFO]: Akalixy left the game
+[03:44:23] [Server thread/INFO]: Akalixy[/100.120.240.91:60536] logged in with entity id 61160 at (48.208339435227536, 51.5, -188.25259009881066)
+[03:44:23] [Server thread/INFO]: Reading config values from file.
+[03:44:23] [Server thread/INFO]: Akalixy joined the game
+[03:44:23] [Server thread/INFO]: Sending item configs to client

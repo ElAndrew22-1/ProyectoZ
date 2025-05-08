@@ -2598,9 +2598,11 @@
       "minecraft:husk": "2025-05-05 01:26:34 +0000",
       "minecraft:hoglin": "2025-05-08 03:28:44 +0000",
       "minecraft:cave_spider": "2025-05-05 01:10:10 +0000",
+      "minecraft:piglin": "2025-05-08 03:34:42 +0000",
       "minecraft:silverfish": "2025-05-08 01:12:18 +0000",
       "minecraft:magma_cube": "2025-05-06 02:56:19 +0000",
       "minecraft:spider": "2025-05-04 04:07:09 +0000",
+      "minecraft:piglin_brute": "2025-05-08 03:34:50 +0000",
       "minecraft:zombie": "2025-05-04 03:28:50 +0000",
       "minecraft:creeper": "2025-05-04 03:33:09 +0000",
       "minecraft:drowned": "2025-05-07 23:57:43 +0000",
@@ -4368,6 +4370,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:soul_sand_valley": "2025-05-08 03:34:26 +0000",
       "minecraft:basalt_deltas": "2025-05-05 01:49:39 +0000"
     },
     "done": false
@@ -5484,9 +5487,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-05-08 03:34:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magma_block": {
     "criteria": {
       "has_magma_cream": "2025-05-08 03:08:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-05-08 03:34:31 +0000"
     },
     "done": true
   },
@@ -5502,6 +5517,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2025-05-08 03:36:33 +0000"
+    },
+    "done": true
+  },
   "mcwdoors:recipes/jungle": {
     "criteria": {
       "has_wood": "2025-05-08 01:43:41 +0000"
@@ -5511,6 +5532,12 @@
   "handcrafted:recipes/misc/jungle_table": {
     "criteria": {
       "has_jungle_table": "2025-05-08 02:18:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-05-08 03:34:31 +0000"
     },
     "done": true
   },
@@ -5526,9 +5553,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2025-05-08 03:36:33 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/jungle_chair": {
     "criteria": {
       "has_jungle_chair": "2025-05-08 02:18:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-05-08 03:36:33 +0000"
     },
     "done": true
   },
@@ -5541,6 +5580,12 @@
   "minecraft:recipes/redstone/jungle_button": {
     "criteria": {
       "has_planks": "2025-05-08 02:18:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-05-08 03:34:31 +0000"
     },
     "done": true
   },
@@ -5592,6 +5637,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/snout_armor_trim_smithing_template": {
+    "criteria": {
+      "has_snout_armor_trim_smithing_template": "2025-05-08 03:35:58 +0000"
+    },
+    "done": true
+  },
+  "incendium:misc/root": {
+    "criteria": {
+      "incendium:ash_barrens": "2025-05-08 03:34:05 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_ham": {
+    "criteria": {
+      "smoked_ham": "2025-05-08 03:36:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/jungle_trapdoor": {
     "criteria": {
       "has_planks": "2025-05-08 02:18:21 +0000"
@@ -5610,15 +5673,45 @@
     },
     "done": true
   },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_hoglin_stable": "2025-05-08 03:35:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/jungle_door": {
     "criteria": {
       "has_planks": "2025-05-08 02:18:21 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-05-08 03:34:31 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/jungle_couch": {
     "criteria": {
       "has_jungle_couch": "2025-05-08 02:18:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2025-05-08 03:35:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-05-08 03:34:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/snout_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-05-08 03:35:58 +0000"
     },
     "done": true
   },
@@ -5640,11 +5733,29 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-05-08 03:34:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-05-08 03:33:57 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/jungle_corner_trim": {
     "criteria": {
       "has_jungle_corner_trim": "2025-05-08 02:18:21 +0000"
     },
     "done": true
+  },
+  "incendium:misc/soul_searcher": {
+    "criteria": {
+      "incendium:ash_barrens": "2025-05-08 03:34:05 +0000"
+    },
+    "done": false
   },
   "handcrafted:recipes/misc/jungle_cupboard": {
     "criteria": {
@@ -5655,6 +5766,12 @@
   "handcrafted:recipes/misc/jungle_shelf": {
     "criteria": {
       "has_jungle_shelf": "2025-05-08 02:18:21 +0000"
+    },
+    "done": true
+  },
+  "incendium:ash_barrens/root": {
+    "criteria": {
+      "requirement": "2025-05-08 03:34:05 +0000"
     },
     "done": true
   },
@@ -5679,6 +5796,12 @@
   "minecraft:recipes/building_blocks/jungle_slab": {
     "criteria": {
       "has_planks": "2025-05-08 02:18:21 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/honey_glazed_ham_block": {
+    "criteria": {
+      "has_smoked_ham": "2025-05-08 03:36:38 +0000"
     },
     "done": true
   },
