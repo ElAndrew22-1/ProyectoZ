@@ -5481,5 +5481,47 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2025-05-08 01:43:41 +0000"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/jungle": {
+    "criteria": {
+      "has_wood": "2025-05-08 01:43:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wild_armor_trim_smithing_template": {
+    "criteria": {
+      "has_wild_armor_trim_smithing_template": "2025-05-08 01:48:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wild_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-05-08 01:48:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2025-05-08 01:43:41 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/jungle": {
+    "criteria": {
+      "has_wood": "2025-05-08 01:43:41 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/jungle": {
+    "criteria": {
+      "has_wood": "2025-05-08 01:43:41 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }
