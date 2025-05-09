@@ -700,3 +700,9 @@ com.google.gson.JsonParseException: Not a JSON object: "deeperdarker:bloom_plank
 [02:04:59] [Server thread/INFO]: [El_Andrew22: Teleported Akalixy to El_Andrew22]
 [02:05:15] [Server thread/INFO]: El_Andrew22 lost connection: Disconnected
 [02:05:15] [Server thread/INFO]: El_Andrew22 left the game
+[02:22:14] [Server thread/INFO]: El_Andrew22[/100.99.232.91:51946] logged in with entity id 10179 at (-423.9840609283654, 68.0, -330.2368154492702)
+[02:22:14] [Server thread/INFO]: Reading config values from file.
+[02:22:14] [Server thread/INFO]: El_Andrew22 joined the game
+[02:22:14] [Server thread/INFO]: Sending item configs to client
+[02:23:35] [Server thread/INFO]: El_Andrew22 teleported to 97.5 21.0 134.5 minecraft:the_nether
+[02:24:06] [Server thread/INFO]: [El_Andrew22: Teleported Akalixy to El_Andrew22]
