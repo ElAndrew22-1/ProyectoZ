@@ -4372,6 +4372,12 @@
     },
     "done": true
   },
+  "bosses_of_mass_destruction:recipes/levitation_block": {
+    "criteria": {
+      "has_blazing_eye": "2025-05-09 02:43:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cracked_nether_bricks": {
     "criteria": {
       "has_nether_bricks": "2025-05-09 02:32:32 +0000"
@@ -4399,6 +4405,12 @@
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2025-05-09 02:29:31 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/blast_amplifier": {
+    "criteria": {
+      "has_blazing_eye": "2025-05-09 02:43:29 +0000"
     },
     "done": true
   },
@@ -4465,6 +4477,12 @@
   "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
       "has_blaze_rod": "2025-05-09 01:29:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-05-09 02:40:01 +0000"
     },
     "done": true
   },
