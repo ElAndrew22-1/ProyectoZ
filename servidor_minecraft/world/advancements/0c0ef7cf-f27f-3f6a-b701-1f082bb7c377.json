@@ -2598,6 +2598,7 @@
       "minecraft:zombified_piglin": "2025-05-08 00:18:24 +0000",
       "minecraft:wither_skeleton": "2025-05-05 01:52:40 +0000",
       "minecraft:husk": "2025-05-05 01:26:34 +0000",
+      "minecraft:ghast": "2025-05-09 02:49:30 +0000",
       "minecraft:hoglin": "2025-05-08 03:28:44 +0000",
       "minecraft:cave_spider": "2025-05-05 01:10:10 +0000",
       "minecraft:piglin": "2025-05-08 03:34:42 +0000",
@@ -6147,6 +6148,12 @@
   "bosses_of_mass_destruction:recipes/blast_amplifier": {
     "criteria": {
       "has_blazing_eye": "2025-05-09 02:43:23 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/brimstone_nectar": {
+    "criteria": {
+      "has_ghast_tear": "2025-05-09 02:49:38 +0000"
     },
     "done": true
   },
