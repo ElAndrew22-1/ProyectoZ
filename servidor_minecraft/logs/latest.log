@@ -693,3 +693,6 @@ com.google.gson.JsonParseException: Not a JSON object: "deeperdarker:bloom_plank
 [01:41:06] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/2714, l='ServerLevel[world]', x=0.90, y=142.00, z=323.00] as it would cause deadlock
 [01:42:15] [Server thread/INFO]: minecraft:blaze
 [01:43:52] [Server thread/INFO]: minecraft:blaze
+[01:50:36] [Server thread/WARN]: Couldn't set damage of loot item 1 minecraft:iron_horse_armor
+[01:52:00] [Server thread/WARN]: Couldn't set damage of loot item 1 minecraft:iron_horse_armor
+[01:55:31] [Server thread/INFO]: [El_Andrew22: Teleported El_Andrew22 to Akalixy]
