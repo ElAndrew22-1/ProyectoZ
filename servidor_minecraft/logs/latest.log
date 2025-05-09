@@ -696,3 +696,7 @@ com.google.gson.JsonParseException: Not a JSON object: "deeperdarker:bloom_plank
 [01:50:36] [Server thread/WARN]: Couldn't set damage of loot item 1 minecraft:iron_horse_armor
 [01:52:00] [Server thread/WARN]: Couldn't set damage of loot item 1 minecraft:iron_horse_armor
 [01:55:31] [Server thread/INFO]: [El_Andrew22: Teleported El_Andrew22 to Akalixy]
+[02:04:52] [Server thread/INFO]: El_Andrew22 teleported to -426.5 69.0 -326.5 minecraft:overworld
+[02:04:59] [Server thread/INFO]: [El_Andrew22: Teleported Akalixy to El_Andrew22]
+[02:05:15] [Server thread/INFO]: El_Andrew22 lost connection: Disconnected
+[02:05:15] [Server thread/INFO]: El_Andrew22 left the game
