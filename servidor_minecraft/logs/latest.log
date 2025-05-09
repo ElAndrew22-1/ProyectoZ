@@ -688,3 +688,8 @@ com.google.gson.JsonParseException: Not a JSON object: "deeperdarker:bloom_plank
 [01:32:45] [Server thread/INFO]: minecraft:blaze
 [01:33:22] [Server thread/INFO]: Akalixy has made the advancement [Hellfire Mantle]
 [01:33:27] [Server thread/INFO]: El_Andrew22 has made the advancement [Hellfire Mantle]
+[01:40:42] [Server thread/WARN]: Akalixy moved too quickly! -10.246302454320407,0.0,0.3897274933285786
+[01:41:06] [Worker-Main-1/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/2711, l='ServerLevel[world]', x=0.90, y=142.00, z=323.00] as it would cause deadlock
+[01:41:06] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/2714, l='ServerLevel[world]', x=0.90, y=142.00, z=323.00] as it would cause deadlock
+[01:42:15] [Server thread/INFO]: minecraft:blaze
+[01:43:52] [Server thread/INFO]: minecraft:blaze

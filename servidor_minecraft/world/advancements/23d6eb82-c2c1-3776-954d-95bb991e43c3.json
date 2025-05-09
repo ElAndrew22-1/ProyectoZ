@@ -4187,7 +4187,8 @@
   },
   "incendium:misc/soul_searcher": {
     "criteria": {
-      "incendium:ash_barrens": "2025-05-08 03:34:25 +0000"
+      "incendium:ash_barrens": "2025-05-08 03:34:25 +0000",
+      "incendium:volcanic_deltas": "2025-05-09 01:33:22 +0000"
     },
     "done": false
   },
@@ -4302,6 +4303,12 @@
   "minecraft:nether/obtain_blaze_rod": {
     "criteria": {
       "blaze_rod": "2025-05-09 01:29:57 +0000"
+    },
+    "done": true
+  },
+  "incendium:volcanic_deltas/root": {
+    "criteria": {
+      "incendium:volcanic_deltas": "2025-05-09 01:33:22 +0000"
     },
     "done": true
   },
