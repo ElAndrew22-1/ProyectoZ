@@ -809,3 +809,32 @@ com.google.gson.JsonParseException: Not a JSON object: "deeperdarker:bloom_plank
 [02:55:39] [Server thread/INFO]: Named entity class_1604['Sanctum Cultist'/16713, l='ServerLevel[world]', x=627.70, y=30.46, z=-258.70] died: Sanctum Cultist tried to swim in lava
 [02:55:54] [Server thread/INFO]: [El_Andrew22: Teleported El_Andrew22 to Akalixy]
 [02:56:36] [Server thread/INFO]: [El_Andrew22: Teleported El_Andrew22 to Akalixy]
+[02:56:53] [Server thread/INFO]: El_Andrew22 teleported to 482.0 69.0 81.0 minecraft:the_nether
+[02:57:03] [Server thread/INFO]: El_Andrew22 teleported to 455.0 77.0 69.0 minecraft:the_nether
+[02:57:17] [Server thread/INFO]: El_Andrew22 teleported to 531.0 76.0 78.0 minecraft:the_nether
+[02:57:59] [Server thread/INFO]: [El_Andrew22: Teleported El_Andrew22 to Akalixy]
+[02:58:12] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[02:58:12] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[02:58:12] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[02:58:12] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[02:58:12] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[02:58:12] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[02:58:18] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[02:58:18] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[02:58:24] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[02:58:24] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[02:58:24] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[02:58:24] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[02:58:24] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[02:58:24] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[02:58:24] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[02:58:30] [Worker-Main-6/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:00:13] [Worker-Main-6/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:00:13] [Worker-Main-6/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:00:13] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:00:13] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:02:58] [Server thread/INFO]: [El_Andrew22: Teleported Akalixy to El_Andrew22]
+[03:14:23] [Server thread/INFO]: [El_Andrew22: Teleported Akalixy to El_Andrew22]
+[03:15:00] [Server thread/INFO]: [Not Secure] <Akalixy> T
+[03:16:15] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:16:15] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
