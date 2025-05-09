@@ -844,3 +844,10 @@ com.google.gson.JsonParseException: Not a JSON object: "deeperdarker:bloom_plank
 [03:30:24] [Server thread/INFO]: minecraft:magma_cube
 [03:30:24] [Server thread/INFO]: minecraft:magma_cube
 [03:36:04] [Server thread/INFO]: [El_Andrew22: Teleported El_Andrew22 to Akalixy]
+[03:39:45] [Server thread/INFO]: El_Andrew22 has completed the challenge [Return to Sender]
+[03:40:19] [Server thread/INFO]: El_Andrew22 teleported to 588.0 77.0 80.0 minecraft:the_nether
+[03:40:24] [Server thread/INFO]: [El_Andrew22: Teleported Akalixy to El_Andrew22]
+[03:41:31] [Server thread/INFO]: minecraft:zombified_piglin
+[03:44:52] [Server thread/INFO]: [El_Andrew22: Teleported Akalixy to El_Andrew22]
+[03:45:18] [Worker-Main-6/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/24825, l='ServerLevel[world]', x=849.00, y=31.00, z=415.00] as it would cause deadlock
+[03:45:18] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/24827, l='ServerLevel[world]', x=849.00, y=31.00, z=415.00] as it would cause deadlock
