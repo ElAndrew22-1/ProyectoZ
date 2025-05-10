@@ -675,3 +675,5 @@ com.google.gson.JsonParseException: Not a JSON object: "deeperdarker:bloom_plank
 [02:18:51] [Server thread/INFO]: Reading config values from file.
 [02:18:51] [Server thread/INFO]: El_Andrew22 joined the game
 [02:18:51] [Server thread/INFO]: Sending item configs to client
+[02:19:51] [Server thread/INFO]: minecraft:piglin
+[02:22:05] [Server thread/INFO]: minecraft:hoglin
