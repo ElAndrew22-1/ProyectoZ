@@ -1,14 +1,14 @@
-[02:09:13] [main/INFO]: Loading Minecraft 1.21.1 with Fabric Loader 0.16.14
-[02:09:14] [ForkJoinPool-1-worker-2/WARN]: The mod "dungeons_arise" contains invalid entries in its mod json:
+[23:15:51] [main/INFO]: Loading Minecraft 1.21.1 with Fabric Loader 0.16.14
+[23:15:52] [ForkJoinPool-1-worker-3/WARN]: The mod "dungeons_arise" contains invalid entries in its mod json:
 - Unsupported root entry "credits" at line 12 column 11
-[02:09:14] [main/WARN]: Warnings were found!
+[23:15:52] [main/WARN]: Warnings were found!
  - Mod 'Debugify' (debugify) 1.21.1+1.0 recommends any version of modmenu, which is missing!
 	 - You should install any version of modmenu for the optimal experience.
  - Mod 'Forge Config API Port' (forgeconfigapiport) 21.1.3 recommends any version of modmenu, which is missing!
 	 - You should install any version of modmenu for the optimal experience.
  - Mod 'Simply Swords' (simplyswords) 1.60.11-1.21.1 recommends version 1.7.2 or later of bettercombat, which is missing!
 	 - You should install version 1.7.2 or later of bettercombat for the optimal experience.
-[02:09:14] [main/INFO]: Loading 213 mods:
+[23:15:52] [main/INFO]: Loading 213 mods:
 	- adventurez 1.4.24
 	- almanac 1.0.2
 	- alternate-current 1.9.0
@@ -247,162 +247,162 @@
 	   \-- org_reflections_reflections 0.10.2
 	- yungsextras 1.21.1-Fabric-5.1.1
 	   \-- org_reflections_reflections 0.10.2
-[02:09:14] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/ProyectoZ/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.5+mixin.0.8.7/sponge-mixin-0.15.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[02:09:14] [main/INFO]: Compatibility level set to JAVA_17
-[02:09:14] [main/INFO]: Compatibility level set to JAVA_21
-[02:09:15] [main/WARN]: Reference map 'enchantinginfuser.common.refmap.json' for enchantinginfuser.common.mixins.json could not be read. If this is a development environment you can ignore this message
-[02:09:15] [main/WARN]: Reference map 'enchantinginfuser.fabric.refmap.json' for enchantinginfuser.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[02:09:15] [main/WARN]: Reference map 'forgeconfigapiport.common.refmap.json' for forgeconfigapiport.common.mixins.json could not be read. If this is a development environment you can ignore this message
-[02:09:15] [main/WARN]: Reference map 'journeymap-refmap.json' for journeymap.mixins.json could not be read. If this is a development environment you can ignore this message
-[02:09:15] [main/WARN]: Reference map 'journeymap-refmap.json' for journeymap.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[02:09:15] [main/WARN]: Mod 'ferritecore' attempted to override option 'mixin.alloc.blockstate', which doesn't exist, ignoring
-[02:09:15] [main/INFO]: Option 'mixin.entity.collisions.fluid' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.entity.collisions.fluid=false'.
-[02:09:15] [main/INFO]: Option 'mixin.experimental.entity.block_caching.block_support' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching.block_support=false'.
-[02:09:15] [main/INFO]: Option 'mixin.experimental.entity.block_caching.fluid_pushing' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching.fluid_pushing=false'.
-[02:09:15] [main/INFO]: Option 'mixin.experimental.entity.block_caching.block_touching' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching.block_touching=false'.
-[02:09:15] [main/INFO]: Option 'mixin.experimental.entity.block_caching.suffocation' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching.suffocation=false'.
-[02:09:15] [main/INFO]: Option 'mixin.experimental.entity.block_caching' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching=false'.
-[02:09:15] [main/INFO]: Loaded configuration file for Lithium: 149 options available, 0 override(s) found
-[02:09:15] [main/INFO]: Loaded configuration file for ModernFix 5.21.0+mc1.21.1: 58 options available, 0 override(s) found
-[02:09:15] [main/INFO]: Applying Nashorn fix
-[02:09:15] [main/WARN]: Reference map 'OctoLib-COMMON-common-refmap.json' for octolib-common.mixins.json could not be read. If this is a development environment you can ignore this message
-[02:09:15] [main/WARN]: Error loading class: net/minecraft/class_906 (java.lang.ClassNotFoundException: net/minecraft/class_906)
-[02:09:15] [main/WARN]: @Mixin target net.minecraft.class_906 was not found porting_lib_item_abilities.mixins.json:FishingHookRendererMixin from mod porting_lib_item_abilities
-[02:09:16] [main/WARN]: Error loading class: net/minecraft/class_287 (java.lang.ClassNotFoundException: net/minecraft/class_287)
-[02:09:16] [main/WARN]: @Mixin target net.minecraft.class_287 was not found owo.mixins.json:BufferBuilderAccessor from mod owo
-[02:09:16] [main/WARN]: Error loading class: net/minecraft/class_437 (java.lang.ClassNotFoundException: net/minecraft/class_437)
-[02:09:16] [main/WARN]: @Mixin target net.minecraft.class_437 was not found owo.mixins.json:ScreenAccessor from mod owo
-[02:09:16] [main/WARN]: Error loading class: xyz/nucleoid/server/translations/impl/language/SystemDelegatedLanguage (java.lang.ClassNotFoundException: xyz/nucleoid/server/translations/impl/language/SystemDelegatedLanguage)
-[02:09:16] [main/WARN]: Error loading class: net/minecraft/class_638 (java.lang.ClassNotFoundException: net/minecraft/class_638)
-[02:09:16] [main/WARN]: @Mixin target net.minecraft.class_638 was not found porting_lib_level_events.mixins.json:client.ClientLevelMixin from mod porting_lib_level_events
-[02:09:16] [main/WARN]: Error loading class: net/minecraft/class_314 (java.lang.ClassNotFoundException: net/minecraft/class_314)
-[02:09:16] [main/WARN]: @Mixin target net.minecraft.class_314 was not found mixins.mm.json:net.minecraft.class_314 from mod mm
-[02:09:16] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.0-beta.3).
-[02:09:21] [main/WARN]: Method overwrite conflict for method_21740 in modernfix-common.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin from mod modernfix, previously written by net.caffeinemc.mods.lithium.mixin.world.temperature_cache.BiomeMixin. Skipping method.
-[02:09:25] [main/ERROR]: No data fixer registered for ancient_skeleton
-[02:09:26] [main/INFO]: Vanilla bootstrap took 8551 milliseconds
-[02:09:28] [main/ERROR]: No data fixer registered for artifacts:mimic
-[02:09:28] [main/INFO]: Reflections took 71 ms to scan 1 urls, producing 1 keys and 2 values
-[02:09:28] [main/INFO]: Reflections took 3 ms to scan 1 urls, producing 1 keys and 2 values
-[02:09:28] [main/INFO]: Reflections took 3 ms to scan 1 urls, producing 1 keys and 3 values
-[02:09:28] [main/INFO]: Reflections took 4 ms to scan 1 urls, producing 1 keys and 3 values
-[02:09:28] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
-[02:09:28] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
-[02:09:28] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 1 values
-[02:09:28] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 1 values
-[02:09:28] [main/INFO]: Reflections took 3 ms to scan 1 urls, producing 1 keys and 3 values
-[02:09:28] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 3 values
-[02:09:28] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 2 values
-[02:09:28] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 2 values
-[02:09:28] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 1 values
-[02:09:28] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 1 values
-[02:09:28] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 3 values
-[02:09:28] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 3 values
-[02:09:28] [main/INFO]: Loading Collective version 8.3.
-[02:09:29] [main/INFO]: Successfully loaded config "bettertrims"
-[02:09:29] [main/ERROR]: No data fixer registered for jungle_creeper
-[02:09:29] [main/ERROR]: No data fixer registered for bamboo_creeper
-[02:09:29] [main/ERROR]: No data fixer registered for desert_creeper
-[02:09:29] [main/ERROR]: No data fixer registered for badlands_creeper
-[02:09:29] [main/ERROR]: No data fixer registered for hills_creeper
-[02:09:29] [main/ERROR]: No data fixer registered for savannah_creeper
-[02:09:29] [main/ERROR]: No data fixer registered for mushroom_creeper
-[02:09:29] [main/ERROR]: No data fixer registered for swamp_creeper
-[02:09:29] [main/ERROR]: No data fixer registered for dripstone_creeper
-[02:09:29] [main/ERROR]: No data fixer registered for cave_creeper
-[02:09:29] [main/ERROR]: No data fixer registered for dark_oak_creeper
-[02:09:29] [main/ERROR]: No data fixer registered for spruce_creeper
-[02:09:29] [main/ERROR]: No data fixer registered for beach_creeper
-[02:09:29] [main/ERROR]: No data fixer registered for snowy_creeper
-[02:09:29] [main/ERROR]: No data fixer registered for ocean_creeper
-[02:09:29] [main/ERROR]: No data fixer registered for birch_creeper
-[02:09:29] [main/INFO]: Enabled 28 bug fixes: [MC-2025, MC-7569, MC-8187, MC-30391, MC-69216, MC-88371, MC-89146, MC-93018, MC-100991, MC-119417, MC-119754, MC-121706, MC-121903, MC-129909, MC-132878, MC-135971, MC-155509, MC-160095, MC-179072, MC-183990, MC-199467, MC-200418, MC-206922, MC-215530, MC-223153, MC-224729, MC-231743, MC-232869]
-[02:09:29] [main/INFO]: Successfully Debugify'd your game!
-[02:09:29] [main/ERROR]: No data fixer registered for deeperdarker:angler_fish
-[02:09:29] [main/ERROR]: No data fixer registered for deeperdarker:sculk_centipede
-[02:09:29] [main/ERROR]: No data fixer registered for deeperdarker:sculk_leech
-[02:09:29] [main/ERROR]: No data fixer registered for deeperdarker:sculk_snapper
-[02:09:29] [main/ERROR]: No data fixer registered for deeperdarker:shattered
-[02:09:29] [main/ERROR]: No data fixer registered for deeperdarker:shriek_worm
-[02:09:29] [main/ERROR]: No data fixer registered for deeperdarker:sludge
-[02:09:29] [main/ERROR]: No data fixer registered for deeperdarker:stalker
-[02:09:29] [main/ERROR]: No data fixer registered for crystallized_amber
-[02:09:29] [main/ERROR]: No data fixer registered for sculk_jaw
-[02:09:29] [main/INFO]: YAaargh!
-[02:09:29] [main/INFO]: Constructing common components for enchantinginfuser:main
-[02:09:29] [main/INFO]: ExpandAbility here, who dis?
-[02:09:30] [main/INFO]: Loaded config farmersdelight-common.json
-[02:09:30] [main/INFO]: Deserializing FriendsAndFoesConfig from 'config/friendsandfoes.json'
-[02:09:30] [main/INFO]: Loaded com.faboslav.friendsandfoes.fabric.platform.PlatformCompat@23d334e0 for service interface com.faboslav.friendsandfoes.common.platform.PlatformCompat
-[02:09:30] [main/INFO]: Loaded com.faboslav.friendsandfoes.fabric.platform.PlatformHelper@6793ab6a for service interface com.faboslav.friendsandfoes.common.platform.PlatformHelper
-[02:09:30] [main/INFO]: Loaded com.faboslav.friendsandfoes.fabric.platform.ProcessorTypes@487c355f for service interface com.faboslav.friendsandfoes.common.platform.ProcessorTypes
-[02:09:30] [main/INFO]: Loaded com.faboslav.friendsandfoes.fabric.platform.BiomeModifications@623455c7 for service interface com.faboslav.friendsandfoes.common.platform.BiomeModifications
-[02:09:30] [main/ERROR]: No data fixer registered for handcrafted
-[02:09:30] [main/INFO]: Initializing ServerSide Packet Registries
-[02:09:30] [main/INFO]: Compression will use libdeflate (Linux x86_64), encryption will use OpenSSL 1.1.x (Linux x86_64)
-[02:09:30] [main/INFO]: Ksyxis: Booting... (platform: Fabric, manual: false)
-[02:09:30] [main/INFO]: Ksyxis: Found Mixin library. (version: 0.8.7)
-[02:09:30] [main/INFO]: Ksyxis: Ready. As always, this mod will speed up your world loading and might or might not break it. (1 ms)
-[02:09:31] [main/INFO]: Definitely not up to no good
-[02:09:31] [main/INFO]: Loading Noisium.
-[02:09:31] [main/INFO]: Hello from the Oracle Wiki Mod!
-[02:09:31] [main/INFO]: Jello was 126 years old when we added this line
-[02:09:31] [main/INFO]: Constructing common components for puzzleslib:main
-[02:09:31] [main/INFO]: Loaded config simplyswords:general in 301ms
-[02:09:31] [main/INFO]: Loaded config simplyswords:gem_powers in 230ms
-[02:09:31] [main/INFO]: Loaded config simplyswords:status_effects in 4ms
-[02:09:31] [main/INFO]: Loaded config simplyswords:weapon_attributes in 56ms
-[02:09:32] [main/INFO]: Loaded config simplyswords:unique_effects in 175ms
-[02:09:32] [main/ERROR]: No data fixer registered for battlestandard
-[02:09:32] [main/ERROR]: No data fixer registered for battlestandarddark
-[02:09:32] [main/ERROR]: No data fixer registered for simplyswords:simplybeeentity
-[02:09:32] [main/ERROR]: No data fixer registered for simplyswords:thrown_sword
-[02:09:32] [main/ERROR]: No data fixer registered for simplyswords:frostfall_entity
-[02:09:32] [main/ERROR]: No data fixer registered for simplyswords:livyatan_entity
-[02:09:32] [main/ERROR]: No data fixer registered for simplyswords:spear_entity
-[02:09:32] [main/ERROR]: No data fixer registered for simplyswords:runic_entity
-[02:09:32] [main/INFO]: [STDOUT]: /workspaces/ProyectoZ/servidor_minecraft/config
-[02:09:32] [main/ERROR]: No data fixer registered for 
-[02:09:32] [main/INFO]: Reading config values from file.
-[02:09:33] [main/INFO]: Reflections took 5 ms to scan 1 urls, producing 1 keys and 3 values
-[02:09:33] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 3 values
-[02:09:33] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
-[02:09:33] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
-[02:09:33] [main/INFO]: Reflections took 64 ms to scan 1 urls, producing 1 keys and 2 values
-[02:09:33] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
-[02:09:33] [main/INFO]: Krypton is now accelerating your Minecraft server's networking stack 🚀
-[02:09:33] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[02:09:36] [Worker-Main-3/INFO]: Loaded config simplyswords:loot in 11ms
-[02:09:38] [Worker-Main-2/ERROR]: Couldn't load tag bettertrims:trim_materials/unobtainium as it is missing following references: #c:unobtainium (from bettertrims), #c:storage_blocks/unobtainium (from bettertrims)
-[02:09:38] [Worker-Main-2/ERROR]: Couldn't load tag bettertrims:trim_materials/manganese as it is missing following references: #c:ingots/manganese (from bettertrims), #c:storage_blocks/manganese (from bettertrims)
-[02:09:38] [Worker-Main-2/ERROR]: Couldn't load tag bettertrims:trim_materials/mythril as it is missing following references: #c:ingots/mythril (from bettertrims), #c:storage_blocks/mythril (from bettertrims)
-[02:09:38] [Worker-Main-2/ERROR]: Couldn't load tag bettertrims:trim_materials/kyber as it is missing following references: #c:ingots/kyber (from bettertrims), #c:storage_blocks/kyber (from bettertrims)
-[02:09:38] [Worker-Main-2/ERROR]: Couldn't load tag bettertrims:trim_materials/hallowed as it is missing following references: #c:ingots/hallowed (from bettertrims), #c:storage_blocks/hallowed (from bettertrims)
-[02:09:38] [Worker-Main-2/ERROR]: Couldn't load tag bettertrims:trim_materials/steel as it is missing following references: #c:ingots/steel (from bettertrims), #c:storage_blocks/steel (from bettertrims)
-[02:09:38] [Worker-Main-2/ERROR]: Couldn't load tag bettertrims:trim_materials/stormyx as it is missing following references: #c:ingots/stormyx (from bettertrims), #c:storage_blocks/stormyx (from bettertrims)
-[02:09:38] [Worker-Main-2/ERROR]: Couldn't load tag bettertrims:trim_materials/orichalcum as it is missing following references: #c:ingots/orichalcum (from bettertrims), #c:storage_blocks/orichalcum (from bettertrims)
-[02:09:38] [Worker-Main-2/ERROR]: Couldn't load tag bettertrims:trim_materials/silver as it is missing following references: #c:ingots/silver (from bettertrims), #c:storage_blocks/silver (from bettertrims)
-[02:09:38] [Worker-Main-2/ERROR]: Couldn't load tag bettertrims:trim_materials/runite as it is missing following references: #c:ingots/runite (from bettertrims), #c:storage_blocks/runite (from bettertrims)
-[02:09:38] [Worker-Main-2/ERROR]: Couldn't load tag bettertrims:trim_materials/celestium as it is missing following references: #c:ingots/celestium (from bettertrims), #c:storage_blocks/celestium (from bettertrims)
-[02:09:38] [Worker-Main-2/ERROR]: Couldn't load tag bettertrims:trim_materials/osmium as it is missing following references: #c:ingots/osmium (from bettertrims), #c:storage_blocks/osmium (from bettertrims)
-[02:09:38] [Worker-Main-2/ERROR]: Couldn't load tag bettertrims:trim_materials/banglum as it is missing following references: #c:ingots/banglum (from bettertrims), #c:storage_blocks/banglum (from bettertrims)
-[02:09:38] [Worker-Main-2/ERROR]: Couldn't load tag bettertrims:trim_materials/palladium as it is missing following references: #c:ingots/palladium (from bettertrims), #c:storage_blocks/palladium (from bettertrims)
-[02:09:38] [Worker-Main-2/ERROR]: Couldn't load tag bettertrims:trim_materials/prometheum as it is missing following references: #c:ingots/prometheum (from bettertrims), #c:storage_blocks/prometheum (from bettertrims)
-[02:09:38] [Worker-Main-2/ERROR]: Couldn't load tag bettertrims:trim_materials/tin as it is missing following references: #c:ingots/tin (from bettertrims), #c:storage_blocks/tin (from bettertrims)
-[02:09:38] [Worker-Main-2/ERROR]: Couldn't load tag bettertrims:trim_materials/starrite as it is missing following references: #c:starrite (from bettertrims), #c:storage_blocks/starrite (from bettertrims)
-[02:09:38] [Worker-Main-2/ERROR]: Couldn't load tag bettertrims:trim_materials/star_platinum as it is missing following references: #c:star_platinum (from bettertrims), #c:storage_blocks/star_platinum (from bettertrims)
-[02:09:38] [Worker-Main-2/ERROR]: Couldn't load tag bettertrims:trim_materials/carmot as it is missing following references: #c:ingots/carmot (from bettertrims), #c:storage_blocks/carmot (from bettertrims)
-[02:09:38] [Worker-Main-2/ERROR]: Couldn't load tag bettertrims:trim_materials/platinum as it is missing following references: #c:ingots/platinum (from bettertrims), #c:storage_blocks/platinum (from bettertrims)
-[02:09:38] [Worker-Main-2/ERROR]: Couldn't load tag bettertrims:trim_materials/midas_gold as it is missing following references: #c:ingots/midas_gold (from bettertrims), #c:storage_blocks/midas_gold (from bettertrims)
-[02:09:38] [Worker-Main-2/ERROR]: Couldn't load tag bettertrims:trim_materials/quadrillum as it is missing following references: #c:ingots/quadrillum (from bettertrims), #c:storage_blocks/quadrillum (from bettertrims)
-[02:09:38] [Worker-Main-2/ERROR]: Couldn't load tag bettertrims:trim_materials/durasteel as it is missing following references: #c:ingots/durasteel (from bettertrims), #c:storage_blocks/durasteel (from bettertrims)
-[02:09:38] [Worker-Main-2/ERROR]: Couldn't load tag bettertrims:trim_materials/metallurgium as it is missing following references: #c:ingots/metallurgium (from bettertrims), #c:storage_blocks/metallurgium (from bettertrims)
-[02:09:38] [Worker-Main-2/ERROR]: Couldn't load tag bettertrims:trim_materials/adamantite as it is missing following references: #c:ingots/adamantite (from bettertrims), #c:storage_blocks/adamantite (from bettertrims)
-[02:09:38] [Worker-Main-2/ERROR]: Couldn't load tag bettertrims:trim_materials/bronze as it is missing following references: #c:ingots/bronze (from bettertrims), #c:storage_blocks/bronze (from bettertrims)
-[02:09:38] [Worker-Main-2/ERROR]: Couldn't load tag bettertrims:trim_materials/aquarium as it is missing following references: #c:ingots/aquarium (from bettertrims), #c:storage_blocks/aquarium (from bettertrims)
-[02:09:38] [main/ERROR]: Parsing error loading recipe deeperdarker:farmersdelight/cutting/blooming_stem
+[23:15:53] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/ProyectoZ/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.5+mixin.0.8.7/sponge-mixin-0.15.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[23:15:53] [main/INFO]: Compatibility level set to JAVA_17
+[23:15:53] [main/INFO]: Compatibility level set to JAVA_21
+[23:15:53] [main/WARN]: Reference map 'enchantinginfuser.common.refmap.json' for enchantinginfuser.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:15:53] [main/WARN]: Reference map 'enchantinginfuser.fabric.refmap.json' for enchantinginfuser.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:15:53] [main/WARN]: Reference map 'forgeconfigapiport.common.refmap.json' for forgeconfigapiport.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:15:53] [main/WARN]: Reference map 'journeymap-refmap.json' for journeymap.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:15:53] [main/WARN]: Reference map 'journeymap-refmap.json' for journeymap.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:15:53] [main/WARN]: Mod 'ferritecore' attempted to override option 'mixin.alloc.blockstate', which doesn't exist, ignoring
+[23:15:53] [main/INFO]: Option 'mixin.entity.collisions.fluid' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.entity.collisions.fluid=false'.
+[23:15:53] [main/INFO]: Option 'mixin.experimental.entity.block_caching.block_support' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching.block_support=false'.
+[23:15:53] [main/INFO]: Option 'mixin.experimental.entity.block_caching.fluid_pushing' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching.fluid_pushing=false'.
+[23:15:53] [main/INFO]: Option 'mixin.experimental.entity.block_caching.block_touching' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching.block_touching=false'.
+[23:15:53] [main/INFO]: Option 'mixin.experimental.entity.block_caching.suffocation' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching.suffocation=false'.
+[23:15:53] [main/INFO]: Option 'mixin.experimental.entity.block_caching' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching=false'.
+[23:15:53] [main/INFO]: Loaded configuration file for Lithium: 149 options available, 0 override(s) found
+[23:15:53] [main/INFO]: Loaded configuration file for ModernFix 5.21.0+mc1.21.1: 58 options available, 0 override(s) found
+[23:15:53] [main/INFO]: Applying Nashorn fix
+[23:15:53] [main/WARN]: Reference map 'OctoLib-COMMON-common-refmap.json' for octolib-common.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:15:53] [main/WARN]: Error loading class: net/minecraft/class_906 (java.lang.ClassNotFoundException: net/minecraft/class_906)
+[23:15:53] [main/WARN]: @Mixin target net.minecraft.class_906 was not found porting_lib_item_abilities.mixins.json:FishingHookRendererMixin from mod porting_lib_item_abilities
+[23:15:54] [main/WARN]: Error loading class: net/minecraft/class_287 (java.lang.ClassNotFoundException: net/minecraft/class_287)
+[23:15:54] [main/WARN]: @Mixin target net.minecraft.class_287 was not found owo.mixins.json:BufferBuilderAccessor from mod owo
+[23:15:54] [main/WARN]: Error loading class: net/minecraft/class_437 (java.lang.ClassNotFoundException: net/minecraft/class_437)
+[23:15:54] [main/WARN]: @Mixin target net.minecraft.class_437 was not found owo.mixins.json:ScreenAccessor from mod owo
+[23:15:54] [main/WARN]: Error loading class: xyz/nucleoid/server/translations/impl/language/SystemDelegatedLanguage (java.lang.ClassNotFoundException: xyz/nucleoid/server/translations/impl/language/SystemDelegatedLanguage)
+[23:15:54] [main/WARN]: Error loading class: net/minecraft/class_638 (java.lang.ClassNotFoundException: net/minecraft/class_638)
+[23:15:54] [main/WARN]: @Mixin target net.minecraft.class_638 was not found porting_lib_level_events.mixins.json:client.ClientLevelMixin from mod porting_lib_level_events
+[23:15:55] [main/WARN]: Error loading class: net/minecraft/class_314 (java.lang.ClassNotFoundException: net/minecraft/class_314)
+[23:15:55] [main/WARN]: @Mixin target net.minecraft.class_314 was not found mixins.mm.json:net.minecraft.class_314 from mod mm
+[23:15:55] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.0-beta.3).
+[23:15:59] [main/WARN]: Method overwrite conflict for method_21740 in modernfix-common.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin from mod modernfix, previously written by net.caffeinemc.mods.lithium.mixin.world.temperature_cache.BiomeMixin. Skipping method.
+[23:16:01] [main/ERROR]: No data fixer registered for ancient_skeleton
+[23:16:02] [main/INFO]: Vanilla bootstrap took 6879 milliseconds
+[23:16:04] [main/ERROR]: No data fixer registered for artifacts:mimic
+[23:16:04] [main/INFO]: Reflections took 50 ms to scan 1 urls, producing 1 keys and 2 values
+[23:16:04] [main/INFO]: Reflections took 3 ms to scan 1 urls, producing 1 keys and 2 values
+[23:16:04] [main/INFO]: Reflections took 3 ms to scan 1 urls, producing 1 keys and 3 values
+[23:16:04] [main/INFO]: Reflections took 3 ms to scan 1 urls, producing 1 keys and 3 values
+[23:16:04] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 2 values
+[23:16:04] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
+[23:16:04] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 1 values
+[23:16:04] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 1 values
+[23:16:04] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 3 values
+[23:16:04] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 3 values
+[23:16:04] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
+[23:16:04] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
+[23:16:04] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 1 values
+[23:16:04] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 1 values
+[23:16:04] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 3 values
+[23:16:04] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 3 values
+[23:16:04] [main/INFO]: Loading Collective version 8.3.
+[23:16:04] [main/INFO]: Successfully loaded config "bettertrims"
+[23:16:05] [main/ERROR]: No data fixer registered for jungle_creeper
+[23:16:05] [main/ERROR]: No data fixer registered for bamboo_creeper
+[23:16:05] [main/ERROR]: No data fixer registered for desert_creeper
+[23:16:05] [main/ERROR]: No data fixer registered for badlands_creeper
+[23:16:05] [main/ERROR]: No data fixer registered for hills_creeper
+[23:16:05] [main/ERROR]: No data fixer registered for savannah_creeper
+[23:16:05] [main/ERROR]: No data fixer registered for mushroom_creeper
+[23:16:05] [main/ERROR]: No data fixer registered for swamp_creeper
+[23:16:05] [main/ERROR]: No data fixer registered for dripstone_creeper
+[23:16:05] [main/ERROR]: No data fixer registered for cave_creeper
+[23:16:05] [main/ERROR]: No data fixer registered for dark_oak_creeper
+[23:16:05] [main/ERROR]: No data fixer registered for spruce_creeper
+[23:16:05] [main/ERROR]: No data fixer registered for beach_creeper
+[23:16:05] [main/ERROR]: No data fixer registered for snowy_creeper
+[23:16:05] [main/ERROR]: No data fixer registered for ocean_creeper
+[23:16:05] [main/ERROR]: No data fixer registered for birch_creeper
+[23:16:05] [main/INFO]: Enabled 28 bug fixes: [MC-2025, MC-7569, MC-8187, MC-30391, MC-69216, MC-88371, MC-89146, MC-93018, MC-100991, MC-119417, MC-119754, MC-121706, MC-121903, MC-129909, MC-132878, MC-135971, MC-155509, MC-160095, MC-179072, MC-183990, MC-199467, MC-200418, MC-206922, MC-215530, MC-223153, MC-224729, MC-231743, MC-232869]
+[23:16:05] [main/INFO]: Successfully Debugify'd your game!
+[23:16:05] [main/ERROR]: No data fixer registered for deeperdarker:angler_fish
+[23:16:05] [main/ERROR]: No data fixer registered for deeperdarker:sculk_centipede
+[23:16:05] [main/ERROR]: No data fixer registered for deeperdarker:sculk_leech
+[23:16:05] [main/ERROR]: No data fixer registered for deeperdarker:sculk_snapper
+[23:16:05] [main/ERROR]: No data fixer registered for deeperdarker:shattered
+[23:16:05] [main/ERROR]: No data fixer registered for deeperdarker:shriek_worm
+[23:16:05] [main/ERROR]: No data fixer registered for deeperdarker:sludge
+[23:16:05] [main/ERROR]: No data fixer registered for deeperdarker:stalker
+[23:16:05] [main/ERROR]: No data fixer registered for crystallized_amber
+[23:16:05] [main/ERROR]: No data fixer registered for sculk_jaw
+[23:16:05] [main/INFO]: YAaargh!
+[23:16:05] [main/INFO]: Constructing common components for enchantinginfuser:main
+[23:16:05] [main/INFO]: ExpandAbility here, who dis?
+[23:16:05] [main/INFO]: Loaded config farmersdelight-common.json
+[23:16:05] [main/INFO]: Deserializing FriendsAndFoesConfig from 'config/friendsandfoes.json'
+[23:16:05] [main/INFO]: Loaded com.faboslav.friendsandfoes.fabric.platform.PlatformCompat@44ad18b2 for service interface com.faboslav.friendsandfoes.common.platform.PlatformCompat
+[23:16:05] [main/INFO]: Loaded com.faboslav.friendsandfoes.fabric.platform.PlatformHelper@5df51308 for service interface com.faboslav.friendsandfoes.common.platform.PlatformHelper
+[23:16:05] [main/INFO]: Loaded com.faboslav.friendsandfoes.fabric.platform.ProcessorTypes@6de87816 for service interface com.faboslav.friendsandfoes.common.platform.ProcessorTypes
+[23:16:05] [main/INFO]: Loaded com.faboslav.friendsandfoes.fabric.platform.BiomeModifications@4e78e3d4 for service interface com.faboslav.friendsandfoes.common.platform.BiomeModifications
+[23:16:06] [main/ERROR]: No data fixer registered for handcrafted
+[23:16:06] [main/INFO]: Initializing ServerSide Packet Registries
+[23:16:06] [main/INFO]: Compression will use libdeflate (Linux x86_64), encryption will use OpenSSL 1.1.x (Linux x86_64)
+[23:16:06] [main/INFO]: Ksyxis: Booting... (platform: Fabric, manual: false)
+[23:16:06] [main/INFO]: Ksyxis: Found Mixin library. (version: 0.8.7)
+[23:16:06] [main/INFO]: Ksyxis: Ready. As always, this mod will speed up your world loading and might or might not break it. (0 ms)
+[23:16:06] [main/INFO]: Definitely not up to no good
+[23:16:06] [main/INFO]: Loading Noisium.
+[23:16:06] [main/INFO]: Hello from the Oracle Wiki Mod!
+[23:16:06] [main/INFO]: chyzman: No sound or Ender Dragon leakage. Although Ender Dragon sound leakage is still a thing
+[23:16:06] [main/INFO]: Constructing common components for puzzleslib:main
+[23:16:07] [main/INFO]: Loaded config simplyswords:general in 262ms
+[23:16:07] [main/INFO]: Loaded config simplyswords:gem_powers in 215ms
+[23:16:07] [main/INFO]: Loaded config simplyswords:status_effects in 3ms
+[23:16:07] [main/INFO]: Loaded config simplyswords:weapon_attributes in 71ms
+[23:16:07] [main/INFO]: Loaded config simplyswords:unique_effects in 165ms
+[23:16:07] [main/ERROR]: No data fixer registered for battlestandard
+[23:16:07] [main/ERROR]: No data fixer registered for battlestandarddark
+[23:16:07] [main/ERROR]: No data fixer registered for simplyswords:simplybeeentity
+[23:16:07] [main/ERROR]: No data fixer registered for simplyswords:thrown_sword
+[23:16:07] [main/ERROR]: No data fixer registered for simplyswords:frostfall_entity
+[23:16:07] [main/ERROR]: No data fixer registered for simplyswords:livyatan_entity
+[23:16:07] [main/ERROR]: No data fixer registered for simplyswords:spear_entity
+[23:16:07] [main/ERROR]: No data fixer registered for simplyswords:runic_entity
+[23:16:07] [main/INFO]: [STDOUT]: /workspaces/ProyectoZ/servidor_minecraft/config
+[23:16:07] [main/ERROR]: No data fixer registered for 
+[23:16:08] [main/INFO]: Reading config values from file.
+[23:16:08] [main/INFO]: Reflections took 4 ms to scan 1 urls, producing 1 keys and 3 values
+[23:16:08] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 3 values
+[23:16:08] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
+[23:16:08] [main/INFO]: Reflections took 0 ms to scan 1 urls, producing 1 keys and 2 values
+[23:16:08] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 2 values
+[23:16:08] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
+[23:16:08] [main/INFO]: Krypton is now accelerating your Minecraft server's networking stack 🚀
+[23:16:09] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[23:16:11] [Worker-Main-3/INFO]: Loaded config simplyswords:loot in 10ms
+[23:16:12] [Worker-Main-3/ERROR]: Couldn't load tag bettertrims:trim_materials/unobtainium as it is missing following references: #c:unobtainium (from bettertrims), #c:storage_blocks/unobtainium (from bettertrims)
+[23:16:12] [Worker-Main-3/ERROR]: Couldn't load tag bettertrims:trim_materials/manganese as it is missing following references: #c:ingots/manganese (from bettertrims), #c:storage_blocks/manganese (from bettertrims)
+[23:16:12] [Worker-Main-3/ERROR]: Couldn't load tag bettertrims:trim_materials/mythril as it is missing following references: #c:ingots/mythril (from bettertrims), #c:storage_blocks/mythril (from bettertrims)
+[23:16:12] [Worker-Main-3/ERROR]: Couldn't load tag bettertrims:trim_materials/kyber as it is missing following references: #c:ingots/kyber (from bettertrims), #c:storage_blocks/kyber (from bettertrims)
+[23:16:12] [Worker-Main-3/ERROR]: Couldn't load tag bettertrims:trim_materials/hallowed as it is missing following references: #c:ingots/hallowed (from bettertrims), #c:storage_blocks/hallowed (from bettertrims)
+[23:16:12] [Worker-Main-3/ERROR]: Couldn't load tag bettertrims:trim_materials/steel as it is missing following references: #c:ingots/steel (from bettertrims), #c:storage_blocks/steel (from bettertrims)
+[23:16:12] [Worker-Main-3/ERROR]: Couldn't load tag bettertrims:trim_materials/stormyx as it is missing following references: #c:ingots/stormyx (from bettertrims), #c:storage_blocks/stormyx (from bettertrims)
+[23:16:12] [Worker-Main-3/ERROR]: Couldn't load tag bettertrims:trim_materials/orichalcum as it is missing following references: #c:ingots/orichalcum (from bettertrims), #c:storage_blocks/orichalcum (from bettertrims)
+[23:16:12] [Worker-Main-3/ERROR]: Couldn't load tag bettertrims:trim_materials/silver as it is missing following references: #c:ingots/silver (from bettertrims), #c:storage_blocks/silver (from bettertrims)
+[23:16:12] [Worker-Main-3/ERROR]: Couldn't load tag bettertrims:trim_materials/runite as it is missing following references: #c:ingots/runite (from bettertrims), #c:storage_blocks/runite (from bettertrims)
+[23:16:12] [Worker-Main-3/ERROR]: Couldn't load tag bettertrims:trim_materials/celestium as it is missing following references: #c:ingots/celestium (from bettertrims), #c:storage_blocks/celestium (from bettertrims)
+[23:16:12] [Worker-Main-3/ERROR]: Couldn't load tag bettertrims:trim_materials/osmium as it is missing following references: #c:ingots/osmium (from bettertrims), #c:storage_blocks/osmium (from bettertrims)
+[23:16:12] [Worker-Main-3/ERROR]: Couldn't load tag bettertrims:trim_materials/banglum as it is missing following references: #c:ingots/banglum (from bettertrims), #c:storage_blocks/banglum (from bettertrims)
+[23:16:12] [Worker-Main-3/ERROR]: Couldn't load tag bettertrims:trim_materials/palladium as it is missing following references: #c:ingots/palladium (from bettertrims), #c:storage_blocks/palladium (from bettertrims)
+[23:16:12] [Worker-Main-3/ERROR]: Couldn't load tag bettertrims:trim_materials/prometheum as it is missing following references: #c:ingots/prometheum (from bettertrims), #c:storage_blocks/prometheum (from bettertrims)
+[23:16:12] [Worker-Main-3/ERROR]: Couldn't load tag bettertrims:trim_materials/tin as it is missing following references: #c:ingots/tin (from bettertrims), #c:storage_blocks/tin (from bettertrims)
+[23:16:12] [Worker-Main-3/ERROR]: Couldn't load tag bettertrims:trim_materials/starrite as it is missing following references: #c:starrite (from bettertrims), #c:storage_blocks/starrite (from bettertrims)
+[23:16:12] [Worker-Main-3/ERROR]: Couldn't load tag bettertrims:trim_materials/star_platinum as it is missing following references: #c:star_platinum (from bettertrims), #c:storage_blocks/star_platinum (from bettertrims)
+[23:16:12] [Worker-Main-3/ERROR]: Couldn't load tag bettertrims:trim_materials/carmot as it is missing following references: #c:ingots/carmot (from bettertrims), #c:storage_blocks/carmot (from bettertrims)
+[23:16:12] [Worker-Main-3/ERROR]: Couldn't load tag bettertrims:trim_materials/platinum as it is missing following references: #c:ingots/platinum (from bettertrims), #c:storage_blocks/platinum (from bettertrims)
+[23:16:12] [Worker-Main-3/ERROR]: Couldn't load tag bettertrims:trim_materials/midas_gold as it is missing following references: #c:ingots/midas_gold (from bettertrims), #c:storage_blocks/midas_gold (from bettertrims)
+[23:16:12] [Worker-Main-3/ERROR]: Couldn't load tag bettertrims:trim_materials/quadrillum as it is missing following references: #c:ingots/quadrillum (from bettertrims), #c:storage_blocks/quadrillum (from bettertrims)
+[23:16:12] [Worker-Main-3/ERROR]: Couldn't load tag bettertrims:trim_materials/durasteel as it is missing following references: #c:ingots/durasteel (from bettertrims), #c:storage_blocks/durasteel (from bettertrims)
+[23:16:12] [Worker-Main-3/ERROR]: Couldn't load tag bettertrims:trim_materials/metallurgium as it is missing following references: #c:ingots/metallurgium (from bettertrims), #c:storage_blocks/metallurgium (from bettertrims)
+[23:16:12] [Worker-Main-3/ERROR]: Couldn't load tag bettertrims:trim_materials/adamantite as it is missing following references: #c:ingots/adamantite (from bettertrims), #c:storage_blocks/adamantite (from bettertrims)
+[23:16:12] [Worker-Main-3/ERROR]: Couldn't load tag bettertrims:trim_materials/bronze as it is missing following references: #c:ingots/bronze (from bettertrims), #c:storage_blocks/bronze (from bettertrims)
+[23:16:12] [Worker-Main-3/ERROR]: Couldn't load tag bettertrims:trim_materials/aquarium as it is missing following references: #c:ingots/aquarium (from bettertrims), #c:storage_blocks/aquarium (from bettertrims)
+[23:16:13] [main/ERROR]: Parsing error loading recipe deeperdarker:farmersdelight/cutting/blooming_stem
 com.google.gson.JsonParseException: Not a JSON object: "minecraft:item.axe.strip"; Not a JSON object: "farmersdelight:tree_bark"; Not a JSON object: "deeperdarker:stripped_blooming_stem"; Failed to parse either. First: Input does not contain a key [fabric:type]: MapLike[{"type":"farmersdelight:tool_action","action":"axe_strip"}]; Second: Failed to parse either. First: Not a json array: {"type":"farmersdelight:tool_action","action":"axe_strip"}; Second: No key tag in MapLike[{"type":"farmersdelight:tool_action","action":"axe_strip"}]; No key item in MapLike[{"type":"farmersdelight:tool_action","action":"axe_strip"}]
-	at knot/com.mojang.serialization.DataResult$Error.md89c0ea$owo$lambda$addStackTraceToException$0$0(DataResult.java:565) ~[datafixerupper-8.0.16.jar:?]
+	at knot/com.mojang.serialization.DataResult$Error.md9e1faf$owo$lambda$addStackTraceToException$0$0(DataResult.java:565) ~[datafixerupper-8.0.16.jar:?]
 	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
 	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
 	at knot/net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
@@ -418,9 +418,9 @@ com.google.gson.JsonParseException: Not a JSON object: "minecraft:item.axe.strip
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.14.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.14.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-launch.jar:1.0.1]
-[02:09:38] [main/ERROR]: Parsing error loading recipe deeperdarker:farmersdelight/cutting/bloom_sign
+[23:16:13] [main/ERROR]: Parsing error loading recipe deeperdarker:farmersdelight/cutting/bloom_sign
 com.google.gson.JsonParseException: Not a JSON object: "deeperdarker:bloom_planks"; Failed to parse either. First: Input does not contain a key [fabric:type]: MapLike[{"type":"farmersdelight:tool_action","action":"axe_dig"}]; Second: Failed to parse either. First: Not a json array: {"type":"farmersdelight:tool_action","action":"axe_dig"}; Second: No key tag in MapLike[{"type":"farmersdelight:tool_action","action":"axe_dig"}]; No key item in MapLike[{"type":"farmersdelight:tool_action","action":"axe_dig"}]
-	at knot/com.mojang.serialization.DataResult$Error.md89c0ea$owo$lambda$addStackTraceToException$0$0(DataResult.java:565) ~[datafixerupper-8.0.16.jar:?]
+	at knot/com.mojang.serialization.DataResult$Error.md9e1faf$owo$lambda$addStackTraceToException$0$0(DataResult.java:565) ~[datafixerupper-8.0.16.jar:?]
 	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
 	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
 	at knot/net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
@@ -436,9 +436,9 @@ com.google.gson.JsonParseException: Not a JSON object: "deeperdarker:bloom_plank
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.14.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.14.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-launch.jar:1.0.1]
-[02:09:38] [main/ERROR]: Parsing error loading recipe deeperdarker:farmersdelight/cutting/echo_wood
+[23:16:13] [main/ERROR]: Parsing error loading recipe deeperdarker:farmersdelight/cutting/echo_wood
 com.google.gson.JsonParseException: Not a JSON object: "minecraft:item.axe.strip"; Not a JSON object: "farmersdelight:tree_bark"; Not a JSON object: "deeperdarker:stripped_echo_wood"; Failed to parse either. First: Input does not contain a key [fabric:type]: MapLike[{"type":"farmersdelight:tool_action","action":"axe_strip"}]; Second: Failed to parse either. First: Not a json array: {"type":"farmersdelight:tool_action","action":"axe_strip"}; Second: No key tag in MapLike[{"type":"farmersdelight:tool_action","action":"axe_strip"}]; No key item in MapLike[{"type":"farmersdelight:tool_action","action":"axe_strip"}]
-	at knot/com.mojang.serialization.DataResult$Error.md89c0ea$owo$lambda$addStackTraceToException$0$0(DataResult.java:565) ~[datafixerupper-8.0.16.jar:?]
+	at knot/com.mojang.serialization.DataResult$Error.md9e1faf$owo$lambda$addStackTraceToException$0$0(DataResult.java:565) ~[datafixerupper-8.0.16.jar:?]
 	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
 	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
 	at knot/net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
@@ -454,9 +454,9 @@ com.google.gson.JsonParseException: Not a JSON object: "minecraft:item.axe.strip
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.14.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.14.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-launch.jar:1.0.1]
-[02:09:38] [main/ERROR]: Parsing error loading recipe deeperdarker:farmersdelight/cutting/bloom_hanging_sign
+[23:16:13] [main/ERROR]: Parsing error loading recipe deeperdarker:farmersdelight/cutting/bloom_hanging_sign
 com.google.gson.JsonParseException: Not a JSON object: "deeperdarker:bloom_planks"; Failed to parse either. First: Input does not contain a key [fabric:type]: MapLike[{"type":"farmersdelight:tool_action","action":"axe_dig"}]; Second: Failed to parse either. First: Not a json array: {"type":"farmersdelight:tool_action","action":"axe_dig"}; Second: No key tag in MapLike[{"type":"farmersdelight:tool_action","action":"axe_dig"}]; No key item in MapLike[{"type":"farmersdelight:tool_action","action":"axe_dig"}]
-	at knot/com.mojang.serialization.DataResult$Error.md89c0ea$owo$lambda$addStackTraceToException$0$0(DataResult.java:565) ~[datafixerupper-8.0.16.jar:?]
+	at knot/com.mojang.serialization.DataResult$Error.md9e1faf$owo$lambda$addStackTraceToException$0$0(DataResult.java:565) ~[datafixerupper-8.0.16.jar:?]
 	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
 	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
 	at knot/net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
@@ -472,9 +472,9 @@ com.google.gson.JsonParseException: Not a JSON object: "deeperdarker:bloom_plank
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.14.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.14.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-launch.jar:1.0.1]
-[02:09:38] [main/ERROR]: Parsing error loading recipe deeperdarker:farmersdelight/cutting/echo_hanging_sign
+[23:16:13] [main/ERROR]: Parsing error loading recipe deeperdarker:farmersdelight/cutting/echo_hanging_sign
 com.google.gson.JsonParseException: Not a JSON object: "deeperdarker:echo_planks"; Failed to parse either. First: Input does not contain a key [fabric:type]: MapLike[{"type":"farmersdelight:tool_action","action":"axe_dig"}]; Second: Failed to parse either. First: Not a json array: {"type":"farmersdelight:tool_action","action":"axe_dig"}; Second: No key tag in MapLike[{"type":"farmersdelight:tool_action","action":"axe_dig"}]; No key item in MapLike[{"type":"farmersdelight:tool_action","action":"axe_dig"}]
-	at knot/com.mojang.serialization.DataResult$Error.md89c0ea$owo$lambda$addStackTraceToException$0$0(DataResult.java:565) ~[datafixerupper-8.0.16.jar:?]
+	at knot/com.mojang.serialization.DataResult$Error.md9e1faf$owo$lambda$addStackTraceToException$0$0(DataResult.java:565) ~[datafixerupper-8.0.16.jar:?]
 	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
 	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
 	at knot/net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
@@ -490,9 +490,9 @@ com.google.gson.JsonParseException: Not a JSON object: "deeperdarker:echo_planks
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.14.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.14.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-launch.jar:1.0.1]
-[02:09:38] [main/ERROR]: Parsing error loading recipe deeperdarker:farmersdelight/cutting/echo_door
+[23:16:13] [main/ERROR]: Parsing error loading recipe deeperdarker:farmersdelight/cutting/echo_door
 com.google.gson.JsonParseException: Not a JSON object: "deeperdarker:echo_planks"; Failed to parse either. First: Input does not contain a key [fabric:type]: MapLike[{"type":"farmersdelight:tool_action","action":"axe_dig"}]; Second: Failed to parse either. First: Not a json array: {"type":"farmersdelight:tool_action","action":"axe_dig"}; Second: No key tag in MapLike[{"type":"farmersdelight:tool_action","action":"axe_dig"}]; No key item in MapLike[{"type":"farmersdelight:tool_action","action":"axe_dig"}]
-	at knot/com.mojang.serialization.DataResult$Error.md89c0ea$owo$lambda$addStackTraceToException$0$0(DataResult.java:565) ~[datafixerupper-8.0.16.jar:?]
+	at knot/com.mojang.serialization.DataResult$Error.md9e1faf$owo$lambda$addStackTraceToException$0$0(DataResult.java:565) ~[datafixerupper-8.0.16.jar:?]
 	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
 	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
 	at knot/net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
@@ -508,9 +508,9 @@ com.google.gson.JsonParseException: Not a JSON object: "deeperdarker:echo_planks
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.14.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.14.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-launch.jar:1.0.1]
-[02:09:38] [main/ERROR]: Parsing error loading recipe deeperdarker:farmersdelight/cutting/echo_log
+[23:16:13] [main/ERROR]: Parsing error loading recipe deeperdarker:farmersdelight/cutting/echo_log
 com.google.gson.JsonParseException: Not a JSON object: "minecraft:item.axe.strip"; Not a JSON object: "farmersdelight:tree_bark"; Not a JSON object: "deeperdarker:stripped_echo_log"; Failed to parse either. First: Input does not contain a key [fabric:type]: MapLike[{"type":"farmersdelight:tool_action","action":"axe_strip"}]; Second: Failed to parse either. First: Not a json array: {"type":"farmersdelight:tool_action","action":"axe_strip"}; Second: No key tag in MapLike[{"type":"farmersdelight:tool_action","action":"axe_strip"}]; No key item in MapLike[{"type":"farmersdelight:tool_action","action":"axe_strip"}]
-	at knot/com.mojang.serialization.DataResult$Error.md89c0ea$owo$lambda$addStackTraceToException$0$0(DataResult.java:565) ~[datafixerupper-8.0.16.jar:?]
+	at knot/com.mojang.serialization.DataResult$Error.md9e1faf$owo$lambda$addStackTraceToException$0$0(DataResult.java:565) ~[datafixerupper-8.0.16.jar:?]
 	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
 	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
 	at knot/net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
@@ -526,9 +526,9 @@ com.google.gson.JsonParseException: Not a JSON object: "minecraft:item.axe.strip
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.14.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.14.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-launch.jar:1.0.1]
-[02:09:38] [main/ERROR]: Parsing error loading recipe deeperdarker:farmersdelight/cutting/bloom_door
+[23:16:13] [main/ERROR]: Parsing error loading recipe deeperdarker:farmersdelight/cutting/bloom_door
 com.google.gson.JsonParseException: Not a JSON object: "deeperdarker:bloom_planks"; Failed to parse either. First: Input does not contain a key [fabric:type]: MapLike[{"type":"farmersdelight:tool_action","action":"axe_dig"}]; Second: Failed to parse either. First: Not a json array: {"type":"farmersdelight:tool_action","action":"axe_dig"}; Second: No key tag in MapLike[{"type":"farmersdelight:tool_action","action":"axe_dig"}]; No key item in MapLike[{"type":"farmersdelight:tool_action","action":"axe_dig"}]
-	at knot/com.mojang.serialization.DataResult$Error.md89c0ea$owo$lambda$addStackTraceToException$0$0(DataResult.java:565) ~[datafixerupper-8.0.16.jar:?]
+	at knot/com.mojang.serialization.DataResult$Error.md9e1faf$owo$lambda$addStackTraceToException$0$0(DataResult.java:565) ~[datafixerupper-8.0.16.jar:?]
 	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
 	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
 	at knot/net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
@@ -544,9 +544,9 @@ com.google.gson.JsonParseException: Not a JSON object: "deeperdarker:bloom_plank
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.14.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.14.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-launch.jar:1.0.1]
-[02:09:38] [main/ERROR]: Parsing error loading recipe deeperdarker:farmersdelight/cutting/echo_sign
+[23:16:13] [main/ERROR]: Parsing error loading recipe deeperdarker:farmersdelight/cutting/echo_sign
 com.google.gson.JsonParseException: Not a JSON object: "deeperdarker:echo_planks"; Failed to parse either. First: Input does not contain a key [fabric:type]: MapLike[{"type":"farmersdelight:tool_action","action":"axe_dig"}]; Second: Failed to parse either. First: Not a json array: {"type":"farmersdelight:tool_action","action":"axe_dig"}; Second: No key tag in MapLike[{"type":"farmersdelight:tool_action","action":"axe_dig"}]; No key item in MapLike[{"type":"farmersdelight:tool_action","action":"axe_dig"}]
-	at knot/com.mojang.serialization.DataResult$Error.md89c0ea$owo$lambda$addStackTraceToException$0$0(DataResult.java:565) ~[datafixerupper-8.0.16.jar:?]
+	at knot/com.mojang.serialization.DataResult$Error.md9e1faf$owo$lambda$addStackTraceToException$0$0(DataResult.java:565) ~[datafixerupper-8.0.16.jar:?]
 	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
 	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
 	at knot/net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
@@ -562,9 +562,9 @@ com.google.gson.JsonParseException: Not a JSON object: "deeperdarker:echo_planks
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.14.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.14.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-launch.jar:1.0.1]
-[02:09:39] [main/ERROR]: Parsing error loading recipe deeperdarker:farmersdelight/cutting/echo_trapdoor
+[23:16:13] [main/ERROR]: Parsing error loading recipe deeperdarker:farmersdelight/cutting/echo_trapdoor
 com.google.gson.JsonParseException: Not a JSON object: "deeperdarker:echo_planks"; Failed to parse either. First: Input does not contain a key [fabric:type]: MapLike[{"type":"farmersdelight:tool_action","action":"axe_dig"}]; Second: Failed to parse either. First: Not a json array: {"type":"farmersdelight:tool_action","action":"axe_dig"}; Second: No key tag in MapLike[{"type":"farmersdelight:tool_action","action":"axe_dig"}]; No key item in MapLike[{"type":"farmersdelight:tool_action","action":"axe_dig"}]
-	at knot/com.mojang.serialization.DataResult$Error.md89c0ea$owo$lambda$addStackTraceToException$0$0(DataResult.java:565) ~[datafixerupper-8.0.16.jar:?]
+	at knot/com.mojang.serialization.DataResult$Error.md9e1faf$owo$lambda$addStackTraceToException$0$0(DataResult.java:565) ~[datafixerupper-8.0.16.jar:?]
 	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
 	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
 	at knot/net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
@@ -580,9 +580,9 @@ com.google.gson.JsonParseException: Not a JSON object: "deeperdarker:echo_planks
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.14.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.14.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-launch.jar:1.0.1]
-[02:09:39] [main/ERROR]: Parsing error loading recipe deeperdarker:farmersdelight/cutting/bloom_trapdoor
+[23:16:13] [main/ERROR]: Parsing error loading recipe deeperdarker:farmersdelight/cutting/bloom_trapdoor
 com.google.gson.JsonParseException: Not a JSON object: "deeperdarker:bloom_planks"; Failed to parse either. First: Input does not contain a key [fabric:type]: MapLike[{"type":"farmersdelight:tool_action","action":"axe_dig"}]; Second: Failed to parse either. First: Not a json array: {"type":"farmersdelight:tool_action","action":"axe_dig"}; Second: No key tag in MapLike[{"type":"farmersdelight:tool_action","action":"axe_dig"}]; No key item in MapLike[{"type":"farmersdelight:tool_action","action":"axe_dig"}]
-	at knot/com.mojang.serialization.DataResult$Error.md89c0ea$owo$lambda$addStackTraceToException$0$0(DataResult.java:565) ~[datafixerupper-8.0.16.jar:?]
+	at knot/com.mojang.serialization.DataResult$Error.md9e1faf$owo$lambda$addStackTraceToException$0$0(DataResult.java:565) ~[datafixerupper-8.0.16.jar:?]
 	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
 	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
 	at knot/net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
@@ -598,323 +598,80 @@ com.google.gson.JsonParseException: Not a JSON object: "deeperdarker:bloom_plank
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.14.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.14.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-launch.jar:1.0.1]
-[02:09:39] [main/INFO]: Loaded 3898 recipes
-[02:09:39] [main/ERROR]: Parsing error loading custom advancement dungeons_arise:find_thornborn_towers: No key id in MapLike[{"item":"minecraft:rose_bush"}]
-[02:09:39] [main/ERROR]: Parsing error loading custom advancement dungeons_arise:find_illager_corsair_or_illager_galley: No key id in MapLike[{"item":"minecraft:tropical_fish"}]
-[02:09:39] [main/ERROR]: Parsing error loading custom advancement dungeons_arise:find_keep_kayra: No key id in MapLike[{"item":"minecraft:lily_pad"}]
-[02:09:39] [main/ERROR]: Parsing error loading custom advancement dungeons_arise:find_infested_temple_map: No key id in MapLike[{"item":"minecraft:filled_map"}]
-[02:09:39] [main/ERROR]: Parsing error loading custom advancement dungeons_arise:find_greenwood_pub: No key id in MapLike[{"item":"minecraft:barrel"}]
-[02:09:39] [main/ERROR]: Couldn't load advancements: [dungeons_arise:find_plague_asylum, minecraft:wander_add_map, dungeons_arise:find_fishing_hut, minecraft:give_quest_trader_trade]
-[02:09:39] [main/INFO]: Loaded 2773 advancements
-[02:09:39] [main/INFO]: Loaded 32 entity animations
-[02:09:39] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:scavenging_smoked_ham_from_hoglin - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_item
-[02:09:39] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:straw_from_sandy_shrub - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_item
-[02:09:39] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:slicing_apple_pie - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:pastry_slicing
-[02:09:39] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:slicing_cake - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:pastry_slicing
-[02:09:39] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:add_loot_abandoned_mineshaft - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_loot_table
-[02:09:39] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:scavenging_ham_from_hoglin - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_item
-[02:09:39] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:straw_from_grass - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_item
-[02:09:39] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:scavenging_shulker_shell - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_item
-[02:09:39] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:scavenging_string - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_item
-[02:09:39] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:scavenging_pumpkin - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:replace_item
-[02:09:39] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:add_loot_end_city_treasure - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_loot_table
-[02:09:39] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:scavenging_ham_from_pig - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_item
-[02:09:39] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:slicing_chocolate_pie - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:pastry_slicing
-[02:09:39] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:straw_from_tall_grass - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_item
-[02:09:39] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:slicing_candle_cake - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_item
-[02:09:39] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:slicing_sweet_berry_cheesecake - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:pastry_slicing
-[02:09:39] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:straw_from_mature_wheat - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_item
-[02:09:39] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:scavenging_leather - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_item
-[02:09:39] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:add_loot_shipwreck_supply - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_loot_table
-[02:09:39] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:add_loot_simple_dungeon - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_loot_table
-[02:09:39] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:straw_from_mature_rice - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_item
-[02:09:39] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:scavenging_feather - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_item
-[02:09:39] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:scavenging_rabbit_hide - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_item
-[02:09:39] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:add_loot_village_snowy_house - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_loot_table
-[02:09:39] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:add_loot_village_desert_house - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_loot_table
-[02:09:39] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:add_loot_bastion_treasure - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_loot_table
-[02:09:39] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:add_loot_pillager_outpost - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_loot_table
-[02:09:39] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:add_loot_village_plains_house - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_loot_table
-[02:09:39] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:add_loot_village_taiga_house - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_loot_table
-[02:09:39] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:scavenging_smoked_ham_from_pig - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_item
-[02:09:39] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:add_loot_village_butcher - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_loot_table
-[02:09:39] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:add_loot_ruined_portal - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_loot_table
-[02:09:39] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:add_loot_bastion_hoglin_stable - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_loot_table
-[02:09:39] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:add_loot_village_savanna_house - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_loot_table
-[02:09:40] [main/INFO]: Applied 1398 biome modifications to 166 of 180 new biomes in 94.08 ms
-[02:09:40] [Server thread/INFO]: Dispatching loading event for config enchantinginfuser-server.toml
-[02:09:40] [Server thread/INFO]: Starting background profiler...
-[02:09:40] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[02:09:40] [Server thread/INFO]: Loading properties
-[02:09:40] [Server thread/INFO]: Default game type: SURVIVAL
-[02:09:40] [Server thread/INFO]: Generating keypair
-[02:09:40] [Server thread/INFO]: Starting Minecraft server on *:25565
-[02:09:40] [Server thread/INFO]: Using epoll channel type
-[02:09:40] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[02:09:40] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[02:09:40] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[02:09:40] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[02:09:40] [Server thread/INFO]: Preparing level "world"
-[02:09:41] [Server thread/INFO]: Ksyxis: Hey. This is Ksyxis. We will now load the world and will try to do it quickly. If the game is not responding after this, it's probably us to blame or delete for good. This message appears always, even if the mod works flawlessly. (modern)
-[02:09:41] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[02:09:41] [Server thread/WARN]: Method overwrite conflict for removeIf in modernfix-common.mixins.json:bugfix.paper_chunk_patches.SortedArraySetMixin from mod modernfix, previously written by net.caffeinemc.mods.lithium.mixin.collections.chunk_tickets.SortedArraySetMixin. Skipping method.
-[02:09:41] [Server thread/INFO]: Time elapsed: 57 ms
-[02:09:41] [Server thread/INFO]: Done (1.055s)! For help, type "help"
-[02:09:41] [Server thread/WARN]: Dedicated server took 30.055 seconds to load
-[02:09:42] [Server thread/INFO]: Start loading plugin from Exposure: io.github.mortuusars.exposure.integration.jade.ExposureJadePlugin
-[02:09:42] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.core.CorePlugin
-[02:09:42] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.vanilla.VanillaPlugin
-[02:09:42] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.universal.UniversalPlugin
-[02:09:42] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.access.AccessibilityPlugin
-[02:09:42] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.debug.DebugPlugin
-[02:09:42] [Server thread/INFO]: Loaded null for service interface journeymap.api.services.WebMapService
-[02:09:42] [Server thread/INFO]: Loaded journeymap.common.helpers.FabricClientHooks@7c1f16a for service interface journeymap.api.services.ClientPlatformService
-[02:09:42] [Server thread/INFO]: Loaded journeymap.common.helpers.FabricHooks@79d62f15 for service interface journeymap.api.services.CommonPlatformService
-[02:18:51] [Server thread/INFO]: [STDOUT]: Lithium Cached BlockState Flags are disabled!
-[02:18:51] [Server thread/INFO]: El_Andrew22[/100.99.232.91:50446] logged in with entity id 28 at (702.6999999880791, 51.0, 250.30000001192093)
-[02:18:51] [Server thread/INFO]: Reading config values from file.
-[02:18:51] [Server thread/INFO]: El_Andrew22 joined the game
-[02:18:51] [Server thread/INFO]: Sending item configs to client
-[02:19:51] [Server thread/INFO]: minecraft:piglin
-[02:22:05] [Server thread/INFO]: minecraft:hoglin
-[02:36:44] [Server thread/INFO]: Akalixy[/100.120.240.91:64464] logged in with entity id 1497 at (702.3000000119209, 50.0, 251.77681269953106)
-[02:36:44] [Server thread/INFO]: Reading config values from file.
-[02:36:45] [Server thread/INFO]: Akalixy joined the game
-[02:36:45] [Server thread/INFO]: Sending item configs to client
-[02:37:45] [Server thread/INFO]: [Not Secure] <El_Andrew22> TIRI
-[02:37:59] [Server thread/INFO]: [Not Secure] <Akalixy> tiroso llama
-[02:45:17] [Worker-Main-15/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[02:45:17] [Worker-Main-15/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[02:45:17] [Worker-Main-15/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[02:45:17] [Worker-Main-15/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[02:45:17] [Worker-Main-15/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[02:45:17] [Worker-Main-15/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[02:45:17] [Worker-Main-15/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[02:45:17] [Worker-Main-15/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[02:45:17] [Worker-Main-15/WARN]: Template pool fallback chain found: incendium:cvill/piglins -> incendium:cvill/piglins
-[02:45:17] [Worker-Main-15/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[02:45:17] [Worker-Main-15/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[02:45:17] [Worker-Main-15/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[02:45:17] [Worker-Main-15/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[02:45:17] [Worker-Main-15/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[02:45:17] [Worker-Main-15/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[02:45:17] [Worker-Main-15/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[02:45:17] [Worker-Main-15/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[02:45:17] [Worker-Main-15/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[02:45:17] [Worker-Main-15/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[02:45:17] [Worker-Main-15/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[02:45:17] [Worker-Main-15/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[02:45:17] [Worker-Main-15/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[02:45:17] [Worker-Main-15/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[02:45:17] [Worker-Main-15/WARN]: Template pool fallback chain found: incendium:cvill/piglins -> incendium:cvill/piglins
-[02:45:17] [Worker-Main-15/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[02:45:17] [Worker-Main-15/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[02:45:17] [Worker-Main-15/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[02:45:17] [Worker-Main-15/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[02:45:17] [Worker-Main-15/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[02:45:17] [Worker-Main-15/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[02:45:17] [Worker-Main-15/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[02:45:17] [Worker-Main-15/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[02:45:17] [Worker-Main-15/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[02:45:17] [Worker-Main-15/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[02:45:17] [Worker-Main-15/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[02:45:17] [Worker-Main-15/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[02:45:17] [Worker-Main-15/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[02:45:17] [Worker-Main-15/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[02:45:17] [Worker-Main-15/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[02:45:17] [Worker-Main-15/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[02:45:17] [Worker-Main-15/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[02:45:17] [Worker-Main-15/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[02:45:17] [Worker-Main-15/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[02:45:17] [Worker-Main-15/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[02:45:17] [Worker-Main-15/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[02:45:17] [Worker-Main-15/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[02:45:17] [Worker-Main-15/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[02:45:17] [Worker-Main-15/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[02:45:17] [Worker-Main-15/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[02:45:17] [Worker-Main-15/WARN]: Template pool fallback chain found: incendium:cvill/piglins -> incendium:cvill/piglins
-[02:45:17] [Worker-Main-15/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[02:45:17] [Worker-Main-15/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[02:45:17] [Worker-Main-15/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[02:45:17] [Worker-Main-15/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[02:45:17] [Worker-Main-15/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[02:45:17] [Worker-Main-15/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[02:45:17] [Worker-Main-15/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[02:45:17] [Worker-Main-15/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[02:45:17] [Worker-Main-15/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[02:45:17] [Worker-Main-15/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[02:45:17] [Worker-Main-15/WARN]: Template pool fallback chain found: incendium:cvill/piglins -> incendium:cvill/piglins
-[02:45:17] [Worker-Main-15/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[02:45:17] [Worker-Main-15/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[02:45:17] [Worker-Main-15/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[02:45:17] [Worker-Main-15/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[02:45:17] [Worker-Main-15/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[02:45:17] [Worker-Main-15/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[02:45:17] [Worker-Main-15/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[02:45:17] [Worker-Main-15/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[02:45:17] [Worker-Main-15/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[02:45:17] [Worker-Main-15/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[02:45:17] [Worker-Main-15/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[02:45:17] [Worker-Main-15/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[02:45:17] [Worker-Main-15/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[02:45:17] [Worker-Main-15/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[02:45:17] [Worker-Main-15/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[02:45:17] [Worker-Main-15/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[02:45:17] [Worker-Main-15/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[02:45:17] [Worker-Main-15/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[02:45:17] [Worker-Main-15/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[02:45:17] [Worker-Main-15/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[02:45:17] [Worker-Main-15/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[02:45:17] [Worker-Main-15/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[02:45:17] [Worker-Main-15/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[02:45:17] [Worker-Main-15/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[02:45:17] [Worker-Main-15/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[02:45:17] [Worker-Main-15/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[02:45:17] [Worker-Main-15/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[02:45:17] [Worker-Main-15/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[02:45:17] [Worker-Main-15/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[02:45:17] [Worker-Main-15/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[02:45:17] [Worker-Main-15/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[02:45:17] [Worker-Main-15/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[02:45:17] [Worker-Main-15/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[02:45:17] [Worker-Main-15/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[02:45:17] [Worker-Main-15/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[02:45:17] [Worker-Main-15/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[02:45:17] [Worker-Main-15/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[02:45:17] [Worker-Main-15/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[02:45:17] [Worker-Main-15/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[02:45:17] [Worker-Main-15/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[02:45:17] [Worker-Main-15/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[02:45:17] [Worker-Main-15/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[02:45:17] [Worker-Main-15/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[02:45:17] [Worker-Main-15/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[02:45:17] [Worker-Main-15/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[02:45:17] [Worker-Main-15/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[02:45:17] [Worker-Main-15/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[02:45:17] [Worker-Main-15/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[02:45:17] [Worker-Main-15/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[02:45:17] [Worker-Main-15/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[02:45:17] [Worker-Main-15/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[02:45:17] [Worker-Main-15/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[02:45:17] [Worker-Main-15/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[02:45:17] [Worker-Main-15/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[02:45:17] [Worker-Main-15/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[02:45:17] [Worker-Main-15/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[02:45:17] [Worker-Main-15/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[02:45:17] [Worker-Main-15/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[02:45:17] [Worker-Main-15/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[02:45:17] [Worker-Main-15/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[02:45:17] [Worker-Main-15/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[02:45:17] [Worker-Main-15/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[02:45:17] [Worker-Main-15/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[02:45:17] [Worker-Main-15/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[02:45:17] [Worker-Main-15/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[02:45:17] [Worker-Main-15/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[02:45:17] [Worker-Main-15/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[02:45:17] [Worker-Main-15/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[02:45:50] [Worker-Main-15/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[02:45:50] [Worker-Main-15/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[02:45:50] [Worker-Main-15/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[02:45:50] [Worker-Main-15/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[02:45:50] [Worker-Main-15/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[02:45:53] [Worker-Main-17/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[02:45:53] [Worker-Main-17/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[02:45:53] [Worker-Main-17/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[02:46:00] [Worker-Main-17/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[02:46:00] [Worker-Main-17/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[02:46:00] [Worker-Main-17/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[02:46:00] [Worker-Main-15/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[02:46:00] [Worker-Main-15/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[02:49:36] [Server thread/INFO]: Akalixy has reached the goal [Piglin Pillage]
-[02:51:09] [Server thread/INFO]: El_Andrew22 has reached the goal [Piglin Pillage]
-[02:53:08] [Worker-Main-14/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[02:53:08] [Worker-Main-14/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[02:53:08] [Worker-Main-14/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[02:57:41] [Server thread/INFO]: El_Andrew22 teleported to 625.0 63.0 261.0 minecraft:the_nether
-[02:57:58] [Server thread/INFO]: El_Andrew22 teleported to 631.0 71.0 244.0 minecraft:the_nether
-[03:03:02] [Server thread/INFO]: minecraft:hoglin
-[03:06:44] [Server thread/INFO]: [El_Andrew22: Teleported Akalixy to El_Andrew22]
-[03:07:50] [Server thread/INFO]: El_Andrew22 teleported to 812.0 60.0 281.0 minecraft:the_nether
-[03:08:14] [Server thread/INFO]: [El_Andrew22: Teleported Akalixy to El_Andrew22]
-[03:08:21] [Server thread/INFO]: [El_Andrew22: Teleported Akalixy to El_Andrew22]
-[03:08:23] [Server thread/INFO]: [El_Andrew22: Teleported Akalixy to El_Andrew22]
-[03:08:25] [Server thread/INFO]: [El_Andrew22: Teleported Akalixy to El_Andrew22]
-[03:08:33] [Server thread/INFO]: [El_Andrew22: Teleported Akalixy to El_Andrew22]
-[03:10:16] [Server thread/INFO]: [El_Andrew22: Teleported Akalixy to El_Andrew22]
-[03:12:32] [Server thread/INFO]: minecraft:piglin
-[03:12:41] [Server thread/INFO]: minecraft:piglin
-[03:16:57] [Server thread/INFO]: minecraft:piglin
-[03:17:02] [Server thread/INFO]: minecraft:skeleton
-[03:17:05] [Server thread/INFO]: El_Andrew22 has made the advancement [Hellish Paradise]
-[03:17:05] [Server thread/INFO]: El_Andrew22 has made the advancement [The Floor is Tears]
-[03:17:16] [Server thread/INFO]: El_Andrew22 has completed the challenge [Hot Tourist Destinations]
-[03:17:22] [Server thread/INFO]: Akalixy has made the advancement [The Floor is Tears]
-[03:17:22] [Server thread/INFO]: Akalixy has made the advancement [Hellish Paradise]
-[03:17:39] [Server thread/INFO]: minecraft:piglin
-[03:17:43] [Server thread/INFO]: Akalixy has completed the challenge [Hot Tourist Destinations]
-[03:17:45] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=990, y=34, z=152}) doesn't have enough leaves around top most log
-[03:17:46] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=990, y=33, z=152}) doesn't have enough leaves around top most log
-[03:17:47] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=990, y=35, z=152}) doesn't have enough leaves around top most log
-[03:17:47] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=990, y=36, z=152}) doesn't have enough leaves around top most log
-[03:17:48] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=990, y=37, z=152}) doesn't have enough leaves around top most log
-[03:17:48] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=990, y=38, z=152}) doesn't have enough leaves around top most log
-[03:17:49] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=990, y=39, z=152}) doesn't have enough leaves around top most log
-[03:17:57] [Server thread/INFO]: Tree reached max size of 100
-[03:18:34] [Server thread/INFO]: Tree reached max size of 100
-[03:18:35] [Server thread/INFO]: Tree reached max size of 100
-[03:18:35] [Server thread/INFO]: Tree reached max size of 100
-[03:18:36] [Server thread/INFO]: Tree reached max size of 100
-[03:18:36] [Server thread/INFO]: Tree reached max size of 100
-[03:23:39] [Server thread/INFO]: El_Andrew22 teleported to 1070.0 47.0 124.0 minecraft:the_nether
-[03:37:54] [Server thread/INFO]: El_Andrew22 teleported to 1131.0 42.0 197.0 minecraft:the_nether
-[03:37:55] [Worker-Main-14/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/14608, l='ServerLevel[world]', x=1297.00, y=31.00, z=310.00] as it would cause deadlock
-[03:37:55] [Worker-Main-14/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/14610, l='ServerLevel[world]', x=1302.00, y=31.00, z=324.00] as it would cause deadlock
-[03:37:55] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/14616, l='ServerLevel[world]', x=1297.00, y=31.00, z=310.00] as it would cause deadlock
-[03:37:55] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/14618, l='ServerLevel[world]', x=1302.00, y=31.00, z=324.00] as it would cause deadlock
-[03:39:19] [Server thread/INFO]: El_Andrew22 teleported to 22.5 62.0 13.5 minecraft:the_nether
-[03:39:27] [Server thread/INFO]: [El_Andrew22: Teleported Akalixy to El_Andrew22]
-[03:39:44] [Server thread/INFO]: [Not Secure] <El_Andrew22> oie
-[03:39:51] [Server thread/INFO]: [Not Secure] <El_Andrew22> sono el tutu
-[03:39:51] [Server thread/INFO]: [Not Secure] <Akalixy> eu
-[03:39:58] [Server thread/INFO]: [Not Secure] <El_Andrew22> se colgo?
-[03:40:14] [Server thread/INFO]: [Not Secure] <Akalixy> au¿y vrg sii nose porque
-[03:40:22] [Server thread/INFO]: [Not Secure] <Akalixy> recien me doy cuenta
-[03:40:27] [Server thread/INFO]: [Not Secure] <Akalixy> otra vez hable sola xd
-[03:46:14] [Server thread/INFO]: El_Andrew22 teleported to 154.0 68.0 -770.0 minecraft:overworld
-[03:46:26] [Server thread/INFO]: El_Andrew22 teleported to -426.5 69.0 -326.5 minecraft:overworld
-[03:46:58] [Server thread/INFO]: El_Andrew22 teleported to 14.0 102.0 -785.0 minecraft:overworld
-[03:47:12] [Server thread/INFO]: Villager class_1646['Unemployed'/18205, l='ServerLevel[world]', x=30.27, y=66.00, z=-789.50] died, message: 'Unemployed hit the ground too hard'
-[03:47:36] [Server thread/INFO]: El_Andrew22 teleported to -426.5 69.0 -326.5 minecraft:overworld
-[03:50:33] [Server thread/INFO]: minecraft:salmon
-[03:54:36] [Server thread/INFO]: Named entity class_5762['Tulio'/15438, l='ServerLevel[world]', x=-434.81, y=56.95, z=-304.85] died: Tulio was slain by Drowned
-[03:56:36] [Server thread/INFO]: El_Andrew22 has made the advancement [What a Deal!]
-[03:59:39] [Server thread/INFO]: [El_Andrew22: Teleported Akalixy to El_Andrew22]
-[04:08:02] [Server thread/INFO]: [Not Secure] <El_Andrew22> EY
-[04:08:06] [Server thread/INFO]: [Not Secure] <El_Andrew22> colgaste?
-[04:08:08] [Server thread/INFO]: [Not Secure] <El_Andrew22> ?
-[04:08:25] [Server thread/INFO]: [Not Secure] <Akalixy> no we
-[04:15:00] [Server thread/INFO]: [El_Andrew22: Teleported Akalixy to El_Andrew22]
-[04:16:53] [Server thread/INFO]: El_Andrew22 teleported to -426.5 69.0 -326.5 minecraft:overworld
-[04:19:10] [Server thread/INFO]: [El_Andrew22: Teleported Akalixy to El_Andrew22]
-[04:20:17] [Server thread/INFO]: minecraft:bat
-[04:21:45] [Server thread/INFO]: [El_Andrew22: Teleported Akalixy to El_Andrew22]
-[04:22:28] [Server thread/INFO]: El_Andrew22 lost connection: Disconnected
-[04:22:28] [Server thread/INFO]: El_Andrew22 left the game
-[04:22:29] [Server thread/INFO]: Akalixy lost connection: Disconnected
-[04:22:29] [Server thread/INFO]: Akalixy left the game
-[04:22:43] [Server thread/INFO]: Stopping the server
-[04:22:43] [Server thread/INFO]: Stopping server
-[04:22:43] [Server thread/INFO]: Saving players
-[04:22:43] [Server thread/INFO]: Saving worlds
-[04:22:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[04:22:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/the_bumblezone:the_bumblezone
-[04:22:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
-[04:22:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[04:22:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[04:22:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[04:22:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (the_bumblezone): All chunks are saved
-[04:22:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
-[04:22:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[04:22:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[04:22:43] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[04:22:43] [Server thread/INFO]: Dispatching unloading event for config enchantinginfuser-server.toml
+[23:16:13] [main/INFO]: Loaded 3898 recipes
+[23:16:13] [main/ERROR]: Parsing error loading custom advancement dungeons_arise:find_thornborn_towers: No key id in MapLike[{"item":"minecraft:rose_bush"}]
+[23:16:13] [main/ERROR]: Parsing error loading custom advancement dungeons_arise:find_illager_corsair_or_illager_galley: No key id in MapLike[{"item":"minecraft:tropical_fish"}]
+[23:16:13] [main/ERROR]: Parsing error loading custom advancement dungeons_arise:find_keep_kayra: No key id in MapLike[{"item":"minecraft:lily_pad"}]
+[23:16:13] [main/ERROR]: Parsing error loading custom advancement dungeons_arise:find_infested_temple_map: No key id in MapLike[{"item":"minecraft:filled_map"}]
+[23:16:13] [main/ERROR]: Parsing error loading custom advancement dungeons_arise:find_greenwood_pub: No key id in MapLike[{"item":"minecraft:barrel"}]
+[23:16:13] [main/ERROR]: Couldn't load advancements: [dungeons_arise:find_plague_asylum, minecraft:wander_add_map, dungeons_arise:find_fishing_hut, minecraft:give_quest_trader_trade]
+[23:16:13] [main/INFO]: Loaded 2773 advancements
+[23:16:13] [main/INFO]: Loaded 32 entity animations
+[23:16:13] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:scavenging_smoked_ham_from_hoglin - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_item
+[23:16:13] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:straw_from_sandy_shrub - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_item
+[23:16:13] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:slicing_apple_pie - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:pastry_slicing
+[23:16:13] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:slicing_cake - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:pastry_slicing
+[23:16:13] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:add_loot_abandoned_mineshaft - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_loot_table
+[23:16:13] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:scavenging_ham_from_hoglin - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_item
+[23:16:13] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:straw_from_grass - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_item
+[23:16:13] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:scavenging_shulker_shell - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_item
+[23:16:13] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:scavenging_string - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_item
+[23:16:13] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:scavenging_pumpkin - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:replace_item
+[23:16:13] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:add_loot_end_city_treasure - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_loot_table
+[23:16:13] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:scavenging_ham_from_pig - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_item
+[23:16:13] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:slicing_chocolate_pie - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:pastry_slicing
+[23:16:13] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:straw_from_tall_grass - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_item
+[23:16:13] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:slicing_candle_cake - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_item
+[23:16:13] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:slicing_sweet_berry_cheesecake - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:pastry_slicing
+[23:16:13] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:straw_from_mature_wheat - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_item
+[23:16:13] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:scavenging_leather - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_item
+[23:16:13] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:add_loot_shipwreck_supply - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_loot_table
+[23:16:13] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:add_loot_simple_dungeon - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_loot_table
+[23:16:13] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:straw_from_mature_rice - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_item
+[23:16:13] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:scavenging_feather - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_item
+[23:16:13] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:scavenging_rabbit_hide - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_item
+[23:16:13] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:add_loot_village_snowy_house - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_loot_table
+[23:16:13] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:add_loot_village_desert_house - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_loot_table
+[23:16:13] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:add_loot_bastion_treasure - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_loot_table
+[23:16:13] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:add_loot_pillager_outpost - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_loot_table
+[23:16:13] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:add_loot_village_plains_house - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_loot_table
+[23:16:13] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:add_loot_village_taiga_house - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_loot_table
+[23:16:13] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:scavenging_smoked_ham_from_pig - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_item
+[23:16:13] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:add_loot_village_butcher - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_loot_table
+[23:16:13] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:add_loot_ruined_portal - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_loot_table
+[23:16:13] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:add_loot_bastion_hoglin_stable - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_loot_table
+[23:16:13] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:add_loot_village_savanna_house - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_loot_table
+[23:16:14] [main/INFO]: Applied 1398 biome modifications to 166 of 180 new biomes in 55.54 ms
+[23:16:14] [Server thread/INFO]: Dispatching loading event for config enchantinginfuser-server.toml
+[23:16:14] [Server thread/INFO]: Starting background profiler...
+[23:16:14] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[23:16:14] [Server thread/INFO]: Loading properties
+[23:16:14] [Server thread/INFO]: Default game type: SURVIVAL
+[23:16:14] [Server thread/INFO]: Generating keypair
+[23:16:14] [Server thread/INFO]: Starting Minecraft server on *:25565
+[23:16:14] [Server thread/INFO]: Using epoll channel type
+[23:16:14] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[23:16:14] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[23:16:14] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[23:16:14] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[23:16:14] [Server thread/INFO]: Preparing level "world"
+[23:16:15] [Server thread/INFO]: Ksyxis: Hey. This is Ksyxis. We will now load the world and will try to do it quickly. If the game is not responding after this, it's probably us to blame or delete for good. This message appears always, even if the mod works flawlessly. (modern)
+[23:16:15] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[23:16:15] [Server thread/WARN]: Method overwrite conflict for removeIf in modernfix-common.mixins.json:bugfix.paper_chunk_patches.SortedArraySetMixin from mod modernfix, previously written by net.caffeinemc.mods.lithium.mixin.collections.chunk_tickets.SortedArraySetMixin. Skipping method.
+[23:16:15] [Server thread/INFO]: Time elapsed: 47 ms
+[23:16:15] [Server thread/INFO]: Done (0.799s)! For help, type "help"
+[23:16:15] [Server thread/WARN]: Dedicated server took 25.035 seconds to load
+[23:16:15] [Server thread/INFO]: Start loading plugin from Exposure: io.github.mortuusars.exposure.integration.jade.ExposureJadePlugin
+[23:16:15] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.core.CorePlugin
+[23:16:15] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.vanilla.VanillaPlugin
+[23:16:15] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.universal.UniversalPlugin
+[23:16:15] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.access.AccessibilityPlugin
+[23:16:15] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.debug.DebugPlugin
+[23:16:15] [Server thread/INFO]: Loaded null for service interface journeymap.api.services.WebMapService
+[23:16:15] [Server thread/INFO]: Loaded journeymap.common.helpers.FabricClientHooks@486cc5cd for service interface journeymap.api.services.ClientPlatformService
+[23:16:15] [Server thread/INFO]: Loaded journeymap.common.helpers.FabricHooks@29dc404a for service interface journeymap.api.services.CommonPlatformService
+[23:17:52] [Server thread/INFO]: [STDOUT]: Lithium Cached BlockState Flags are disabled!
+[23:17:52] [Server thread/INFO]: El_Andrew22[/100.99.232.91:59136] logged in with entity id 20 at (-431.2543370473296, 68.0, -351.05077042269863)
+[23:17:52] [Server thread/INFO]: Reading config values from file.
+[23:17:52] [Server thread/INFO]: El_Andrew22 joined the game
+[23:17:52] [Server thread/INFO]: Sending item configs to client

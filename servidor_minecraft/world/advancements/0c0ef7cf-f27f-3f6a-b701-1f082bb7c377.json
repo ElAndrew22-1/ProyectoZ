@@ -6264,93 +6264,27 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "incendium:misc/loot_piglin_village": {
     "criteria": {
-      "log_spam_fixer": "2025-05-10 04:21:42 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-10 04:21:42 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-10 04:21:42 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-10 04:21:42 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-10 04:21:42 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-10 04:21:42 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-10 04:21:42 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-10 04:21:42 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-10 04:21:42 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-10 04:21:42 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-10 04:21:42 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-10 04:21:42 +0000"
-    },
-    "done": false
-  },
-  "handcrafted:recipes/misc/warped_nightstand": {
-    "criteria": {
-      "has_warped_nightstand": "2025-05-10 03:47:06 +0000"
+      "incendium:low": "2025-05-10 02:51:09 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/food/smoked_ham": {
+  "minecraft:recipes/building_blocks/crimson_planks": {
     "criteria": {
-      "has_ham": "2025-05-10 03:10:31 +0000"
+      "has_logs": "2025-05-10 02:54:32 +0000"
     },
     "done": true
   },
-  "mcwwindows:recipes/warped": {
+  "minecraft:recipes/decorations/crimson_hanging_sign": {
     "criteria": {
-      "has_wood": "2025-05-10 02:54:38 +0000"
+      "has_stripped_logs": "2025-05-10 02:54:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_crimson_hyphae": {
+    "criteria": {
+      "has_log": "2025-05-10 02:54:32 +0000"
     },
     "done": true
   },
@@ -6360,15 +6294,87 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/quartz_bricks": {
+  "mcwdoors:recipes/crimson": {
     "criteria": {
-      "has_quartz_block": "2025-05-10 04:01:14 +0000"
+      "has_wood": "2025-05-10 02:54:34 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_cod_from_smoking": {
+  "minecraft:recipes/building_blocks/crimson_hyphae": {
     "criteria": {
-      "has_cod": "2025-05-10 03:47:28 +0000"
+      "has_log": "2025-05-10 02:54:34 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/crimson": {
+    "criteria": {
+      "has_wood": "2025-05-10 02:54:34 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/warped": {
+    "criteria": {
+      "has_wood": "2025-05-10 02:54:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_hyphae": {
+    "criteria": {
+      "has_log": "2025-05-10 02:54:38 +0000"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/warped": {
+    "criteria": {
+      "has_wood": "2025-05-10 02:54:38 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/warped": {
+    "criteria": {
+      "has_wood": "2025-05-10 02:54:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_planks": {
+    "criteria": {
+      "has_logs": "2025-05-10 02:54:38 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/smoked_ham": {
+    "criteria": {
+      "has_ham": "2025-05-10 03:10:31 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/gold_nugget_from_smelting_knife": {
+    "criteria": {
+      "has_golden_knife": "2025-05-10 03:13:46 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/gold_nugget_from_blasting_knife": {
+    "criteria": {
+      "has_golden_knife": "2025-05-10 03:13:46 +0000"
+    },
+    "done": true
+  },
+  "incendium:quartz_flats/floor_is_tears": {
+    "criteria": {
+      "requirement": "2025-05-10 03:17:05 +0000"
+    },
+    "done": true
+  },
+  "incendium:quartz_flats/root": {
+    "criteria": {
+      "requirement": "2025-05-10 03:17:05 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/warped_nightstand": {
+    "criteria": {
+      "has_warped_nightstand": "2025-05-10 03:47:06 +0000"
     },
     "done": true
   },
@@ -6384,24 +6390,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/crimson_planks": {
-    "criteria": {
-      "has_logs": "2025-05-10 02:54:32 +0000"
-    },
-    "done": true
-  },
-  "mcwdoors:recipes/crimson": {
-    "criteria": {
-      "has_wood": "2025-05-10 02:54:34 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/quartz_corner_trim": {
-    "criteria": {
-      "has_quartz_corner_trim": "2025-05-10 04:01:14 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/warped_fence_gate": {
     "criteria": {
       "has_planks": "2025-05-10 03:47:06 +0000"
@@ -6411,42 +6399,6 @@
   "handcrafted:recipes/misc/warped_side_table": {
     "criteria": {
       "has_warped_side_table": "2025-05-10 03:47:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
-    "criteria": {
-      "has_quartz_block": "2025-05-10 04:01:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/netherite_ingot": {
-    "criteria": {
-      "has_netherite_scrap": "2025-05-10 03:59:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
-    "criteria": {
-      "has_quartz_block": "2025-05-10 04:01:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/warped_hyphae": {
-    "criteria": {
-      "has_log": "2025-05-10 02:54:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/crimson_hanging_sign": {
-    "criteria": {
-      "has_stripped_logs": "2025-05-10 02:54:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/trade": {
-    "criteria": {
-      "traded": "2025-05-10 03:56:36 +0000"
     },
     "done": true
   },
@@ -6486,45 +6438,15 @@
     },
     "done": true
   },
-  "incendium:misc/loot_piglin_village": {
-    "criteria": {
-      "incendium:low": "2025-05-10 02:51:09 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/warped_shelf": {
     "criteria": {
       "has_warped_shelf": "2025-05-10 03:47:06 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/smooth_quartz": {
-    "criteria": {
-      "has_quartz_block": "2025-05-10 04:01:14 +0000"
-    },
-    "done": true
-  },
-  "incendium:quartz_flats/floor_is_tears": {
-    "criteria": {
-      "requirement": "2025-05-10 03:17:05 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/warped_dining_bench": {
     "criteria": {
       "has_warped_dining_bench": "2025-05-10 03:47:06 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/misc/gold_nugget_from_smelting_knife": {
-    "criteria": {
-      "has_golden_knife": "2025-05-10 03:13:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
-    "criteria": {
-      "has_quartz_block": "2025-05-10 04:01:14 +0000"
     },
     "done": true
   },
@@ -6552,45 +6474,9 @@
     },
     "done": true
   },
-  "incendium:quartz_flats/root": {
-    "criteria": {
-      "requirement": "2025-05-10 03:17:05 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/misc/gold_nugget_from_blasting_knife": {
-    "criteria": {
-      "has_golden_knife": "2025-05-10 03:13:46 +0000"
-    },
-    "done": true
-  },
-  "mcwdoors:recipes/warped": {
-    "criteria": {
-      "has_wood": "2025-05-10 02:54:38 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/quartz_pillar_trim": {
-    "criteria": {
-      "has_quartz_pillar_trim": "2025-05-10 04:01:14 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/warped_slab": {
     "criteria": {
       "has_planks": "2025-05-10 03:47:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/crimson_hyphae": {
-    "criteria": {
-      "has_log": "2025-05-10 02:54:34 +0000"
-    },
-    "done": true
-  },
-  "mcwfurnitures:recipes/warped": {
-    "criteria": {
-      "has_wood": "2025-05-10 02:54:38 +0000"
     },
     "done": true
   },
@@ -6600,57 +6486,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stripped_crimson_hyphae": {
-    "criteria": {
-      "has_log": "2025-05-10 02:54:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
-    "criteria": {
-      "has_quartz_block": "2025-05-10 04:01:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
-    "criteria": {
-      "has_cod": "2025-05-10 03:47:28 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/warped_couch": {
     "criteria": {
       "has_warped_couch": "2025-05-10 03:47:06 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
-    "criteria": {
-      "has_quartz_block": "2025-05-10 04:01:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/warped_planks": {
-    "criteria": {
-      "has_logs": "2025-05-10 02:54:38 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/warped_fence": {
     "criteria": {
       "has_planks": "2025-05-10 03:47:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_cod": {
-    "criteria": {
-      "has_cod": "2025-05-10 03:47:28 +0000"
-    },
-    "done": true
-  },
-  "mcwwindows:recipes/crimson": {
-    "criteria": {
-      "has_wood": "2025-05-10 02:54:34 +0000"
     },
     "done": true
   },
@@ -6669,6 +6513,90 @@
   "handcrafted:recipes/misc/warped_counter": {
     "criteria": {
       "has_warped_counter": "2025-05-10 03:47:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-05-10 03:47:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-05-10 03:47:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-05-10 03:47:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-05-10 03:56:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2025-05-10 03:59:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks": {
+    "criteria": {
+      "has_quartz_block": "2025-05-10 04:01:14 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/quartz_corner_trim": {
+    "criteria": {
+      "has_quartz_corner_trim": "2025-05-10 04:01:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-05-10 04:01:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-05-10 04:01:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz": {
+    "criteria": {
+      "has_quartz_block": "2025-05-10 04:01:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-05-10 04:01:14 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/quartz_pillar_trim": {
+    "criteria": {
+      "has_quartz_pillar_trim": "2025-05-10 04:01:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-05-10 04:01:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-05-10 04:01:14 +0000"
     },
     "done": true
   },
