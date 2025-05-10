@@ -866,3 +866,13 @@ com.google.gson.JsonParseException: Not a JSON object: "deeperdarker:bloom_plank
 [03:18:36] [Server thread/INFO]: Tree reached max size of 100
 [03:18:36] [Server thread/INFO]: Tree reached max size of 100
 [03:23:39] [Server thread/INFO]: El_Andrew22 teleported to 1070.0 47.0 124.0 minecraft:the_nether
+[03:37:54] [Server thread/INFO]: El_Andrew22 teleported to 1131.0 42.0 197.0 minecraft:the_nether
+[03:37:55] [Worker-Main-14/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/14608, l='ServerLevel[world]', x=1297.00, y=31.00, z=310.00] as it would cause deadlock
+[03:37:55] [Worker-Main-14/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/14610, l='ServerLevel[world]', x=1302.00, y=31.00, z=324.00] as it would cause deadlock
+[03:37:55] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/14616, l='ServerLevel[world]', x=1297.00, y=31.00, z=310.00] as it would cause deadlock
+[03:37:55] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/14618, l='ServerLevel[world]', x=1302.00, y=31.00, z=324.00] as it would cause deadlock
+[03:39:19] [Server thread/INFO]: El_Andrew22 teleported to 22.5 62.0 13.5 minecraft:the_nether
+[03:39:27] [Server thread/INFO]: [El_Andrew22: Teleported Akalixy to El_Andrew22]
+[03:39:44] [Server thread/INFO]: [Not Secure] <El_Andrew22> oie
+[03:39:51] [Server thread/INFO]: [Not Secure] <El_Andrew22> sono el tutu
+[03:39:51] [Server thread/INFO]: [Not Secure] <Akalixy> eu
