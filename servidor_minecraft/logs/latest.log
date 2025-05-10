@@ -825,3 +825,43 @@ com.google.gson.JsonParseException: Not a JSON object: "deeperdarker:bloom_plank
 [02:46:00] [Worker-Main-17/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
 [02:46:00] [Worker-Main-15/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
 [02:46:00] [Worker-Main-15/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[02:49:36] [Server thread/INFO]: Akalixy has reached the goal [Piglin Pillage]
+[02:51:09] [Server thread/INFO]: El_Andrew22 has reached the goal [Piglin Pillage]
+[02:53:08] [Worker-Main-14/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[02:53:08] [Worker-Main-14/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[02:53:08] [Worker-Main-14/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[02:57:41] [Server thread/INFO]: El_Andrew22 teleported to 625.0 63.0 261.0 minecraft:the_nether
+[02:57:58] [Server thread/INFO]: El_Andrew22 teleported to 631.0 71.0 244.0 minecraft:the_nether
+[03:03:02] [Server thread/INFO]: minecraft:hoglin
+[03:06:44] [Server thread/INFO]: [El_Andrew22: Teleported Akalixy to El_Andrew22]
+[03:07:50] [Server thread/INFO]: El_Andrew22 teleported to 812.0 60.0 281.0 minecraft:the_nether
+[03:08:14] [Server thread/INFO]: [El_Andrew22: Teleported Akalixy to El_Andrew22]
+[03:08:21] [Server thread/INFO]: [El_Andrew22: Teleported Akalixy to El_Andrew22]
+[03:08:23] [Server thread/INFO]: [El_Andrew22: Teleported Akalixy to El_Andrew22]
+[03:08:25] [Server thread/INFO]: [El_Andrew22: Teleported Akalixy to El_Andrew22]
+[03:08:33] [Server thread/INFO]: [El_Andrew22: Teleported Akalixy to El_Andrew22]
+[03:10:16] [Server thread/INFO]: [El_Andrew22: Teleported Akalixy to El_Andrew22]
+[03:12:32] [Server thread/INFO]: minecraft:piglin
+[03:12:41] [Server thread/INFO]: minecraft:piglin
+[03:16:57] [Server thread/INFO]: minecraft:piglin
+[03:17:02] [Server thread/INFO]: minecraft:skeleton
+[03:17:05] [Server thread/INFO]: El_Andrew22 has made the advancement [Hellish Paradise]
+[03:17:05] [Server thread/INFO]: El_Andrew22 has made the advancement [The Floor is Tears]
+[03:17:16] [Server thread/INFO]: El_Andrew22 has completed the challenge [Hot Tourist Destinations]
+[03:17:22] [Server thread/INFO]: Akalixy has made the advancement [The Floor is Tears]
+[03:17:22] [Server thread/INFO]: Akalixy has made the advancement [Hellish Paradise]
+[03:17:39] [Server thread/INFO]: minecraft:piglin
+[03:17:43] [Server thread/INFO]: Akalixy has completed the challenge [Hot Tourist Destinations]
+[03:17:45] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=990, y=34, z=152}) doesn't have enough leaves around top most log
+[03:17:46] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=990, y=33, z=152}) doesn't have enough leaves around top most log
+[03:17:47] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=990, y=35, z=152}) doesn't have enough leaves around top most log
+[03:17:47] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=990, y=36, z=152}) doesn't have enough leaves around top most log
+[03:17:48] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=990, y=37, z=152}) doesn't have enough leaves around top most log
+[03:17:48] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=990, y=38, z=152}) doesn't have enough leaves around top most log
+[03:17:49] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=990, y=39, z=152}) doesn't have enough leaves around top most log
+[03:17:57] [Server thread/INFO]: Tree reached max size of 100
+[03:18:34] [Server thread/INFO]: Tree reached max size of 100
+[03:18:35] [Server thread/INFO]: Tree reached max size of 100
+[03:18:35] [Server thread/INFO]: Tree reached max size of 100
+[03:18:36] [Server thread/INFO]: Tree reached max size of 100
+[03:18:36] [Server thread/INFO]: Tree reached max size of 100
