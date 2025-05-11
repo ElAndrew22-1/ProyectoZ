@@ -6654,6 +6654,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cyan_carpet": {
+    "criteria": {
+      "has_cyan_wool": "2025-05-11 00:29:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_black_carpet": {
     "criteria": {
       "has_needed_dye": "2025-05-10 23:55:13 +0000"
@@ -6663,6 +6669,12 @@
   "minecraft:recipes/misc/magenta_sheet_from_magenta_dye": {
     "criteria": {
       "has_magenta_sheet": "2025-05-11 00:19:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_bed": {
+    "criteria": {
+      "has_cyan_wool": "2025-05-11 00:29:53 +0000"
     },
     "done": true
   },
@@ -6690,6 +6702,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/cyan_cushion": {
+    "criteria": {
+      "has_cyan_cushion": "2025-05-11 00:29:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/orange_sheet_from_orange_dye": {
     "criteria": {
       "has_orange_sheet": "2025-05-11 00:19:46 +0000"
@@ -6699,6 +6717,18 @@
   "minecraft:recipes/building_blocks/dye_black_bed": {
     "criteria": {
       "has_needed_dye": "2025-05-10 23:55:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_banner": {
+    "criteria": {
+      "has_cyan_wool": "2025-05-11 00:29:53 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/cyan_sheet": {
+    "criteria": {
+      "has_cyan_sheet": "2025-05-11 00:29:53 +0000"
     },
     "done": true
   },
