@@ -6636,6 +6636,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-05-11 01:17:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_blue_sheet_from_light_blue_dye": {
     "criteria": {
       "has_light_blue_sheet": "2025-05-11 00:19:46 +0000"

@@ -12,3 +12,25 @@
 [00:42:07] [Server thread/INFO]: Named entity class_5762['Pichula'/119, l='ServerLevel[world]', x=-433.31, y=62.71, z=-311.31] died: Pichula died from dehydration
 [00:44:47] [Server thread/INFO]: Named entity class_5762['Juan Carlos Bodoque'/122, l='ServerLevel[world]', x=-431.01, y=62.71, z=-311.31] died: Juan Carlos Bodoque died from dehydration
 [00:44:51] [Server thread/INFO]: minecraft:bat
+[00:57:09] [Server thread/INFO]: minecraft:bat
+[01:05:10] [Server thread/INFO]: minecraft:cave_spider
+[01:17:15] [Server thread/INFO]: Named entity class_1439['Rompedor 3000'/231, l='ServerLevel[world]', x=-431.30, y=68.00, z=-341.99] died: Rompedor 3000 was shot by El_Andrew22
+[01:25:17] [Server thread/INFO]: [El_Andrew22: Gave 64 [Block of Quartz] to El_Andrew22]
+[01:26:21] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=-421, y=62, z=-354}) doesn't have enough leaves around top most log
+[01:26:22] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=-421, y=61, z=-354}) doesn't have enough leaves around top most log
+[01:26:22] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=-422, y=61, z=-354}) doesn't have enough leaves around top most log
+[01:26:30] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=-423, y=62, z=-355}) doesn't have enough leaves around top most log
+[01:26:31] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=-423, y=63, z=-355}) doesn't have enough leaves around top most log
+[01:26:31] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=-423, y=64, z=-355}) doesn't have enough leaves around top most log
+[01:26:31] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=-423, y=63, z=-356}) doesn't have enough leaves around top most log
+[01:26:32] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=-423, y=64, z=-356}) doesn't have enough leaves around top most log
+[01:26:32] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=-423, y=61, z=-355}) doesn't have enough leaves around top most log
+[01:26:33] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=-423, y=61, z=-356}) doesn't have enough leaves around top most log
+[01:26:40] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=-423, y=61, z=-354}) doesn't have enough leaves around top most log
+[01:26:41] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=-423, y=62, z=-354}) doesn't have enough leaves around top most log
+[01:26:41] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=-423, y=63, z=-354}) doesn't have enough leaves around top most log
+[01:26:42] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=-423, y=64, z=-354}) doesn't have enough leaves around top most log
+[01:26:48] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=-425, y=61, z=-354}) doesn't have enough leaves around top most log
+[01:26:49] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=-425, y=62, z=-354}) doesn't have enough leaves around top most log
+[01:26:49] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=-425, y=63, z=-354}) doesn't have enough leaves around top most log
+[01:26:49] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=-425, y=64, z=-354}) doesn't have enough leaves around top most log
