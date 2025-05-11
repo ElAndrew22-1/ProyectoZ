@@ -137,3 +137,45 @@
 [01:46:39] [Server thread/INFO]: El_Andrew22 teleported to -426.5 61.0 -350.5 minecraft:overworld
 [01:46:46] [Server thread/INFO]: El_Andrew22 teleported to -426.5 69.0 -326.5 minecraft:overworld
 [01:46:54] [Server thread/INFO]: El_Andrew22 teleported to -426.5 61.0 -350.5 minecraft:overworld
+[01:47:12] [Server thread/INFO]: El_Andrew22 teleported to -426.5 69.0 -326.5 minecraft:overworld
+[01:47:50] [Server thread/INFO]: minecraft:zombie
+[01:48:47] [Server thread/INFO]: El_Andrew22 teleported to -426.5 61.0 -350.5 minecraft:overworld
+[01:48:58] [Server thread/INFO]: El_Andrew22 teleported to -426.5 69.0 -326.5 minecraft:overworld
+[01:49:05] [Server thread/INFO]: El_Andrew22 teleported to -426.5 61.0 -350.5 minecraft:overworld
+[01:49:44] [Server thread/INFO]: El_Andrew22 teleported to -426.5 69.0 -326.5 minecraft:overworld
+[01:50:22] [Server thread/INFO]: El_Andrew22 teleported to -426.5 61.0 -350.5 minecraft:overworld
+[01:50:35] [Server thread/INFO]: El_Andrew22 teleported to -426.5 69.0 -326.5 minecraft:overworld
+[01:50:43] [Server thread/INFO]: El_Andrew22 teleported to -426.5 61.0 -350.5 minecraft:overworld
+[01:50:52] [Server thread/INFO]: El_Andrew22 teleported to -426.5 69.0 -326.5 minecraft:overworld
+[01:51:04] [Server thread/INFO]: El_Andrew22 teleported to -426.5 61.0 -350.5 minecraft:overworld
+[01:52:06] [Server thread/INFO]: El_Andrew22 teleported to -426.5 69.0 -326.5 minecraft:overworld
+[01:52:12] [Server thread/INFO]: El_Andrew22 teleported to -426.5 61.0 -350.5 minecraft:overworld
+[01:52:26] [Server thread/INFO]: El_Andrew22 teleported to -426.5 69.0 -326.5 minecraft:overworld
+[01:52:35] [Server thread/INFO]: El_Andrew22 teleported to -426.5 61.0 -350.5 minecraft:overworld
+[01:53:01] [Server thread/INFO]: El_Andrew22 teleported to -426.5 69.0 -326.5 minecraft:overworld
+[01:53:08] [Server thread/INFO]: El_Andrew22 teleported to -426.5 61.0 -350.5 minecraft:overworld
+[01:53:18] [Server thread/INFO]: El_Andrew22 teleported to -426.5 69.0 -326.5 minecraft:overworld
+[01:53:28] [Server thread/INFO]: El_Andrew22 teleported to -426.5 69.0 -326.5 minecraft:overworld
+[01:53:30] [Server thread/INFO]: El_Andrew22 teleported to -426.5 61.0 -350.5 minecraft:overworld
+[01:53:39] [Server thread/INFO]: El_Andrew22 teleported to -426.5 69.0 -326.5 minecraft:overworld
+[01:53:46] [Server thread/INFO]: El_Andrew22 teleported to -426.5 61.0 -350.5 minecraft:overworld
+[01:53:53] [Server thread/INFO]: Named entity class_5762['Ajonjolí'/25102, l='ServerLevel[world]', x=-431.01, y=62.71, z=-311.31] died: Ajonjolí died from dehydration
+[01:53:58] [Server thread/INFO]: El_Andrew22 teleported to -426.5 69.0 -326.5 minecraft:overworld
+[01:55:02] [Server thread/INFO]: El_Andrew22 lost connection: Disconnected
+[01:55:02] [Server thread/INFO]: El_Andrew22 left the game
+[01:55:18] [Server thread/INFO]: Stopping the server
+[01:55:18] [Server thread/INFO]: Stopping server
+[01:55:18] [Server thread/INFO]: Saving players
+[01:55:18] [Server thread/INFO]: Saving worlds
+[01:55:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[01:55:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[01:55:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/the_bumblezone:the_bumblezone
+[01:55:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[01:55:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[01:55:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:55:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[01:55:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (the_bumblezone): All chunks are saved
+[01:55:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:55:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:55:18] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[01:55:18] [Server thread/INFO]: Dispatching unloading event for config enchantinginfuser-server.toml
